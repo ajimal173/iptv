@@ -1,6 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi",UTV Action
+#http://103.81.104.118/hls/stream7.m3u8
+http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Avi JioTV",Colors Cineplex HD
 https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=800&e=.m3u8

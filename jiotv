@@ -56,6 +56,76 @@ https://jio.instream.ml/jio.php?c=ID&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="Avi JioTV",Arre HD
 https://jio.instream.ml/jio.php?c=Arre&q=800&e=.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="Avi JioTV",I News
+https://jio.instream.ml/jio.php?c=I_News&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Avi JioTV",MK Music
+https://jio.instream.ml/jio.php?c=MK_Music&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Avi JioTV",History TV18 HD Tamil
+https://jio.instream.ml/jio.php?c=History_18_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Avi JioTV",Sony BBC Earth HD Tamil
+https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Avi JioTV",DD Saptagiri
+https://jio.instream.ml/jio.php?c=DD_Saptagiri&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Avi JioTV",Zee Tamil
+https://jio.instream.ml/jio.php?c=Zee_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Avi JioTV",Kalaignar TV
+https://jio.instream.ml/jio.php?c=Kalaignar_TV&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Avi JioTV",Raj TV
+https://jio.instream.ml/jio.php?c=Raj_TV&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Avi JioTV",Puthiya Thalimurai
+https://jio.instream.ml/jio.php?c=Puthiya_Thalimurai&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Avi JioTV",Vasanth TV
+https://jio.instream.ml/jio.php?c=Vasanth_TV&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Avi JioTV",Jaya Max
+https://jio.instream.ml/jio.php?c=Jaya_Max&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Avi JioTV",Polimer TV
+https://jio.instream.ml/jio.php?c=Polimer_TV&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Avi JioTV",Thanthi TV
+https://jio.instream.ml/jio.php?c=Thanthi_TV&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Avi JioTV",Makkal TV
+https://jio.instream.ml/jio.php?c=Makkal_TV&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Avi JioTV",Jaya Plus
+https://jio.instream.ml/jio.php?c=Jaya_Plus&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Avi JioTV",J Movies
+https://jio.instream.ml/jio.php?c=J_Movies&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Avi JioTV",News7 Tamil
+https://jio.instream.ml/jio.php?c=News7_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Avi JioTV",Polimer News
+https://jio.instream.ml/jio.php?c=Polimer_News&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Avi JioTV",News 18 Tamilnadu
+https://jio.instream.ml/jio.php?c=News_18_Tamilnadu&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Avi JioTV",Kalaignar Seithigal 
+https://jio.instream.ml/jio.php?c=Kalaignar_Seithigal_&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Avi JioTV",Raj Digital Plus
+https://jio.instream.ml/jio.php?c=Raj_Digital_Plus&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Avi JioTV",Raj Musix
+https://jio.instream.ml/jio.php?c=Raj_Musix&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Avi JioTV",Colors Tamil HD
+https://jio.instream.ml/jio.php?c=Colors_Tamil_HD&q=800&e=.m3u8
+
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Avi JioTV",Dangal
 https://jio.instream.ml/jio.php?c=Dangal&q=800&e=.m3u8
 
@@ -1114,75 +1184,6 @@ https://jio.instream.ml/jio.php?c=Raj_Music_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV1.png" group-title="Avi JioTV",TV1
 https://jio.instream.ml/jio.php?c=TV1&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="Avi JioTV",I News
-https://jio.instream.ml/jio.php?c=I_News&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Avi JioTV",MK Music
-https://jio.instream.ml/jio.php?c=MK_Music&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Avi JioTV",History TV18 HD Tamil
-https://jio.instream.ml/jio.php?c=History_18_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Avi JioTV",Sony BBC Earth HD Tamil
-https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Avi JioTV",DD Saptagiri
-https://jio.instream.ml/jio.php?c=DD_Saptagiri&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Avi JioTV",Zee Tamil
-https://jio.instream.ml/jio.php?c=Zee_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Avi JioTV",Kalaignar TV
-https://jio.instream.ml/jio.php?c=Kalaignar_TV&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Avi JioTV",Raj TV
-https://jio.instream.ml/jio.php?c=Raj_TV&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Avi JioTV",Puthiya Thalimurai
-https://jio.instream.ml/jio.php?c=Puthiya_Thalimurai&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Avi JioTV",Vasanth TV
-https://jio.instream.ml/jio.php?c=Vasanth_TV&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Avi JioTV",Jaya Max
-https://jio.instream.ml/jio.php?c=Jaya_Max&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Avi JioTV",Polimer TV
-https://jio.instream.ml/jio.php?c=Polimer_TV&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Avi JioTV",Thanthi TV
-https://jio.instream.ml/jio.php?c=Thanthi_TV&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Avi JioTV",Makkal TV
-https://jio.instream.ml/jio.php?c=Makkal_TV&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Avi JioTV",Jaya Plus
-https://jio.instream.ml/jio.php?c=Jaya_Plus&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Avi JioTV",J Movies
-https://jio.instream.ml/jio.php?c=J_Movies&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Avi JioTV",News7 Tamil
-https://jio.instream.ml/jio.php?c=News7_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Avi JioTV",Polimer News
-https://jio.instream.ml/jio.php?c=Polimer_News&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Avi JioTV",News 18 Tamilnadu
-https://jio.instream.ml/jio.php?c=News_18_Tamilnadu&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Avi JioTV",Kalaignar Seithigal 
-https://jio.instream.ml/jio.php?c=Kalaignar_Seithigal_&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Avi JioTV",Raj Digital Plus
-https://jio.instream.ml/jio.php?c=Raj_Digital_Plus&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Avi JioTV",Raj Musix
-https://jio.instream.ml/jio.php?c=Raj_Musix&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Avi JioTV",Colors Tamil HD
-https://jio.instream.ml/jio.php?c=Colors_Tamil_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="Avi JioTV",Dighvijay TV
 https://jio.instream.ml/jio.php?c=Dighvijay_TV&q=800&e=.m3u8
@@ -2245,4 +2246,3 @@ https://jio.instream.ml/jio.php?c=Sarvamangala&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="Avi JioTV",AB News
 https://jio.instream.ml/jio.php?c=AB_News&q=800&e=.m3u8
-

@@ -165,6 +165,28 @@ https://jio.instream.ml/jio.php?c=TLC_English&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Avi JioTV",TLC Hindi
 https://jio.instream.ml/jio.php?c=TLC_Hindi&q=800&e=.m3u8
 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Avi JioTV",CN HD+ Tamil
+https://jio.instream.ml/jio.php?c=CN_HD_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Avi JioTV",Cartoon Network Tamil
+https://jio.instream.ml/jio.php?c=Cartoon_Network_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Avi JioTV",Pogo Tamil
+https://jio.instream.ml/jio.php?c=Pogo_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Avi JioTV",Nick Tamil
+https://jio.instream.ml/jio.php?c=Nick_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Avi JioTV",sonic Tamil
+https://jio.instream.ml/jio.php?c=sonic_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Avi JioTV",Sony Yay Tamil
+https://jio.instream.ml/jio.php?c=Sony_Yay_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Avi JioTV",Discovery Kids Tamil
+https://jio.instream.ml/jio.php?c=Discovery_Kids_Tamil&q=800&e=.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Avi JioTV",Dangal
 https://jio.instream.ml/jio.php?c=Dangal&q=800&e=.m3u8
 
@@ -548,28 +570,6 @@ https://jio.instream.ml/jio.php?c=Nick_Marathi&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Gujarati.png" group-title="Avi JioTV",Nick Gujarati
 https://jio.instream.ml/jio.php?c=Nick_Gujarati&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Avi JioTV",CN HD+ Tamil
-https://jio.instream.ml/jio.php?c=CN_HD_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Avi JioTV",Cartoon Network Tamil
-https://jio.instream.ml/jio.php?c=Cartoon_Network_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Avi JioTV",Pogo Tamil
-https://jio.instream.ml/jio.php?c=Pogo_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Avi JioTV",Nick Tamil
-https://jio.instream.ml/jio.php?c=Nick_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Avi JioTV",sonic Tamil
-https://jio.instream.ml/jio.php?c=sonic_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Avi JioTV",Sony Yay Tamil
-https://jio.instream.ml/jio.php?c=Sony_Yay_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Avi JioTV",Discovery Kids Tamil
-https://jio.instream.ml/jio.php?c=Discovery_Kids_Tamil&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Avi JioTV",Nick Kannada
 https://jio.instream.ml/jio.php?c=Nick_Kannada&q=800&e=.m3u8
 

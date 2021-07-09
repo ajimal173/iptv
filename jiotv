@@ -10,6 +10,13 @@ http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #http://103.81.104.118/hls/stream7.m3u8
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 
+#EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
+
+#EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
+https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
+
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Avi JioTV",Colors Cineplex HD
 https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 

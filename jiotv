@@ -126,6 +126,45 @@ https://jio.instream.ml/jio.php?c=Raj_Musix&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Avi JioTV",Colors Tamil HD
 https://jio.instream.ml/jio.php?c=Colors_Tamil_HD&q=800&e=.m3u8
 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Avi JioTV",Discovery HD World
+https://jio.instream.ml/jio.php?c=Discovery_HD_World&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Avi JioTV",Discovery
+https://jio.instream.ml/jio.php?c=Discovery&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Avi JioTV",D Tamil
+https://jio.instream.ml/jio.php?c=Discovery_Channel_Tamil&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Avi JioTV",Animal Planet HD World
+https://jio.instream.ml/jio.php?c=Animal_Planet_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="Avi JioTV",Animal Planet English
+https://jio.instream.ml/jio.php?c=Animal_Planet_English&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Avi JioTV",Discovery Science
+https://jio.instream.ml/jio.php?c=Discovery_Science&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Avi JioTV",History TV18 HD
+https://jio.instream.ml/jio.php?c=History_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Avi JioTV",History TV18 HD Hindi
+https://jio.instream.ml/jio.php?c=History_18_Hindi&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Avi JioTV",Sony BBC Earth HD
+https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Avi JioTV",Epic
+https://jio.instream.ml/jio.php?c=Epic_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Avi JioTV",TLC HD
+https://jio.instream.ml/jio.php?c=TLC_HD_World&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="Avi JioTV",TLC English
+https://jio.instream.ml/jio.php?c=TLC_English&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Avi JioTV",TLC Hindi
+https://jio.instream.ml/jio.php?c=TLC_Hindi&q=800&e=.m3u8
+
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Avi JioTV",Dangal
 https://jio.instream.ml/jio.php?c=Dangal&q=800&e=.m3u8
 
@@ -584,45 +623,6 @@ https://jio.instream.ml/jio.php?c=Nickelodeon_Jr&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Avi JioTV",Sony Yay Hindi
 https://jio.instream.ml/jio.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Avi JioTV",Discovery HD World
-https://jio.instream.ml/jio.php?c=Discovery_HD_World&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Avi JioTV",Discovery
-https://jio.instream.ml/jio.php?c=Discovery&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Avi JioTV",D Tamil
-https://jio.instream.ml/jio.php?c=Discovery_Channel_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Avi JioTV",Animal Planet HD World
-https://jio.instream.ml/jio.php?c=Animal_Planet_HD&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="Avi JioTV",Animal Planet English
-https://jio.instream.ml/jio.php?c=Animal_Planet_English&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Avi JioTV",Discovery Science
-https://jio.instream.ml/jio.php?c=Discovery_Science&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Avi JioTV",History TV18 HD
-https://jio.instream.ml/jio.php?c=History_HD&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Avi JioTV",History TV18 HD Hindi
-https://jio.instream.ml/jio.php?c=History_18_Hindi&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Avi JioTV",Sony BBC Earth HD
-https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Avi JioTV",Epic
-https://jio.instream.ml/jio.php?c=Epic_HD&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Avi JioTV",TLC HD
-https://jio.instream.ml/jio.php?c=TLC_HD_World&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="Avi JioTV",TLC English
-https://jio.instream.ml/jio.php?c=TLC_English&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Avi JioTV",TLC Hindi
-https://jio.instream.ml/jio.php?c=TLC_Hindi&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" group-title="Avi JioTV",Sadhguru Television HD
 https://jio.instream.ml/jio.php?c=Sadhguru_Television&q=800&e=.m3u8
@@ -2246,3 +2246,4 @@ https://jio.instream.ml/jio.php?c=Sarvamangala&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="Avi JioTV",AB News
 https://jio.instream.ml/jio.php?c=AB_News&q=800&e=.m3u8
+

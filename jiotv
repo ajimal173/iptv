@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="RFTV JioTV",Star Plus HD
+https://bit.ly/3k7U4pn
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-gold-select-hd-logo.jpg" group-title="RFTV JioTV",Star Gold Select HD
+https://bit.ly/stargoldselecthd
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="RFTV JioTV",Star Bharat HD
+https://bit.ly/3yMDyz5
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="RFTV JioTV",Star Maa HD
+https://bit.ly/3wyOZJe
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="RFTV JioTV",Star Gold HD
+https://bit.ly/3wBTm6p
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="RFTV JioTV",Star Movies HD
+https://bit.ly/3e7z3HJ
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" group-title="RFTV JioTV",Star Vijay HD
+https://bit.ly/3xBAZ2D
+
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -412,6 +433,63 @@ https://jio.instream.ml/jio.php?c=Dangal&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Avi JioTV",DD Kisan
 https://jio.instream.ml/jio.php?c=DD_Kisan&q=800&e=.m3u8
+
+#EXTINF:-1   group-title="SUNNXT",UDAYA
+https://suntvvodaf-live.s.llnwi.net:443/UdayaTV/UdayaTV.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",UDAYA HD
+https://suntvvodaf-live.s.llnwi.net:443/UdayaTVHD/UdayaTVHD.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",UDAYA mov
+https://suntvvodaf-live.s.llnwi.net:443/UdayaMovies/UdayaMovies.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",UDAYA COM
+https://suntvvodaf-live.s.llnwi.net:443/UdayaComedy/UdayaComedy.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",UDAYA MUSIC
+https://suntvvodaf-live.s.llnwi.net:443/UdayaMusic/UdayaMusic.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SUN BANGLA
+https://suntvvodaf-live.s.llnwi.net:443/SunBangla/SunBangla.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",Z TELUGU
+http://85.203.33.88:80/live/b4CxOlKVh61/8vO4GQ220/10155.ts
+#EXTINF:-1   group-title="SUNNXT",GEMINI
+https://suntvvodaf-live.s.llnwi.net:443/GeminiTVHD/GeminiTVHD.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",GEN MUSIC
+https://suntvvodaf-live.s.llnwi.net:443/GeminiMusicHD/GeminiMusicHD.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",GEM MOVIES
+https://suntvvodaf-live.s.llnwi.net:443/GeminiMoviesHD/GeminiMoviesHD.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",GEMINI COMEDY
+https://suntvvodaf-live.s.llnwi.net:443/GeminiComedy/GeminiComedy.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",GEM LIFE
+https://suntvvodaf-live.s.llnwi.net:443/GeminiLife/GeminiLife.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",KHUSHI
+https://suntvvodaf-live.s.llnwi.net:443/KushiTV/KushiTV.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",CHINTU
+https://suntvvodaf-live.s.llnwi.net:443/ChintuTV/ChintuTV.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SUN HD
+https://suntvvodaf-live.s.llnwi.net:443/SunTVHD/SunTVHD.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SUN
+https://suntvvodaf-live.s.llnwi.net:443/SunTV/SunTV.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SUN LIFE
+https://suntvvodaf-live.s.llnwi.net:443/SunLife/SunLife.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SUN NEWS
+https://suntvvodaf-live.s.llnwi.net:443/SunNews/SunNews.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SUN M HD
+https://suntvvodaf-live.s.llnwi.net:443/SunMusicHD/SunMusicHD.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SUN MUSIC
+https://suntvvodaf-live.s.llnwi.net:443/SunMusic/SunMusic.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",KTV HD
+https://suntvvodaf-live.s.llnwi.net:443/KTVHD/KTVHD.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",KTV
+https://suntvvodaf-live.s.llnwi.net:443/KTV/KTV.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",ADITHYA TV
+https://suntvvodaf-live.s.llnwi.net:443/AdithyaTV/AdithyaTV.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SURYA HD
+https://suntvvodaf-live.s.llnwi.net:443/SuryaTVHD/SuryaTVHD.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SURYA TV
+https://suntvvodaf-live.s.llnwi.net:443/SuryaTV/SuryaTV.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SURYA MOVIES
+https://suntvvodaf-live.s.llnwi.net:443/SuryaMovies/SuryaMovies.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",SU MUSIC
+https://suntvvodaf-live.s.llnwi.net:443/SuryaMusic/SuryaMusic.isml/manifest.mpd
+#EXTINF:-1   group-title="SUNNXT",KOCHU
+https://suntvvodaf-live.s.llnwi.net:443/KochuTV/KochuTV.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Avi JioTV",Jio Football HD
 https://jio.instream.ml/jio.php?c=Jio_Football&q=800&e=.m3u8

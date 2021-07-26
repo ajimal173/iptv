@@ -56,9 +56,6 @@ https://jio.instream.ml/jio.php?c=Housefull_Movies&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="Avi JioTV",India Science
 https://jio.instream.ml/jio.php?c=India_Science&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="Avi JioTV",Jio Cricket 1 HD
-https://jio.instream.ml/jio.php?c=Jio_Cricket_1_HD&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Avi JioTV",Sony Max HD
 https://jio.instream.ml/jio.php?c=Sony_Max_HD&q=800&e=.m3u8
 
@@ -206,9 +203,6 @@ https://jio.instream.ml/jio.php?c=TLC_English&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Avi JioTV",TLC Hindi
 https://jio.instream.ml/jio.php?c=TLC_Hindi&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" group-title="Avi JioTV",Sadhguru Television HD
-https://jio.instream.ml/jio.php?c=Sadhguru_Television&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Avi JioTV",Discovery Turbo
 https://jio.instream.ml/jio.php?c=Discovery_Turbo&q=800&e=.m3u8
 
@@ -226,12 +220,6 @@ https://jio.instream.ml/jio.php?c=Care_World&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="Avi JioTV",Animal Planet HD Tamil
 https://jio.instream.ml/jio.php?c=Animal_Planet_HD_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Avi JioTV",Jio Events HD
-https://jio.instream.ml/jio.php?c=Jio_Events&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Avi JioTV",Jio Exclusive HD
-https://jio.instream.ml/jio.php?c=Jio_Exclusive&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Avi JioTV",MTV HD Plus
 https://jio.instream.ml/jio.php?c=MTV_HD_Plus&q=800&e=.m3u8
@@ -278,9 +266,6 @@ https://jio.instream.ml/jio.php?c=Discovery_Channel_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Avi JioTV",Bflix Movies
 https://jio.instream.ml/jio.php?c=Bflix_Movies&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="Avi JioTV",Manoranjan TV
-https://jio.instream.ml/jio.php?c=Manoranjan_TV&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Avi JioTV",B4U Kadak
 https://jio.instream.ml/jio.php?c=B4U_Kadak&q=800&e=.m3u8
 
@@ -289,9 +274,6 @@ https://jio.instream.ml/jio.php?c=Network_10&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="Avi JioTV",Sony Pix SD
 https://jio.instream.ml/jio.php?c=Sony_Pix_SD&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" group-title="Avi JioTV",Gyanvani 1
-https://jio.instream.ml/jio.php?c=Gyanvani_1&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Avi JioTV",Colors Infinity SD
 https://jio.instream.ml/jio.php?c=Colors_Infinity_SD&q=800&e=.m3u8
@@ -319,9 +301,6 @@ https://jio.instream.ml/jio.php?c=Zee_Salaam&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png" group-title="Avi JioTV",Channel Win
 https://jio.instream.ml/jio.php?c=Channel_Win&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Barker.png" group-title="Avi JioTV",Jio Promo HD
-https://jio.instream.ml/jio.php?c=Barker&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="Avi JioTV",Zee 24 Taas
 https://jio.instream.ml/jio.php?c=Zee_24_Taas&q=800&e=.m3u8
@@ -355,9 +334,6 @@ https://jio.instream.ml/jio.php?c=10_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="Avi JioTV",Aradhana TV
 https://jio.instream.ml/jio.php?c=Aradhana_TV&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="Avi JioTV",Vanitha
-https://jio.instream.ml/jio.php?c=Vanitha&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV1.png" group-title="Avi JioTV",TV1
 https://jio.instream.ml/jio.php?c=TV1&q=800&e=.m3u8
@@ -458,20 +434,11 @@ https://jio.instream.ml/jio.php?c=Vendhar_TV&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Avi JioTV",DD5 Podhigai
 https://jio.instream.ml/jio.php?c=DD5_Podhigai&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Avi JioTV",MBC
-https://jio.instream.ml/jio.php?c=MBC&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Avi JioTV",Sony Max SD
 https://jio.instream.ml/jio.php?c=SET_MAX&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="Avi JioTV",Sony BBC Earth SD
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_SD&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png" group-title="Avi JioTV",JioCinema
-https://jio.instream.ml/jio.php?c=Jio_Cinema&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" group-title="Avi JioTV",BTV
-https://jio.instream.ml/jio.php?c=BTV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" group-title="Avi JioTV",Newslive
 https://jio.instream.ml/jio.php?c=Newslive&q=800&e=.m3u8
@@ -508,15 +475,6 @@ https://jio.instream.ml/jio.php?c=Win_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Avi JioTV",Malanadu TV
 https://jio.instream.ml/jio.php?c=Malnadu_TV&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JioCinema_Shows.png" group-title="Avi JioTV",JioCinema Shows
-https://jio.instream.ml/jio.php?c=JioCinema_Shows&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JioCinema_Action.png" group-title="Avi JioTV",JioCinema Action
-https://jio.instream.ml/jio.php?c=JioCinema_Action&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JioCinema_Comedy.png" group-title="Avi JioTV",JioCinema Comedy
-https://jio.instream.ml/jio.php?c=JioCinema_Comedy&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="Avi JioTV",ABZY Dhakad
 https://jio.instream.ml/jio.php?c=ABZY_Dhakad&q=800&e=.m3u8

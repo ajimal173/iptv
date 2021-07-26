@@ -215,9 +215,6 @@ https://jio.instream.ml/jio.php?c=Discovery_Turbo&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Avi JioTV",Travel XP HD
 https://jio.instream.ml/jio.php?c=Travel_XP_HD&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="Avi JioTV",TV Teacher
-https://jio.instream.ml/jio.php?c=TV_Teacher&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Avi JioTV",Travel XP HD Hindi
 https://jio.instream.ml/jio.php?c=Travel_XP&q=800&e=.m3u8
 
@@ -503,32 +500,14 @@ https://jio.instream.ml/jio.php?c=Brit_Asia&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Avi JioTV",Boogle Bollywood
 https://jio.instream.ml/jio.php?c=Boogle_Bollywood&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GSB_Worldwide.png" group-title="Avi JioTV",G S B Worldwide
-https://jio.instream.ml/jio.php?c=GSB_Worldwide&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News11.png" group-title="Avi JioTV",News11
-https://jio.instream.ml/jio.php?c=News11&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lotus_News.png" group-title="Avi JioTV",Lotus News
-https://jio.instream.ml/jio.php?c=Lotus_News&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" group-title="Avi JioTV",Bharat Samachar
-https://jio.instream.ml/jio.php?c=Bharat_Samachar&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="Avi JioTV",Madhimugam TV
 https://jio.instream.ml/jio.php?c=Madhimugam_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Avi JioTV",Win TV
 https://jio.instream.ml/jio.php?c=Win_TV&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/P_News.png" group-title="Avi JioTV",P News
-https://jio.instream.ml/jio.php?c=P_News&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Avi JioTV",Malanadu TV
 https://jio.instream.ml/jio.php?c=Malnadu_TV&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABSTAR_News.png" group-title="Avi JioTV",AB Star News
-https://jio.instream.ml/jio.php?c=ABSTAR_News&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JioCinema_Shows.png" group-title="Avi JioTV",JioCinema Shows
 https://jio.instream.ml/jio.php?c=JioCinema_Shows&q=800&e=.m3u8

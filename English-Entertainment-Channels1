@@ -443,9 +443,6 @@ https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_SD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" group-title="Avi JioTV",Newslive
 https://jio.instream.ml/jio.php?c=Newslive&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Anjan_TV.png" group-title="Avi JioTV",Anjan TV
-https://jio.instream.ml/jio.php?c=Anjan_TV&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Avi JioTV",Peppers TV
 https://jio.instream.ml/jio.php?c=Peppers_TV&q=800&e=.m3u8
 

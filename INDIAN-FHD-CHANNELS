@@ -632,16 +632,12 @@ http://watchindia.net:8880/live/60275/20486/828.ts
 http://watchindia.net:8880/live/60275/20486/926.ts
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM Music" tvg-logo="https://watchindia.net/images/channels/hindi/9XM_Music.png" group-title="Hindi",9XM Music
 http://watchindia.net:8880/live/60275/20486/827.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Plus" tvg-logo="" group-title="Pakistani",A Plus
-http://watchindia.net:8880/live/60275/20486/1021.ts
-#EXTINF:-1 tvg-id="" tvg-name="Aaj News" tvg-logo="" group-title="Pakistani",Aaj News
-http://watchindia.net:8880/live/60275/20486/1051.ts
+
 #EXTINF:-1 tvg-id="aaj.tak.in" tvg-name="Dilli Aaj Tak" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak.png" group-title="Hindi",Dilli Aaj Tak
 http://watchindia.net:8880/live/60275/20486/836.ts
 #EXTINF:-1 tvg-id="aaj.tak.in" tvg-name="Aaj Tak HD" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak_HD.png" group-title="Hindi",Aaj Tak HD
 http://watchindia.net:8880/live/60275/20486/807.ts
-#EXTINF:-1 tvg-id="" tvg-name="Abbtakk News" tvg-logo="" group-title="Pakistani",Abbtakk News
-http://watchindia.net:8880/live/60275/20486/1062.ts
+
 #EXTINF:-1 tvg-id="abn.telugu.news.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="Telugu",ABN News
 http://watchindia.net:8880/live/60275/20486/980.ts
 #EXTINF:-1 tvg-id="abp.majha.in" tvg-name="ABP Majha" tvg-logo="https://watchindia.net/images/channels/marathi/ABP_Majha.png" group-title="Marathi",ABP Majha
@@ -677,8 +673,7 @@ http://watchindia.net:8880/live/60275/20486/823.ts
 http://watchindia.net:8880/live/60275/20486/2113.ts
 #EXTINF:-1 tvg-id="bhakti.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="Telugu",Bhakti TV
 http://watchindia.net:8880/live/60275/20486/977.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bol Tv News" tvg-logo="" group-title="Pakistani",Bol Tv News
-http://watchindia.net:8880/live/60275/20486/1052.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood BoxOffice HD" tvg-logo="https://watchindia.net/images/channels/hindi/Bollywood_BoxOffice_HD.png" group-title="Hindi",Bollywood BoxOffice HD
 http://watchindia.net:8880/live/60275/20486/819.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Dilse HD" tvg-logo="https://watchindia.net/images/channels/hindi/Bollywood_Dil_Se_HD.png" group-title="Hindi",Bollywood Dilse HD
@@ -689,16 +684,14 @@ http://watchindia.net:8880/live/60275/20486/800.ts
 http://watchindia.net:8880/live/60275/20486/797.ts
 #EXTINF:-1 tvg-id="kadak.hits.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Hindi",Kadak Hits HD
 http://watchindia.net:8880/live/60275/20486/798.ts
-#EXTINF:-1 tvg-id="" tvg-name="Capital Tv News" tvg-logo="" group-title="Pakistani",Capital Tv News
-http://watchindia.net:8880/live/60275/20486/1049.ts
+
 #EXTINF:-1 tvg-id="colors.tamil.in" tvg-name="Colors Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png" group-title="Tamil",Colors Tamil
 http://watchindia.net:8880/live/60275/20486/2083.ts
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="Captain News" tvg-logo="https://watchindia.net/images/channels/tamil/Captain_News.png" group-title="Tamil",Captain News
 http://watchindia.net:8880/live/60275/20486/878.ts
 #EXTINF:-1 tvg-id="captain.in" tvg-name="Captain TV" tvg-logo="https://watchindia.net/images/channels/tamil/Captain_TV.png" group-title="Tamil",Captain TV
 http://watchindia.net:8880/live/60275/20486/876.ts
-#EXTINF:-1 tvg-id="" tvg-name="Channel 44 UK" tvg-logo="" group-title="Pakistani",Channel 44 UK
-http://watchindia.net:8880/live/60275/20486/1040.ts
+
 #EXTINF:-1 tvg-id="colors.cineplex.in" tvg-name="Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="Hindi",Cineplex HD
 http://watchindia.net:8880/live/60275/20486/803.ts
 
@@ -746,8 +739,7 @@ http://watchindia.net:8880/live/60275/20486/2148.ts
 
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="Tamil",KTV HD
 http://watchindia.net:8880/live/60275/20486/845.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lahore News" tvg-logo="" group-title="Pakistani",Lahore News
-http://watchindia.net:8880/live/60275/20486/1046.ts
+
 #EXTINF:-1 tvg-id="9x.jalwa.in" tvg-name="Madha TV" tvg-logo="https://watchindia.net/images/channels/tamil/Madha_TV.png" group-title="Tamil",Madha TV
 http://watchindia.net:8880/live/60275/20486/875.ts
 #EXTINF:-1 tvg-id="maiboli.in" tvg-name="Maiboli" tvg-logo="https://watchindia.net/images/channels/marathi/Maiboli.png" group-title="Marathi",Maiboli
@@ -829,8 +821,7 @@ http://watchindia.net:8880/live/60275/20486/872.ts
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="TravelXP HD" tvg-logo="https://watchindia.net/images/channels/hindi/TravelXP_HD.png" group-title="Hindi",TravelXP HD
 http://watchindia.net:8880/live/60275/20486/792.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Urdu 1" tvg-logo="" group-title="Pakistani",Urdu 1
-http://watchindia.net:8880/live/60275/20486/1020.ts
+
 #EXTINF:-1 tvg-id="utv.action.in" tvg-name="UTV Action" tvg-logo="https://watchindia.net/images/channels/hindi/UTV_Action.png" group-title="Hindi",UTV Action
 http://watchindia.net:8880/live/60275/20486/805.ts
 #EXTINF:-1 tvg-id="utv.in" tvg-name="UTV HD" tvg-logo="https://watchindia.net/images/channels/hindi/UTV_HD.png" group-title="Hindi",UTV HD

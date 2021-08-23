@@ -501,8 +501,7 @@ http://watchindia.net:8880/live/33253/72963/1296.ts
 http://watchindia.net:8880/live/33253/72963/1298.ts
 #EXTINF:-1,Sony Yay
 http://watchindia.net:8880/live/33253/72963/2104.ts
-#EXTINF:-1,Sony Yay Telugu
-http://watchindia.net:8880/live/33253/72963/2126.ts
+
 #EXTINF:-1,Paw Patrol
 http://watchindia.net:8880/live/33253/72963/1297.ts
 #EXTINF:-1,PJ Masks
@@ -638,8 +637,7 @@ http://watchindia.net:8880/live/60275/20486/836.ts
 #EXTINF:-1 tvg-id="aaj.tak.in" tvg-name="Aaj Tak HD" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak_HD.png" group-title="Hindi",Aaj Tak HD
 http://watchindia.net:8880/live/60275/20486/807.ts
 
-#EXTINF:-1 tvg-id="abn.telugu.news.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="Telugu",ABN News
-http://watchindia.net:8880/live/60275/20486/980.ts
+
 #EXTINF:-1 tvg-id="abp.majha.in" tvg-name="ABP Majha" tvg-logo="https://watchindia.net/images/channels/marathi/ABP_Majha.png" group-title="Marathi",ABP Majha
 http://watchindia.net:8880/live/60275/20486/925.ts
 #EXTINF:-1 tvg-id="abp.news.in" tvg-name="ABP News" tvg-logo="https://watchindia.net/images/channels/hindi/ABP_News.png" group-title="Hindi",ABP News
@@ -671,8 +669,7 @@ http://watchindia.net:8880/live/60275/20486/862.ts
 http://watchindia.net:8880/live/60275/20486/823.ts
 #EXTINF:-1 tvg-id="uk.b4u.music.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="Hindi",B4U Music
 http://watchindia.net:8880/live/60275/20486/2113.ts
-#EXTINF:-1 tvg-id="bhakti.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="Telugu",Bhakti TV
-http://watchindia.net:8880/live/60275/20486/977.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood BoxOffice HD" tvg-logo="https://watchindia.net/images/channels/hindi/Bollywood_BoxOffice_HD.png" group-title="Hindi",Bollywood BoxOffice HD
 http://watchindia.net:8880/live/60275/20486/819.ts
@@ -991,4 +988,3 @@ http://watchindia.net:8880/live/60275/20486/2157.ts
 http://watchindia.net:8880/live/60275/20486/2152.ts
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors TV HD 2" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD 2
 http://watchindia.net:8880/live/60275/20486/2264.ts
-

@@ -106,5 +106,5 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0, azxtv.com
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-name="Kanade TV" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300" group-title="Animation",Kanade TV (720p)
+#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-name="Kanade TV" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300",Kanade TV (720p)
 http://45.32.74.87:8080/hls/kanadetv.m3u8

@@ -8,7 +8,3 @@ http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-

@@ -6,24 +6,6 @@ http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0jM6gO-BX-4LsUOQX99xCYgGTG7anU3HqqAmY2wxpuOTdhqi0y-EAoa1BHMu2KD-7lk&usqp=CAU" group-title="All", STAR PLUS HD
 http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="RFTV JioTV",Star Plus HD
-https://bit.ly/3k7U4pn
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-gold-select-hd-logo.jpg" group-title="RFTV JioTV",Star Gold Select HD
-https://bit.ly/stargoldselecthd
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="RFTV JioTV",Star Bharat HD
-https://bit.ly/3yMDyz5
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="RFTV JioTV",Star Gold HD
-https://bit.ly/3wBTm6p
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="RFTV JioTV",Star Maa Movies HD
-https://bit.ly/3e7z3HJ
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" group-title="RFTV JioTV",Star Vijay HD
-https://bit.ly/3xBAZ2D
-
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 

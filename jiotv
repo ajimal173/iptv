@@ -241,3 +241,181 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=991&deviceId=5db0ae5af8797b00095c0794&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 channel-id="3815" radio="false" tvg-id="5eb301b7395671000780d100" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" tvg-chno="20" group-title="Pluto - Kids",Little Baby Bum
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+#EXTINF:-1,Star Vijay HD
+http://watchindia.net:8880/live/33253/72963/846.ts
+#EXTINF:-1,Star Vijay HD 2
+http://watchindia.net:8880/live/33253/72963/2140.ts
+#EXTINF:-1,Star Vijay Super
+http://watchindia.net:8880/live/33253/72963/2190.ts
+#EXTINF:-1,Sun TV HD
+http://watchindia.net:8880/live/33253/72963/843.ts
+#EXTINF:-1,Sun TV HD USA
+http://watchindia.net:8880/live/33253/72963/2089.ts
+#EXTINF:-1,Sun Life
+http://watchindia.net:8880/live/33253/72963/847.ts
+#EXTINF:-1,Sun Music HD
+http://watchindia.net:8880/live/33253/72963/844.ts
+#EXTINF:-1,Sun News
+http://watchindia.net:8880/live/33253/72963/869.ts
+#EXTINF:-1,Sirippoli TV
+http://watchindia.net:8880/live/33253/72963/2084.ts
+#EXTINF:-1,Adithya TV
+http://watchindia.net:8880/live/33253/72963/855.ts
+
+#EXTINF:-1,Capital Tv News
+http://watchindia.net:8880/live/33253/72963/1049.ts
+#EXTINF:-1,Colors Tamil
+http://watchindia.net:8880/live/33253/72963/2083.ts
+#EXTINF:-1,Captain News
+http://watchindia.net:8880/live/33253/72963/878.ts
+#EXTINF:-1,Captain TV
+http://watchindia.net:8880/live/33253/72963/876.ts
+#EXTINF:-1,Discovery Tamil
+http://watchindia.net:8880/live/33253/72963/2085.ts
+#EXTINF:-1,Dan News
+http://watchindia.net:8880/live/33253/72963/859.ts
+
+
+#EXTINF:-1,Discovery World HD
+http://watchindia.net:8880/live/33253/72963/793.ts
+
+#EXTINF:-1,History TV HD
+http://watchindia.net:8880/live/33253/72963/791.ts
+#EXTINF:-1,Jaya Max
+http://watchindia.net:8880/live/33253/72963/852.ts
+#EXTINF:-1,Jaya Movie
+http://watchindia.net:8880/live/33253/72963/849.ts
+#EXTINF:-1,Jaya Plus
+http://watchindia.net:8880/live/33253/72963/850.ts
+#EXTINF:-1,Jaya TV HD
+http://watchindia.net:8880/live/33253/72963/851.ts
+#EXTINF:-1,Jaya TV
+http://watchindia.net:8880/live/33253/72963/964.ts
+ts
+#EXTINF:-1,Isaiaruvi TV
+http://watchindia.net:8880/live/33253/72963/2149.ts
+#EXTINF:-1,Kalaignar TV
+http://watchindia.net:8880/live/33253/72963/2148.ts
+#EXTINF:-1,Kaumudy TV
+http://watchindia.net:8880/live/33253/72963/305.ts
+#EXTINF:-1,Kochu TV
+http://watchindia.net:8880/live/33253/72963/290.ts
+#EXTINF:-1,KTV HD
+http://watchindia.net:8880/live/33253/72963/845.ts
+#EXTINF:-1,Madha TV
+http://watchindia.net:8880/live/33253/72963/875.ts
+#EXTINF:-1,Makkal TV
+http://watchindia.net:8880/live/33253/72963/871.ts
+#EXTINF:-1,Murasu TV
+http://watchindia.net:8880/live/33253/72963/880.ts
+#EXTINF:-1,Nambikkai TV
+http://watchindia.net:8880/live/33253/72963/856.ts
+#EXTINF:-1,National Geographic HD
+http://watchindia.net:8880/live/33253/72963/790.ts
+#EXTINF:-1,NDTV News
+http://watchindia.net:8880/live/33253/72963/831.ts
+#EXTINF:-1,Nick Tamil
+http://watchindia.net:8880/live/33253/72963/2181.ts
+#EXTINF:-1,Peppers
+http://watchindia.net:8880/live/33253/72963/870.ts
+#EXTINF:-1,Polimer TV
+http://watchindia.net:8880/live/33253/72963/2147.ts
+#EXTINF:-1,Polimer News
+http://watchindia.net:8880/live/33253/72963/877.ts
+#EXTINF:-1,Puthiya Thalaimurai
+http://watchindia.net:8880/live/33253/72963/879.ts
+#EXTINF:-1,Puthuyugam TV
+http://watchindia.net:8880/live/33253/72963/865.ts
+#EXTINF:-1,Raj Digital Plus
+http://watchindia.net:8880/live/33253/72963/857.ts
+#EXTINF:-1,Raj Musix
+http://watchindia.net:8880/live/33253/72963/286.ts
+#EXTINF:-1,Raj Musix Kannada
+http://watchindia.net:8880/live/33253/72963/993.ts
+#EXTINF:-1,Raj Musix Tamil
+http://watchindia.net:8880/live/33253/72963/861.ts
+
+#EXTINF:-1,Raj News 24x7
+http://watchindia.net:8880/live/33253/72963/853.ts
+#EXTINF:-1,Raj News
+http://watchindia.net:8880/live/33253/72963/291.ts
+#EXTINF:-1,Raj TV
+http://watchindia.net:8880/live/33253/72963/854.ts
+
+#EXTINF:-1,Tamil Vision TV
+http://watchindia.net:8880/live/33253/72963/863.ts
+#EXTINF:-1,Tamilian TV
+http://watchindia.net:8880/live/33253/72963/864.ts
+#EXTINF:-1,Thanthi TV
+http://watchindia.net:8880/live/33253/72963/860.ts
+#EXTINF:-1,Thanthi TV
+http://watchindia.net:8880/live/33253/72963/947.ts
+#EXTINF:-1,Times Now
+http://watchindia.net:8880/live/33253/72963/839.ts
+#EXTINF:-1,Travel XP
+http://watchindia.net:8880/live/33253/72963/872.ts
+#EXTINF:-1,TravelXP HD
+http://watchindia.net:8880/live/33253/72963/792.ts
+
+#EXTINF:-1,Vasanth TV
+http://watchindia.net:8880/live/33253/72963/858.ts
+#EXTINF:-1,Vendhar TV
+http://watchindia.net:8880/live/33253/72963/2146.ts
+#EXTINF:-1,Zee Tamil
+http://watchindia.net:8880/live/33253/72963/887.ts
+#EXTINF:-1,Sony Pix HD
+http://watchindia.net:8880/live/33253/72963/2101.ts
+#EXTINF:-1,Movies Now HD
+http://watchindia.net:8880/live/33253/72963/2102.ts
+#EXTINF:-1,& Prive HD
+http://watchindia.net:8880/live/33253/72963/2103.ts
+
+#EXTINF:-1,Discovery Channel
+http://watchindia.net:8880/live/33253/72963/2036.ts
+#EXTINF:-1,Discovery Life
+http://watchindia.net:8880/live/33253/72963/2124.ts
+#EXTINF:-1,National Geographic
+http://watchindia.net:8880/live/33253/72963/2037.ts
+#EXTINF:-1,Nat Geo Wild
+http://watchindia.net:8880/live/33253/72963/2047.ts
+#EXTINF:-1,Animal Planet
+http://watchindia.net:8880/live/33253/72963/2039.ts
+#EXTINF:-1,Cinemax
+http://watchindia.net:8880/live/33253/72963/2065.ts
+#EXTINF:-1,Cartoon Network
+http://watchindia.net:8880/live/33253/72963/2052.ts
+#EXTINF:-1,Nickelodeon
+http://watchindia.net:8880/live/33253/72963/2049.ts
+#EXTINF:-1,Nicktoons
+http://watchindia.net:8880/live/33253/72963/2064.ts
+#EXTINF:-1,Nick Jr.
+http://watchindia.net:8880/live/33253/72963/2059.ts
+#EXTINF:-1,Disney Channel
+http://watchindia.net:8880/live/33253/72963/2046.ts
+#EXTINF:-1,Disney XD
+http://watchindia.net:8880/live/33253/72963/2066.ts
+#EXTINF:-1,Disney Jr.
+http://watchindia.net:8880/live/33253/72963/2105.ts
+#EXTINF:-1,Boomerang
+http://watchindia.net:8880/live/33253/72963/1295.ts
+#EXTINF:-1,History
+http://watchindia.net:8880/live/33253/72963/2038.ts
+#EXTINF:-1,TNT
+http://watchindia.net:8880/live/33253/72963/2051.ts
+#EXTINF:-1,TLC
+http://watchindia.net:8880/live/33253/72963/2139.ts
+#EXTINF:-1,Food Network
+http://watchindia.net:8880/live/33253/72963/2045.ts
+#EXTINF:-1,Fox HD
+http://watchindia.net:8880/live/33253/72963/2183.ts
+#EXTINF:-1,Travel Channel
+http://watchindia.net:8880/live/33253/72963/2123.ts
+
+#EXTINF:-1,Zee Thirai
+http://watchindia.net:8880/live/33253/72963/2142.ts
+#EXTINF:-1,Kalaignar News
+http://watchindia.net:8880/live/33253/72963/874.ts
+#EXTINF:-1,Kollywood Box Office
+http://watchindia.net:8880/live/33253/72963/2152.ts

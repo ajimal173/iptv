@@ -1,125 +1,874 @@
 #EXTM3U
+#EXTINF:-1,US NEWSY
+http://appleiptv.com:25461/3478/3478/27473
+#EXTINF:-1,US LOCALNOW
+http://appleiptv.com:25461/3478/3478/27474
+#EXTINF:-1,US FOX NEWS
+http://appleiptv.com:25461/3478/3478/27476
+#EXTINF:-1,US The_Weather_Channel
+http://appleiptv.com:25461/3478/3478/27477
+#EXTINF:-1,US HLNHD
+http://appleiptv.com:25461/3478/3478/27478
+#EXTINF:-1,US CNBC
+http://appleiptv.com:25461/3478/3478/27479
+#EXTINF:-1,US CNBC_World
+http://appleiptv.com:25461/3478/3478/27480
+#EXTINF:-1,US MSNBC
+http://appleiptv.com:25461/3478/3478/27481
+#EXTINF:-1,US Fox_News
+http://appleiptv.com:25461/3478/3478/27482
+#EXTINF:-1,US Fox_Business
+http://appleiptv.com:25461/3478/3478/27483
+#EXTINF:-1,US BBC_World_News
+http://appleiptv.com:25461/3478/3478/27484
+#EXTINF:-1,US CNN 1
+http://appleiptv.com:25461/3478/3478/27486
+#EXTINF:-1,US CNN
+http://appleiptv.com:25461/3478/3478/27487
+#EXTINF:-1,US Boomerang
+http://appleiptv.com:25461/3478/3478/27488
+#EXTINF:-1,US Smithsonian_East
+http://appleiptv.com:25461/3478/3478/27496
+#EXTINF:-1,US Cooking_Channel
+http://appleiptv.com:25461/3478/3478/27497
+#EXTINF:-1,US HISTORY  Channel
+http://appleiptv.com:25461/3478/3478/27499
+#EXTINF:-1,US A&E HD
+http://appleiptv.com:25461/3478/3478/27500
+#EXTINF:-1,US TRAVEL_Channel_West
+http://appleiptv.com:25461/3478/3478/27501
+#EXTINF:-1,US HGTV_East
+http://appleiptv.com:25461/3478/3478/27502
+#EXTINF:-1,US FOOD_Network_West
+http://appleiptv.com:25461/3478/3478/27503
+#EXTINF:-1,US fyi
+http://appleiptv.com:25461/3478/3478/27504
+#EXTINF:-1,US Nat_Geo_Wild_West
+http://appleiptv.com:25461/3478/3478/27507
+#EXTINF:-1,US Nat_Geo_EAST
+http://appleiptv.com:25461/3478/3478/27508
+#EXTINF:-1,US Oprah_Winfrey_Network
+http://appleiptv.com:25461/3478/3478/27509
+#EXTINF:-1,US Discovery_Science
+http://appleiptv.com:25461/3478/3478/27510
+#EXTINF:-1,US Destination_America
+http://appleiptv.com:25461/3478/3478/27511
+#EXTINF:-1,US American_Heroes
+http://appleiptv.com:25461/3478/3478/27512
+#EXTINF:-1,US Motortrend
+http://appleiptv.com:25461/3478/3478/27513
+#EXTINF:-1,US Discovery Family
+http://appleiptv.com:25461/3478/3478/27514
+#EXTINF:-1,US Discovery_ID_East
+http://appleiptv.com:25461/3478/3478/27515
+#EXTINF:-1,US SUNDANCE
+http://appleiptv.com:25461/3478/3478/27516
+#EXTINF:-1,US FXM
+http://appleiptv.com:25461/3478/3478/27518
+#EXTINF:-1,US Epix_Hits
+http://appleiptv.com:25461/3478/3478/27523
+#EXTINF:-1,US Epix
+http://appleiptv.com:25461/3478/3478/27524
+#EXTINF:-1,US IFC
+http://appleiptv.com:25461/3478/3478/27531
+#EXTINF:-1,US TRUTV_East
+http://appleiptv.com:25461/3478/3478/27533
+#EXTINF:-1,US BBC_America
+http://appleiptv.com:25461/3478/3478/27534
+#EXTINF:-1,US WETV
+http://appleiptv.com:25461/3478/3478/27535
+#EXTINF:-1,US AMC
+http://appleiptv.com:25461/3478/3478/27536
+#EXTINF:-1,US TNT_East
+http://appleiptv.com:25461/3478/3478/27537
+#EXTINF:-1,US TBS_East
+http://appleiptv.com:25461/3478/3478/27538
+#EXTINF:-1,US OXYGEN_East
+http://appleiptv.com:25461/3478/3478/27542
+#EXTINF:-1,US VICELAND
+http://appleiptv.com:25461/3478/3478/27543
+#EXTINF:-1,US FUSE
+http://appleiptv.com:25461/3478/3478/27544
+#EXTINF:-1,US Bravo_West
+http://appleiptv.com:25461/3478/3478/27545
+#EXTINF:-1,US SYFY_East
+http://appleiptv.com:25461/3478/3478/27546
+#EXTINF:-1,US PeopleTV
+http://appleiptv.com:25461/3478/3478/27549
+#EXTINF:-1,US Cheddar_Buisness
+http://appleiptv.com:25461/3478/3478/27550
+#EXTINF:-1,US TVLAND
+http://appleiptv.com:25461/3478/3478/27551
+#EXTINF:-1,US E!_West
+http://appleiptv.com:25461/3478/3478/27552
+#EXTINF:-1,US BET_HER
+http://appleiptv.com:25461/3478/3478/27554
+#EXTINF:-1,US BET_Jams
+http://appleiptv.com:25461/3478/3478/27555
+#EXTINF:-1,US BET_SOUL
+http://appleiptv.com:25461/3478/3478/27556
+#EXTINF:-1,US BET
+http://appleiptv.com:25461/3478/3478/27557
+#EXTINF:-1,US VH1
+http://appleiptv.com:25461/3478/3478/27558
+#EXTINF:-1,US MTV_Classic
+http://appleiptv.com:25461/3478/3478/27559
+#EXTINF:-1,US MTVU
+http://appleiptv.com:25461/3478/3478/27560
+#EXTINF:-1,US MTV_LIVE
+http://appleiptv.com:25461/3478/3478/27561
+#EXTINF:-1,US MTV2
+http://appleiptv.com:25461/3478/3478/27562
+#EXTINF:-1,US MTV
+http://appleiptv.com:25461/3478/3478/27563
+#EXTINF:-1,US CMT
+http://appleiptv.com:25461/3478/3478/27564
+#EXTINF:-1,US Comedy_Central_West
+http://appleiptv.com:25461/3478/3478/27565
+#EXTINF:-1,US Paramount
+http://appleiptv.com:25461/3478/3478/27566
+#EXTINF:-1,US Logo
+http://appleiptv.com:25461/3478/3478/27567
+#EXTINF:-1,US insp
+http://appleiptv.com:25461/3478/3478/27568
+#EXTINF:-1,US Cozi
+http://appleiptv.com:25461/3478/3478/27569
+#EXTINF:-1,US Revolt
+http://appleiptv.com:25461/3478/3478/27570
+#EXTINF:-1,US Lifetime
+http://appleiptv.com:25461/3478/3478/27572
+#EXTINF:-1,US USA_Network_West
+http://appleiptv.com:25461/3478/3478/27573
+#EXTINF:-1,US Pop
+http://appleiptv.com:25461/3478/3478/27574
+#EXTINF:-1,US MLB_Network
+http://appleiptv.com:25461/3478/3478/27576
+#EXTINF:-1,US Olympic_Channel
+http://appleiptv.com:25461/3478/3478/27609
+#EXTINF:-1,US Game_Show_Network
+http://appleiptv.com:25461/3478/3478/27618
+#EXTINF:-1,US Ginx_TV
+http://appleiptv.com:25461/3478/3478/27635
 
-#EXTINF:-1,ABC
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39061
-#EXTINF:-1,CW HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39062
-#EXTINF:-1,5 STAR MAX FHD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39063
-#EXTINF:-1,CBS HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39064
-#EXTINF:-1,TBS HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39065
-#EXTINF:-1,USA Network
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39066
-#EXTINF:-1,BTN
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39067
+#EXTINF:-1,US EPIX2
+http://appleiptv.com:25461/3478/3478/28060
+#EXTINF:-1,US TLC_East
+http://appleiptv.com:25461/3478/3478/28061
+#EXTINF:-1,US Discovery_Channel_East
+http://appleiptv.com:25461/3478/3478/28062
+#EXTINF:-1,US Animal_Planet_East
+http://appleiptv.com:25461/3478/3478/28063
+#EXTINF:-1,US Freeform_East
+http://appleiptv.com:25461/3478/3478/28064
+#EXTINF:-1,US FOX_KSWB
+http://appleiptv.com:25461/3478/3478/28068
+#EXTINF:-1,US HGTV_West
+http://appleiptv.com:25461/3478/3478/28069
+#EXTINF:-1,US FOX_WRBW
+http://appleiptv.com:25461/3478/3478/28070
+#EXTINF:-1,US FOX_WMYT
+http://appleiptv.com:25461/3478/3478/28071
+#EXTINF:-1,US FOX_WFTC
+http://appleiptv.com:25461/3478/3478/28072
+#EXTINF:-1,US FOX WWOR (New Jersey)
+http://appleiptv.com:25461/3478/3478/28073
+#EXTINF:-1,US FOX_WPNT_Pittsburgh
+http://appleiptv.com:25461/3478/3478/28075
+#EXTINF:-1,US FOX_WRDC_Durham
+http://appleiptv.com:25461/3478/3478/28076
+#EXTINF:-1,US FOX_WCGV_Milwaukee
+http://appleiptv.com:25461/3478/3478/28077
+#EXTINF:-1,US FOX_WSYX_Columbus
+http://appleiptv.com:25461/3478/3478/28078
+#EXTINF:-1,US Latin Telemundo_WSNS
+http://appleiptv.com:25461/3478/3478/28084
+#EXTINF:-1,US Outside_TV
+http://appleiptv.com:25461/3478/3478/28085
+#EXTINF:-1,US Outdoor_Channel
+http://appleiptv.com:25461/3478/3478/28086
+#EXTINF:-1,US MAVTV
+http://appleiptv.com:25461/3478/3478/28087
+#EXTINF:-1,US CBS_WINK
+http://appleiptv.com:25461/3478/3478/28088
+#EXTINF:-1,US WGN-TV
+http://appleiptv.com:25461/3478/3478/28089
+#EXTINF:-1,US RT_News
+http://appleiptv.com:25461/3478/3478/28090
+#EXTINF:-1,US Bloomberg
+http://appleiptv.com:25461/3478/3478/28092
+#EXTINF:-1,US Ride TV
+http://appleiptv.com:25461/3478/3478/28094
+#EXTINF:-1,US ACC Network
+http://appleiptv.com:25461/3478/3478/28095
+#EXTINF:-1,US Great American Country
+http://appleiptv.com:25461/3478/3478/28097
+#EXTINF:-1,US EPIX Drive-In
+http://appleiptv.com:25461/3478/3478/28098
+#EXTINF:-1,US Reelz
+http://appleiptv.com:25461/3478/3478/28101
+#EXTINF:-1,US AXS TV
+http://appleiptv.com:25461/3478/3478/28103
+#EXTINF:-1,US TVG_Network
+http://appleiptv.com:25461/3478/3478/28105
+#EXTINF:-1,US TVG2_Network
+http://appleiptv.com:25461/3478/3478/28106
+#EXTINF:-1,US FM
+http://appleiptv.com:25461/3478/3478/28110
+#EXTINF:-1,US Ovation
+http://appleiptv.com:25461/3478/3478/28111
+#EXTINF:-1,US One American News Network
+http://appleiptv.com:25461/3478/3478/28112
+#EXTINF:-1,US Justice Central
+http://appleiptv.com:25461/3478/3478/28113
+#EXTINF:-1,US UP
+http://appleiptv.com:25461/3478/3478/28114
+#EXTINF:-1,US TV ONE
+http://appleiptv.com:25461/3478/3478/28115
+#EXTINF:-1,US Comedy TV
+http://appleiptv.com:25461/3478/3478/28116
+#EXTINF:-1,US Audience
+http://appleiptv.com:25461/3478/3478/28117
+#EXTINF:-1,US Aspire
+http://appleiptv.com:25461/3478/3478/28118
+#EXTINF:-1,US AccuWeather
+http://appleiptv.com:25461/3478/3478/28119
+#EXTINF:-1,US ABC_WHAS_LOU
+http://appleiptv.com:25461/3478/3478/28120
+#EXTINF:-1,US UFC
+http://appleiptv.com:25461/3478/3478/28136
+#EXTINF:-1,US INFRA
+http://appleiptv.com:25461/3478/3478/28181
+#EXTINF:-1,US RFD-TV
+http://appleiptv.com:25461/3478/3478/28183
+#EXTINF:-1,US The Cowboy Channel
+http://appleiptv.com:25461/3478/3478/28184
+#EXTINF:-1,US ACC Network (Backup)
+http://appleiptv.com:25461/3478/3478/28185
+#EXTINF:-1,US GEM Shopping
+http://appleiptv.com:25461/3478/3478/28187
+#EXTINF:-1,US C-SPAN 1
+http://appleiptv.com:25461/3478/3478/28188
+#EXTINF:-1,US C-SPAN 2
+http://appleiptv.com:25461/3478/3478/28189
+#EXTINF:-1,US Nautical Channel
+http://appleiptv.com:25461/3478/3478/28190
+#EXTINF:-1,US AWE
+http://appleiptv.com:25461/3478/3478/28191
+#EXTINF:-1,US TNT (FHD)
+http://appleiptv.com:25461/3478/3478/28224
+#EXTINF:-1,US Discovery_Life
+http://appleiptv.com:25461/3478/3478/28225
+#EXTINF:-1,US ID Investigation Discovery
+http://appleiptv.com:25461/3478/3478/28226
+#EXTINF:-1,US WWE Network
+http://appleiptv.com:25461/3478/3478/28276
+#EXTINF:-1,US WGN America
+http://appleiptv.com:25461/3478/3478/28277
+#EXTINF:-1,US A&E FHD
+http://appleiptv.com:25461/3478/3478/28285
+#EXTINF:-1,US ID Investigation Discovery (FHD)
+http://appleiptv.com:25461/3478/3478/28312
+#EXTINF:-1,US QVC
+http://appleiptv.com:25461/3478/3478/28313
+#EXTINF:-1,US QVC 2
+http://appleiptv.com:25461/3478/3478/28314
+#EXTINF:-1,US QVC 3
+http://appleiptv.com:25461/3478/3478/28315
+#EXTINF:-1,US Holiday HQ
+http://appleiptv.com:25461/3478/3478/28316
+#EXTINF:-1,US BUZZR
+http://appleiptv.com:25461/3478/3478/28317
 
-#EXTINF:-1,WWE FHD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39092
+#EXTINF:-1,US Crime & Investigation Network
+http://appleiptv.com:25461/3478/3478/28328
+#EXTINF:-1,US MGM
+http://appleiptv.com:25461/3478/3478/28329
+#EXTINF:-1,US MTV Live
+http://appleiptv.com:25461/3478/3478/28330
+#EXTINF:-1,US SHORTS TV
+http://appleiptv.com:25461/3478/3478/28331
+#EXTINF:-1,US CW WNUV (Baltimore)
+http://appleiptv.com:25461/3478/3478/28332
+#EXTINF:-1,US FX_East
+http://appleiptv.com:25461/3478/3478/28364
+#EXTINF:-1,US FXX_East
+http://appleiptv.com:25461/3478/3478/28365
+#EXTINF:-1,US Bravo_East
+http://appleiptv.com:25461/3478/3478/28366
+#EXTINF:-1,US TRAVEL Channel_East
+http://appleiptv.com:25461/3478/3478/28367
+#EXTINF:-1,US FOOD_Network_East
+http://appleiptv.com:25461/3478/3478/28368
+#EXTINF:-1,US Comedy_Central_East
+http://appleiptv.com:25461/3478/3478/28369
+#EXTINF:-1,US E!_East
+http://appleiptv.com:25461/3478/3478/28370
+#EXTINF:-1,US Nat Geo East
+http://appleiptv.com:25461/3478/3478/28371
+#EXTINF:-1,US Nat Geo Wild East
+http://appleiptv.com:25461/3478/3478/28372
+#EXTINF:-1,US USA_Network_East
+http://appleiptv.com:25461/3478/3478/28375
+#EXTINF:-1,US: Antenna TV
+http://appleiptv.com:25461/3478/3478/30524
+#EXTINF:-1,US: ME TV
+http://appleiptv.com:25461/3478/3478/30525
+#EXTINF:-1,Antenna_TV
+http://appleiptv.com:25461/3478/3478/31170
+#EXTINF:-1,CNN
+http://appleiptv.com:25461/3478/3478/59631
 
-#EXTINF:-1,ACTION MAX
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39102
-#EXTINF:-1,ACTIONMAX HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39103
-#EXTINF:-1,AMC HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39104
-#EXTINF:-1,Cinemax East HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39105
-#EXTINF:-1,CINEMAX HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39106
-#EXTINF:-1,EL REY  HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39107
-#EXTINF:-1,TNT HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39108
-#EXTINF:-1,HALLMARK HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39109
-#EXTINF:-1,HBO COMEDY HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39110
-#EXTINF:-1,HBO FAMILY FHD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39111
-#EXTINF:-1,HBO SIGNATURE HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39112
-#EXTINF:-1,Lifetime Movies HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39113
-#EXTINF:-1,MoreMax HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39114
-#EXTINF:-1,SHOWTIME HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39115
-#EXTINF:-1,SHOWTIME
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39116
-#EXTINF:-1,STARZ WEST
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39117
-#EXTINF:-1,STARZ CINEMA
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39118
-#EXTINF:-1,STARZ CINEMA  HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39119
-#EXTINF:-1,FX TV HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39121
-#EXTINF:-1,HBO FHD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39122
-#EXTINF:-1,HBO ZONE
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39123
-#EXTINF:-1,COMEDY CENTRAL HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39127
+#EXTINF:-1,Boogle Bollywood India
+http://appleiptv.com:25461/3478/3478/43307
+#EXTINF:-1,Bollywood Pop HD
+http://appleiptv.com:25461/3478/3478/42896
+#EXTINF:-1,Jatt TV bhangra music
+http://appleiptv.com:25461/3478/3478/130239
 
-#EXTINF:-1,A&E
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39125
-#EXTINF:-1,FOOD NETWORK HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39120
-#EXTINF:-1,E!
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39128
-#EXTINF:-1,Syfy HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39129
-#EXTINF:-1,DAYSTAR TV
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39130
-#EXTINF:-1,DIY Network
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39131
-#EXTINF:-1,Fox HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39132
-#EXTINF:-1,FXX
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39133
-#EXTINF:-1,SPIKE TV HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39134
-#EXTINF:-1,TLC HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39135
-#EXTINF:-1,Viceland
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39136
+#EXTINF:-1,Cine Voice
+http://appleiptv.com:25461/3478/3478/130241
+#EXTINF:-1,Ekta TV
+http://appleiptv.com:25461/3478/3478/130242
+#EXTINF:-1,chardikla
+http://appleiptv.com:25461/3478/3478/130243
+#EXTINF:-1,JHANJAR
+http://appleiptv.com:25461/3478/3478/130244
 
-#EXTINF:-1,FREEFROM
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39138
-#EXTINF:-1,NICKTOONS
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39139
-#EXTINF:-1,Cartoon Network
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39140
-#EXTINF:-1,Disney Channel FHD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39141
-#EXTINF:-1,MSNBC FHD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39142
-#EXTINF:-1,Nick
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39143
+#EXTINF:-1,US HBO_East (FHD)
+http://appleiptv.com:25461/3478/3478/28192
+#EXTINF:-1,US Starz in Black
+http://appleiptv.com:25461/3478/3478/28168
+#EXTINF:-1,US Starz Cinema
+http://appleiptv.com:25461/3478/3478/28166
+#EXTINF:-1,US Starz Comedy
+http://appleiptv.com:25461/3478/3478/28164
+#EXTINF:-1,US HBO Family East
+http://appleiptv.com:25461/3478/3478/28132
+#EXTINF:-1,US Starz Encore Suspense
+http://appleiptv.com:25461/3478/3478/28131
+#EXTINF:-1,US Starz Encore Family
+http://appleiptv.com:25461/3478/3478/28130
+#EXTINF:-1,US Starz Kids & Family
+http://appleiptv.com:25461/3478/3478/28129
+#EXTINF:-1,US Starz Encore Westerns
+http://appleiptv.com:25461/3478/3478/28128
+#EXTINF:-1,US Starz Encore Classic
+http://appleiptv.com:25461/3478/3478/28126
+#EXTINF:-1,US Starz Encore Black
+http://appleiptv.com:25461/3478/3478/28127
+#EXTINF:-1,US Starz Encore Action
+http://appleiptv.com:25461/3478/3478/28125
+#EXTINF:-1,US Starz Encore West
+http://appleiptv.com:25461/3478/3478/28124
+#EXTINF:-1,US Starz Encore East
+http://appleiptv.com:25461/3478/3478/28108
 
-#EXTINF:-1,ANIMAL PLANET HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39145
-#EXTINF:-1,DISCOVERY  FHD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39146
-#EXTINF:-1,CRIME INVESTIGATION HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39147
-#EXTINF:-1,DISCOVERY SC HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39148
-#EXTINF:-1,H2 HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39149
-#EXTINF:-1,HISTORY HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39150
-#EXTINF:-1,NAT GEO
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39151
-#EXTINF:-1,NAT GEO WILD HD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39152
-#EXTINF:-1,TRAVEL Channel
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39153
+#EXTINF:-1,US Hallmark_Drama
+http://appleiptv.com:25461/3478/3478/27532
+#EXTINF:-1,US Hallmark
+http://appleiptv.com:25461/3478/3478/27571
+#EXTINF:-1,US HBO_East
+http://appleiptv.com:25461/3478/3478/27529
+#EXTINF:-1,US HBO2
+http://appleiptv.com:25461/3478/3478/27528
+#EXTINF:-1,US Cinemax_East
+http://appleiptv.com:25461/3478/3478/27525
+#EXTINF:-1,US Turner_Classic_Movies
+http://appleiptv.com:25461/3478/3478/27521
+#EXTINF:-1,US Hallmark_Movies
+http://appleiptv.com:25461/3478/3478/27520
+#EXTINF:-1,US Lifetime_Movies
+http://appleiptv.com:25461/3478/3478/27519
+#EXTINF:-1,US Showtime_East
+http://appleiptv.com:25461/3478/3478/27526
+#EXTINF:-1,US Showtime_West
+http://appleiptv.com:25461/3478/3478/27527
+#EXTINF:-1,US Showtime 2
+http://appleiptv.com:25461/3478/3478/28174
+#EXTINF:-1,US Showtime Showcase
+http://appleiptv.com:25461/3478/3478/28175
+#EXTINF:-1,US Showtime Extreme
+http://appleiptv.com:25461/3478/3478/28176
+#EXTINF:-1,US Showtime Beyond
+http://appleiptv.com:25461/3478/3478/28177
+#EXTINF:-1,US Showtime Family Zone
+http://appleiptv.com:25461/3478/3478/28178
+#EXTINF:-1,US Starz_West
+http://appleiptv.com:25461/3478/3478/27522
+#EXTINF:-1,US Sony Movies   (F)
+http://appleiptv.com:25461/3478/3478/68403
+#EXTINF:-1,CA MovieTime
+http://appleiptv.com:25461/3478/3478/31627
+#EXTINF:-1,US Nick_Teen
+http://appleiptv.com:25461/3478/3478/27492
+#EXTINF:-1,US Nick_Toons
+http://appleiptv.com:25461/3478/3478/27493
+#EXTINF:-1,US Nick_JR_West
+http://appleiptv.com:25461/3478/3478/27494
+#EXTINF:-1,US Nick_West
+http://appleiptv.com:25461/3478/3478/27495
+#EXTINF:-1,US Nick_Music
+http://appleiptv.com:25461/3478/3478/27553
+#EXTINF:-1,US Nick_East
+http://appleiptv.com:25461/3478/3478/28373
+#EXTINF:-1,US Nick_JR_East
+http://appleiptv.com:25461/3478/3478/28374
+#EXTINF:-1,US Disney_XD_East
+http://appleiptv.com:25461/3478/3478/28065
+#EXTINF:-1,US Disney_Channel_East
+http://appleiptv.com:25461/3478/3478/28066
+#EXTINF:-1,US Disney_JR_East
+http://appleiptv.com:25461/3478/3478/28067
+#EXTINF:-1,US Baby_First
+http://appleiptv.com:25461/3478/3478/28082
+#EXTINF:-1,US Universal_Kids
+http://appleiptv.com:25461/3478/3478/27490
+#EXTINF:-1,US PBS_Kids
+http://appleiptv.com:25461/3478/3478/27777
+#EXTINF:-1,US MC Video | Kidz Only!
+http://appleiptv.com:25461/3478/3478/28360
+#EXTINF:-1,US MC Video | Kidz Bop
+http://appleiptv.com:25461/3478/3478/28361
+#EXTINF:-1,US Cartoon_Network_East
+http://appleiptv.com:25461/3478/3478/27489
+#EXTINF:-1,CA DISNEY_XD
+http://appleiptv.com:25461/3478/3478/31683
+#EXTINF:-1,CA Disney Channel
+http://appleiptv.com:25461/3478/3478/31684
+#EXTINF:-1,CA Disney Junior
+http://appleiptv.com:25461/3478/3478/31707
+#EXTINF:-1,CA La chaÃ®ne Disney (FR)
+http://appleiptv.com:25461/3478/3478/31762
+#EXTINF:-1,CA Cartoon Network
+http://appleiptv.com:25461/3478/3478/31698
+#EXTINF:-1,CA Nickelodeon
+http://appleiptv.com:25461/3478/3478/31623
 
-#EXTINF:-1,MTV
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39155
-#EXTINF:-1,VH1 FHD
-http://dimapro.cz:8080/00:1A:79:17:0C:08/ziajdjjfdifjd64646/39156
+#EXTINF:-1,AajTak News UK
+http://appleiptv.com:25461/3478/3478/43070
+#EXTINF:-1,Aaj Tak Hindi HD
+http://appleiptv.com:25461/3478/3478/42936
+#EXTINF:-1,Delhi AajTak Hindi
+http://appleiptv.com:25461/3478/3478/43073
+#EXTINF:-1,Sony Max UK
+http://appleiptv.com:25461/3478/3478/42983
+#EXTINF:-1,Sony Max 2 UK
+http://appleiptv.com:25461/3478/3478/42997
+#EXTINF:-1,Sony Max Hindi HD
+http://appleiptv.com:25461/3478/3478/42887
+#EXTINF:-1,Sony Sab Hindi HD
+http://appleiptv.com:25461/3478/3478/42880
+#EXTINF:-1,Sony Sab UK
+http://appleiptv.com:25461/3478/3478/42977
+#EXTINF:-1,Sony Six India HD
+http://appleiptv.com:25461/3478/3478/42943
+#EXTINF:-1,Sony Espn India HD
+http://appleiptv.com:25461/3478/3478/42944
+#EXTINF:-1,Sony Pix India HD
+http://appleiptv.com:25461/3478/3478/42966
+#EXTINF:-1,Sony TV India HD
+http://appleiptv.com:25461/3478/3478/42877
+#EXTINF:-1,Sony Tv UK
+http://appleiptv.com:25461/3478/3478/42971
+#EXTINF:-1,Sony BBC Earth Hindi HD
+http://appleiptv.com:25461/3478/3478/42888
+#EXTINF:-1,Sony Pal Hindi
+http://appleiptv.com:25461/3478/3478/42978
+#EXTINF:-1,National Geograhic Hindi HD
+http://appleiptv.com:25461/3478/3478/42889
+#EXTINF:-1,History Tv Hindi HD
+http://appleiptv.com:25461/3478/3478/42890
+#EXTINF:-1,Travel Xp Hindi HD
+http://appleiptv.com:25461/3478/3478/42891
+#EXTINF:-1,Discovery World Hindi HD
+http://appleiptv.com:25461/3478/3478/42892
+#EXTINF:-1,Bollywood Dilse HD
+http://appleiptv.com:25461/3478/3478/42894
+#EXTINF:-1,Bollywood Bol Haddipa HD
+http://appleiptv.com:25461/3478/3478/42895
+#EXTINF:-1,Bollywood Kadak Hits HD
+http://appleiptv.com:25461/3478/3478/42897
+#EXTINF:-1,Bollywood Masala HD
+http://appleiptv.com:25461/3478/3478/42898
+#EXTINF:-1,Bollywood Premier HD
+http://appleiptv.com:25461/3478/3478/42899
+#EXTINF:-1,Bollywood Astra Box Office HD
+http://appleiptv.com:25461/3478/3478/42931
+#EXTINF:-1,Zee Bollywood Hindi
+http://appleiptv.com:25461/3478/3478/42995
+#EXTINF:-1,Republic Tv News Hindi
+http://appleiptv.com:25461/3478/3478/42985
+#EXTINF:-1,Wion News Hindi
+http://appleiptv.com:25461/3478/3478/42988
+#EXTINF:-1,BBC World News
+http://appleiptv.com:25461/3478/3478/42990
+#EXTINF:-1,NDTV News UK
+http://appleiptv.com:25461/3478/3478/43065
+#EXTINF:-1,NDTV News Hindi
+http://appleiptv.com:25461/3478/3478/43066
+#EXTINF:-1,Abp News UK
+http://appleiptv.com:25461/3478/3478/43068
+#EXTINF:-1,Tez News
+http://appleiptv.com:25461/3478/3478/43071
+#EXTINF:-1,News Nation Hindi
+http://appleiptv.com:25461/3478/3478/43075
+#EXTINF:-1,Mh 1 News India
+http://appleiptv.com:25461/3478/3478/43077
+#EXTINF:-1,Zee News Hindi
+http://appleiptv.com:25461/3478/3478/43067
+#EXTINF:-1,Movies Now India HD
+http://appleiptv.com:25461/3478/3478/42955
+#EXTINF:-1,Housefull Movies Hindi
+http://appleiptv.com:25461/3478/3478/42934
+#EXTINF:-1,Star Gold Select Hindi HD
+http://appleiptv.com:25461/3478/3478/42883
+#EXTINF:-1,Star Gold Hindi HD
+http://appleiptv.com:25461/3478/3478/42884
+#EXTINF:-1,Star Bharat
+http://appleiptv.com:25461/3478/3478/42974
+#EXTINF:-1,Star Plus Hindi HD
+http://appleiptv.com:25461/3478/3478/42879
+#EXTINF:-1,Star World HD.
+http://appleiptv.com:25461/3478/3478/42956
+#EXTINF:-1,Star World Premiere HD
+http://appleiptv.com:25461/3478/3478/42965
+#EXTINF:-1,Star Movies India HD
+http://appleiptv.com:25461/3478/3478/42967
+#EXTINF:-1,Star Movies Select HD
+http://appleiptv.com:25461/3478/3478/42968
+#EXTINF:-1,Zee Etc Hindi
+http://appleiptv.com:25461/3478/3478/42998
+#EXTINF:-1,Zee Tv India HD
+http://appleiptv.com:25461/3478/3478/42876
+#EXTINF:-1,Zee TV Uk
+http://appleiptv.com:25461/3478/3478/42970
+#EXTINF:-1,Zee Cinema Hindi HD
+http://appleiptv.com:25461/3478/3478/42886
+#EXTINF:-1,Zee cinema UK
+http://appleiptv.com:25461/3478/3478/42981
+#EXTINF:-1,Zee Cafe HD
+http://appleiptv.com:25461/3478/3478/42962
+#EXTINF:-1,Zee Anmol Cinema Hindi
+http://appleiptv.com:25461/3478/3478/42993
+#EXTINF:-1,Zee Anmol Hindi
+http://appleiptv.com:25461/3478/3478/42979
+#EXTINF:-1,Zee Action Hindi
+http://appleiptv.com:25461/3478/3478/42994
+#EXTINF:-1,Zee World
+http://appleiptv.com:25461/3478/3478/42935
+#EXTINF:-1,& Tv Hindi HD
+http://appleiptv.com:25461/3478/3478/42881
+#EXTINF:-1,& Pictures Hindi HD
+http://appleiptv.com:25461/3478/3478/42882
+#EXTINF:-1,Mtv Beats Hindi HD
+http://appleiptv.com:25461/3478/3478/42885
+#EXTINF:-1,Epic Hindi HD
+http://appleiptv.com:25461/3478/3478/42893
+#EXTINF:-1,Colors TV Hindi HD
+http://appleiptv.com:25461/3478/3478/42900
+#EXTINF:-1,Color TV HD
+http://appleiptv.com:25461/3478/3478/42972
+#EXTINF:-1,Colors Rishtey Asia Hindi
+http://appleiptv.com:25461/3478/3478/43037
+#EXTINF:-1,Colors Rishtey Europe UK
+http://appleiptv.com:25461/3478/3478/42976
+#EXTINF:-1,Colors CinePlex UK
+http://appleiptv.com:25461/3478/3478/42982
+#EXTINF:-1,Colors infinity India HD
+http://appleiptv.com:25461/3478/3478/42958
+#EXTINF:-1,Cineplex  Hindi HD
+http://appleiptv.com:25461/3478/3478/42932
+#EXTINF:-1,DD NATIONAL TV
+http://appleiptv.com:25461/3478/3478/42933
 
+#EXTINF:-1,& Prive India HD
+http://appleiptv.com:25461/3478/3478/42961
+#EXTINF:-1,& Flix India HD
+http://appleiptv.com:25461/3478/3478/42960
+#EXTINF:-1,Hbo India HD
+http://appleiptv.com:25461/3478/3478/42959
+#EXTINF:-1,Romedy Now India HD
+http://appleiptv.com:25461/3478/3478/42954
+#EXTINF:-1,IN✦: Zee Anmol Cinema
+http://appleiptv.com:25461/3478/3478/42963
+#EXTINF:-1,| Premium Channels |
+http://appleiptv.com:25461/3478/3478/42969
+#EXTINF:-1,Star Gold Select Hindi HD
+http://appleiptv.com:25461/3478/3478/42975
+#EXTINF:-1,B4U Movies
+http://appleiptv.com:25461/3478/3478/42987
+#EXTINF:-1,Republic Bharat Hindi
+http://appleiptv.com:25461/3478/3478/42989
+#EXTINF:-1,& Pictures Hindi
+http://appleiptv.com:25461/3478/3478/42991
+#EXTINF:-1,Bflix Hindi
+http://appleiptv.com:25461/3478/3478/42992
+#EXTINF:-1,B4u Music
+http://appleiptv.com:25461/3478/3478/43000
+#EXTINF:-1,B4u Movies UK
+http://appleiptv.com:25461/3478/3478/42986
+#EXTINF:-1,B4u Plus Hindi
+http://appleiptv.com:25461/3478/3478/42996
+#EXTINF:-1,Mh One Shradha
+http://appleiptv.com:25461/3478/3478/43019
+#EXTINF:-1,Mh One Music
+http://appleiptv.com:25461/3478/3478/43020
+#EXTINF:-1,Zing Music UK
+http://appleiptv.com:25461/3478/3478/42999
+#EXTINF:-1,India Today TV Hindi
+http://appleiptv.com:25461/3478/3478/43072
+#EXTINF:-1,Tv9 India Hindi
+http://appleiptv.com:25461/3478/3478/43069
+#EXTINF:-1,Music Hindi
+http://appleiptv.com:25461/3478/3478/43001
+#EXTINF:-1,Masti Music Hindi
+http://appleiptv.com:25461/3478/3478/43004
+#EXTINF:-1,9XM Music Hindi
+http://appleiptv.com:25461/3478/3478/43005
+#EXTINF:-1,9X Jalwa Hindi
+http://appleiptv.com:25461/3478/3478/43006
+#EXTINF:-1,Brit Asia UK
+http://appleiptv.com:25461/3478/3478/43002
+#EXTINF:-1,Mtv Hindi
+http://appleiptv.com:25461/3478/3478/43003
+#EXTINF:-1,Wion News Hindi
+http://appleiptv.com:25461/3478/3478/43074
+#EXTINF:-1,Times Now Hindi
+http://appleiptv.com:25461/3478/3478/43076
+#EXTINF:-1,Tlc Hindi
+http://appleiptv.com:25461/3478/3478/43091
+#EXTINF:-1,Discovery Hindi HD
+http://appleiptv.com:25461/3478/3478/43092
+#EXTINF:-1,Lakshya TV
+http://appleiptv.com:25461/3478/3478/43298
+#EXTINF:-1,Zoom Hindi
+http://appleiptv.com:25461/3478/3478/43299
+#EXTINF:-1,Hamdard Tv Toronto
+http://appleiptv.com:25461/3478/3478/43023
+#EXTINF:-1,Fateh TV India
+http://appleiptv.com:25461/3478/3478/43022
+#EXTINF:-1,Dip Channel
+http://appleiptv.com:25461/3478/3478/43016
+#EXTINF:-1,ZEE news
+http://appleiptv.com:25461/3478/3478/43013
+#EXTINF:-1,Kids TV - Nursery
+http://appleiptv.com:25461/3478/3478/43008
+#EXTINF:-1,E 24 Hindi
+http://appleiptv.com:25461/3478/3478/43007
+#EXTINF:-1,IN | STAR PLUS UK HD
+http://appleiptv.com:25461/3478/3478/81890
+#EXTINF:-1,IN | STAR GOLD UK HD
+http://appleiptv.com:25461/3478/3478/81891
+#EXTINF:-1,IN | STAR BHARAT UK
+http://appleiptv.com:25461/3478/3478/81892
+#EXTINF:-1,IN | SONY TV HD INDIA
+http://appleiptv.com:25461/3478/3478/81893
+#EXTINF:-1,IN: SONY TV HD UK
+http://appleiptv.com:25461/3478/3478/81894
+#EXTINF:-1,IN | ASIANET HD
+http://appleiptv.com:25461/3478/3478/81895
+#EXTINF:-1,IN | Asianet News
+http://appleiptv.com:25461/3478/3478/81896
+#EXTINF:-1,IN | COLORS UK VIP
+http://appleiptv.com:25461/3478/3478/81897
+#EXTINF:-1,IN | ZEE TV UK
+http://appleiptv.com:25461/3478/3478/81898
+#EXTINF:-1,IN | ZEE CINEMA HD INDIA
+http://appleiptv.com:25461/3478/3478/81899
+#EXTINF:-1,IN | ZEE CINEMA UK
+http://appleiptv.com:25461/3478/3478/81900
+#EXTINF:-1,IN | ZEE CINEMA UK HD
+http://appleiptv.com:25461/3478/3478/81901
+#EXTINF:-1,IN | ZEE TV HD INDIA
+http://appleiptv.com:25461/3478/3478/81902
+
+#EXTINF:-1,CA TLC
+http://appleiptv.com:25461/3478/3478/31718
+#EXTINF:-1,CA A&E
+http://appleiptv.com:25461/3478/3478/31712
+#EXTINF:-1,CA Crime & Investigation
+http://appleiptv.com:25461/3478/3478/31719
+#EXTINF:-1,CA Discovery Channel
+http://appleiptv.com:25461/3478/3478/31685
+#EXTINF:-1,CA DISCOVERY SCIENCE
+http://appleiptv.com:25461/3478/3478/31843
+#EXTINF:-1,CA Animal Planet
+http://appleiptv.com:25461/3478/3478/31725
+#EXTINF:-1,CA HLN
+http://appleiptv.com:25461/3478/3478/31669
+#EXTINF:-1,CA History Channel
+http://appleiptv.com:25461/3478/3478/31670
+#EXTINF:-1,CA Food Network
+http://appleiptv.com:25461/3478/3478/31651
+
+#EXTINF:-1,CA CTV
+http://appleiptv.com:25461/3478/3478/31791
+#EXTINF:-1,CA CTV COMEDY
+http://appleiptv.com:25461/3478/3478/31690
+#EXTINF:-1,CA CTV TORONTO (CFTO)
+http://appleiptv.com:25461/3478/3478/31688
+#EXTINF:-1,CA CTV_Two_Atlantic
+http://appleiptv.com:25461/3478/3478/31687
+#EXTINF:-1,CA CTV Drama
+http://appleiptv.com:25461/3478/3478/31653
+#EXTINF:-1,CA TCTV2
+http://appleiptv.com:25461/3478/3478/31645
+#EXTINF:-1,CA CTV SCI-FI
+http://appleiptv.com:25461/3478/3478/31631
+
+
+#EXTINF:-1,US DIY_Network
+http://appleiptv.com:25461/3478/3478/27498
+#EXTINF:-1,CA YTV
+http://appleiptv.com:25461/3478/3478/31619
+#EXTINF:-1,CA VISION
+http://appleiptv.com:25461/3478/3478/31622
+#EXTINF:-1,CA FX
+http://appleiptv.com:25461/3478/3478/31625
+#EXTINF:-1,CA FXX
+http://appleiptv.com:25461/3478/3478/31626
+
+#EXTINF:-1,CA Crave 4
+http://appleiptv.com:25461/3478/3478/31758
+#EXTINF:-1,CA Crave 3
+http://appleiptv.com:25461/3478/3478/31757
+#EXTINF:-1,CA Crave 2
+http://appleiptv.com:25461/3478/3478/31756
+#EXTINF:-1,CA Crave 1
+http://appleiptv.com:25461/3478/3478/31755
+#EXTINF:-1,CA FAMILY
+http://appleiptv.com:25461/3478/3478/31678
+#EXTINF:-1,CA FAMILY CHRGD
+http://appleiptv.com:25461/3478/3478/31679
+#EXTINF:-1,CA FAMILY_JR
+http://appleiptv.com:25461/3478/3478/31677
+#EXTINF:-1,CA Citytv Toronto
+http://appleiptv.com:25461/3478/3478/31694
+#EXTINF:-1,CA BBC Canada
+http://appleiptv.com:25461/3478/3478/31699
+#EXTINF:-1,CA TVA Montreal (CFTM)
+http://appleiptv.com:25461/3478/3478/31701
+#EXTINF:-1,CA HBO 2
+http://appleiptv.com:25461/3478/3478/31759
+#EXTINF:-1,CA HBO 1
+http://appleiptv.com:25461/3478/3478/31760
+#EXTINF:-1,CA OMNI_1
+http://appleiptv.com:25461/3478/3478/31659
+#EXTINF:-1,CA OMNI_2
+http://appleiptv.com:25461/3478/3478/31658
+#EXTINF:-1,CA Fight Network
+http://appleiptv.com:25461/3478/3478/31676
+#EXTINF:-1,CA GLOBAL TORONTO
+http://appleiptv.com:25461/3478/3478/31846
+#EXTINF:-1,CA Global National
+http://appleiptv.com:25461/3478/3478/31764
+#EXTINF:-1,CA Global Toronto (CIII)
+http://appleiptv.com:25461/3478/3478/31673
+#EXTINF:-1,CA THE_WEATHER_NETWORK
+http://appleiptv.com:25461/3478/3478/31630
+#EXTINF:-1,CA Nat Geo Wild
+http://appleiptv.com:25461/3478/3478/31629
+#EXTINF:-1,CA Treehouse
+http://appleiptv.com:25461/3478/3478/31628
+#EXTINF:-1,CA TCM
+http://appleiptv.com:25461/3478/3478/31636
+#EXTINF:-1,CA Showcase
+http://appleiptv.com:25461/3478/3478/31637
+#EXTINF:-1,CA Adult Swim
+http://appleiptv.com:25461/3478/3478/31648
+#EXTINF:-1,CA SLICE
+http://appleiptv.com:25461/3478/3478/31649
+#EXTINF:-1,CA Game+
+http://appleiptv.com:25461/3478/3478/31652
+#EXTINF:-1,CA PBS Buffalo (WNED)
+http://appleiptv.com:25461/3478/3478/31656
+#EXTINF:-1,CA PEACHTREE
+http://appleiptv.com:25461/3478/3478/31655
+#EXTINF:-1,CA OWN
+http://appleiptv.com:25461/3478/3478/31657
+#EXTINF:-1,CA OLN
+http://appleiptv.com:25461/3478/3478/31660
+#EXTINF:-1,CA CablePulse 24
+http://appleiptv.com:25461/3478/3478/31662
+#EXTINF:-1,CA NBA_TV
+http://appleiptv.com:25461/3478/3478/31663
+#EXTINF:-1,CA NAT_GEO
+http://appleiptv.com:25461/3478/3478/31664
+#EXTINF:-1,CA MUCH_MUSIC
+http://appleiptv.com:25461/3478/3478/31665
+#EXTINF:-1,CA MTV
+http://appleiptv.com:25461/3478/3478/31666
+#EXTINF:-1,CA Makeful
+http://appleiptv.com:25461/3478/3478/31667
+#EXTINF:-1,CA Lifetime
+http://appleiptv.com:25461/3478/3478/31668
+#EXTINF:-1,CA GOLF
+http://appleiptv.com:25461/3478/3478/31672
+#EXTINF:-1,CA Game TV
+http://appleiptv.com:25461/3478/3478/31674
+#EXTINF:-1,CA E! Entertainment Television
+http://appleiptv.com:25461/3478/3478/31680
+#EXTINF:-1,CA DTOUR
+http://appleiptv.com:25461/3478/3478/31681
+#EXTINF:-1,CA DIY Network
+http://appleiptv.com:25461/3478/3478/31682
+#EXTINF:-1,CA CMT
+http://appleiptv.com:25461/3478/3478/31693
+#EXTINF:-1,CA CHCH
+http://appleiptv.com:25461/3478/3478/31695
+#EXTINF:-1,CA AMC
+http://appleiptv.com:25461/3478/3478/31703
+#EXTINF:-1,CA BNN_Bloomberg
+http://appleiptv.com:25461/3478/3478/31709
+#EXTINF:-1,CA ABC_Buffalo_(WKBW)
+http://appleiptv.com:25461/3478/3478/31710
+#EXTINF:-1,CA ABC_Spark
+http://appleiptv.com:25461/3478/3478/31711
+#EXTINF:-1,CA Much
+http://appleiptv.com:25461/3478/3478/31720
+#EXTINF:-1,CA MLB Network
+http://appleiptv.com:25461/3478/3478/31721
+#EXTINF:-1,CA ICI RDI
+http://appleiptv.com:25461/3478/3478/31722
+#EXTINF:-1,CA TV Ontario
+http://appleiptv.com:25461/3478/3478/31723
+#EXTINF:-1,CA Hollywood Suite 00's
+http://appleiptv.com:25461/3478/3478/31934
+#EXTINF:-1,CA WGN
+http://appleiptv.com:25461/3478/3478/31868
+#EXTINF:-1,CA TVO
+http://appleiptv.com:25461/3478/3478/31866
+#EXTINF:-1,CA MTV
+http://appleiptv.com:25461/3478/3478/31857
+#EXTINF:-1,CA NTV
+http://appleiptv.com:25461/3478/3478/31858
+#EXTINF:-1,CA Global News Calgary
+http://appleiptv.com:25461/3478/3478/31860
+#EXTINF:-1,CA SERIES Plus
+http://appleiptv.com:25461/3478/3478/31861
+#EXTINF:-1,CA SHOPPING
+http://appleiptv.com:25461/3478/3478/31862
+#EXTINF:-1,CA DAYSTAR TV
+http://appleiptv.com:25461/3478/3478/31841
+#EXTINF:-1,CA COOKING CHANNEL
+http://appleiptv.com:25461/3478/3478/31829
+#EXTINF:-1,CA CITY MONTREAL
+http://appleiptv.com:25461/3478/3478/31824
+#EXTINF:-1,CA CITY TORONTO
+http://appleiptv.com:25461/3478/3478/31825
+#EXTINF:-1,CA Global News Vancouver
+http://appleiptv.com:25461/3478/3478/31826
+#EXTINF:-1,CA BET
+http://appleiptv.com:25461/3478/3478/31786
+#EXTINF:-1,CA Starz 1
+http://appleiptv.com:25461/3478/3478/31776
+#EXTINF:-1,CA Starz 2
+http://appleiptv.com:25461/3478/3478/31777
+#EXTINF:-1,CA Global News Halifax
+http://appleiptv.com:25461/3478/3478/31785
+#EXTINF:-1,CA Super Channel Heart & Home
+http://appleiptv.com:25461/3478/3478/31761
+#EXTINF:-1,CA✦: DEJAVIEW HD
+http://appleiptv.com:25461/3478/3478/146516
+#EXTINF:-1,CA✦: Cottage Life FHD
+http://appleiptv.com:25461/3478/3478/146517

@@ -1,34 +1,5 @@
 #EXTM3U
-#EXTINF:-1,US NEWSY
-http://appleiptv.com:25461/3478/3478/27473
-#EXTINF:-1,US LOCALNOW
-http://appleiptv.com:25461/3478/3478/27474
-#EXTINF:-1,US FOX NEWS
-http://appleiptv.com:25461/3478/3478/27476
-#EXTINF:-1,US The_Weather_Channel
-http://appleiptv.com:25461/3478/3478/27477
-#EXTINF:-1,US HLNHD
-http://appleiptv.com:25461/3478/3478/27478
-#EXTINF:-1,US CNBC
-http://appleiptv.com:25461/3478/3478/27479
-#EXTINF:-1,US CNBC_World
-http://appleiptv.com:25461/3478/3478/27480
-#EXTINF:-1,US MSNBC
-http://appleiptv.com:25461/3478/3478/27481
-#EXTINF:-1,US Fox_News
-http://appleiptv.com:25461/3478/3478/27482
-#EXTINF:-1,US Fox_Business
-http://appleiptv.com:25461/3478/3478/27483
-#EXTINF:-1,US BBC_World_News
-http://appleiptv.com:25461/3478/3478/27484
-#EXTINF:-1,US CNN 1
-http://appleiptv.com:25461/3478/3478/27486
-#EXTINF:-1,US CNN
-http://appleiptv.com:25461/3478/3478/27487
-#EXTINF:-1,US Boomerang
-http://appleiptv.com:25461/3478/3478/27488
-#EXTINF:-1,US Smithsonian_East
-http://appleiptv.com:25461/3478/3478/27496
+
 #EXTINF:-1,US Cooking_Channel
 http://appleiptv.com:25461/3478/3478/27497
 #EXTINF:-1,US HISTORY  Channel
@@ -164,44 +135,14 @@ http://appleiptv.com:25461/3478/3478/28064
 http://appleiptv.com:25461/3478/3478/28068
 #EXTINF:-1,US HGTV_West
 http://appleiptv.com:25461/3478/3478/28069
-#EXTINF:-1,US FOX_WRBW
-http://appleiptv.com:25461/3478/3478/28070
-#EXTINF:-1,US FOX_WMYT
-http://appleiptv.com:25461/3478/3478/28071
-#EXTINF:-1,US FOX_WFTC
-http://appleiptv.com:25461/3478/3478/28072
-#EXTINF:-1,US FOX WWOR (New Jersey)
-http://appleiptv.com:25461/3478/3478/28073
-#EXTINF:-1,US FOX_WPNT_Pittsburgh
-http://appleiptv.com:25461/3478/3478/28075
-#EXTINF:-1,US FOX_WRDC_Durham
-http://appleiptv.com:25461/3478/3478/28076
-#EXTINF:-1,US FOX_WCGV_Milwaukee
-http://appleiptv.com:25461/3478/3478/28077
-#EXTINF:-1,US FOX_WSYX_Columbus
-http://appleiptv.com:25461/3478/3478/28078
-#EXTINF:-1,US Latin Telemundo_WSNS
-http://appleiptv.com:25461/3478/3478/28084
+
 #EXTINF:-1,US Outside_TV
 http://appleiptv.com:25461/3478/3478/28085
 #EXTINF:-1,US Outdoor_Channel
 http://appleiptv.com:25461/3478/3478/28086
 #EXTINF:-1,US MAVTV
 http://appleiptv.com:25461/3478/3478/28087
-#EXTINF:-1,US CBS_WINK
-http://appleiptv.com:25461/3478/3478/28088
-#EXTINF:-1,US WGN-TV
-http://appleiptv.com:25461/3478/3478/28089
-#EXTINF:-1,US RT_News
-http://appleiptv.com:25461/3478/3478/28090
-#EXTINF:-1,US Bloomberg
-http://appleiptv.com:25461/3478/3478/28092
-#EXTINF:-1,US Ride TV
-http://appleiptv.com:25461/3478/3478/28094
-#EXTINF:-1,US ACC Network
-http://appleiptv.com:25461/3478/3478/28095
-#EXTINF:-1,US Great American Country
-http://appleiptv.com:25461/3478/3478/28097
+
 #EXTINF:-1,US EPIX Drive-In
 http://appleiptv.com:25461/3478/3478/28098
 #EXTINF:-1,US Reelz
@@ -230,30 +171,7 @@ http://appleiptv.com:25461/3478/3478/28116
 http://appleiptv.com:25461/3478/3478/28117
 #EXTINF:-1,US Aspire
 http://appleiptv.com:25461/3478/3478/28118
-#EXTINF:-1,US AccuWeather
-http://appleiptv.com:25461/3478/3478/28119
-#EXTINF:-1,US ABC_WHAS_LOU
-http://appleiptv.com:25461/3478/3478/28120
-#EXTINF:-1,US UFC
-http://appleiptv.com:25461/3478/3478/28136
-#EXTINF:-1,US INFRA
-http://appleiptv.com:25461/3478/3478/28181
-#EXTINF:-1,US RFD-TV
-http://appleiptv.com:25461/3478/3478/28183
-#EXTINF:-1,US The Cowboy Channel
-http://appleiptv.com:25461/3478/3478/28184
-#EXTINF:-1,US ACC Network (Backup)
-http://appleiptv.com:25461/3478/3478/28185
-#EXTINF:-1,US GEM Shopping
-http://appleiptv.com:25461/3478/3478/28187
-#EXTINF:-1,US C-SPAN 1
-http://appleiptv.com:25461/3478/3478/28188
-#EXTINF:-1,US C-SPAN 2
-http://appleiptv.com:25461/3478/3478/28189
-#EXTINF:-1,US Nautical Channel
-http://appleiptv.com:25461/3478/3478/28190
-#EXTINF:-1,US AWE
-http://appleiptv.com:25461/3478/3478/28191
+
 #EXTINF:-1,US TNT (FHD)
 http://appleiptv.com:25461/3478/3478/28224
 #EXTINF:-1,US Discovery_Life
@@ -268,12 +186,7 @@ http://appleiptv.com:25461/3478/3478/28277
 http://appleiptv.com:25461/3478/3478/28285
 #EXTINF:-1,US ID Investigation Discovery (FHD)
 http://appleiptv.com:25461/3478/3478/28312
-#EXTINF:-1,US QVC
-http://appleiptv.com:25461/3478/3478/28313
-#EXTINF:-1,US QVC 2
-http://appleiptv.com:25461/3478/3478/28314
-#EXTINF:-1,US QVC 3
-http://appleiptv.com:25461/3478/3478/28315
+
 #EXTINF:-1,US Holiday HQ
 http://appleiptv.com:25461/3478/3478/28316
 #EXTINF:-1,US BUZZR
@@ -324,15 +237,6 @@ http://appleiptv.com:25461/3478/3478/43307
 http://appleiptv.com:25461/3478/3478/42896
 #EXTINF:-1,Jatt TV bhangra music
 http://appleiptv.com:25461/3478/3478/130239
-
-#EXTINF:-1,Cine Voice
-http://appleiptv.com:25461/3478/3478/130241
-#EXTINF:-1,Ekta TV
-http://appleiptv.com:25461/3478/3478/130242
-#EXTINF:-1,chardikla
-http://appleiptv.com:25461/3478/3478/130243
-#EXTINF:-1,JHANJAR
-http://appleiptv.com:25461/3478/3478/130244
 
 #EXTINF:-1,US HBO_East (FHD)
 http://appleiptv.com:25461/3478/3478/28192
@@ -437,8 +341,7 @@ http://appleiptv.com:25461/3478/3478/31683
 http://appleiptv.com:25461/3478/3478/31684
 #EXTINF:-1,CA Disney Junior
 http://appleiptv.com:25461/3478/3478/31707
-#EXTINF:-1,CA La chaÃ®ne Disney (FR)
-http://appleiptv.com:25461/3478/3478/31762
+
 #EXTINF:-1,CA Cartoon Network
 http://appleiptv.com:25461/3478/3478/31698
 #EXTINF:-1,CA Nickelodeon

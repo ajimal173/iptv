@@ -1,6 +1,9 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png",Rasi Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png",Rasi TV
@@ -22,13 +25,22 @@ http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png",Rasi Music
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png",Rasi Hollywood
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png",Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png",Rasi Lifestyle
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8

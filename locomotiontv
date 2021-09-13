@@ -7,6 +7,8 @@ https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 #EXTINF:-1,US Cartoon_Network_East
 http://appleiptv.com:25461/3478/3478/27489
+#EXTINF:-1,CA Cartoon Network
+http://appleiptv.com:25461/3478/3478/31698
 #EXTINF:0, AT-X
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:0, Yamato Animation (Italy)

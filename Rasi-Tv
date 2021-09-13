@@ -9,7 +9,6 @@ http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png",Rasi Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls

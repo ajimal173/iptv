@@ -107,7 +107,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:0, LocomotionTV (site)
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:0, azxtv.com
+#EXTINF:0, azxtv.com (site)
 http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="KanadeTV.cl" tvg-name="Kanade TV" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300",Kanade TV (720p)

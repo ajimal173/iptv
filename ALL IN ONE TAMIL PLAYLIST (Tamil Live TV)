@@ -331,3 +331,6 @@ http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png"," group-title="Hindi",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/UTV_HD.png" group-title="Hindi",UTV HD
+http://watchindia.net:8880/live/33253/72963/811.m3u8

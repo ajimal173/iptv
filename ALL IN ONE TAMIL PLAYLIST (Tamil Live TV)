@@ -336,8 +336,6 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://watchindia.net:8880/live/33253/72963/811.m3u8
 
 
-//rasi-network 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png",group-title="Rasi-Network",Rasi Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls

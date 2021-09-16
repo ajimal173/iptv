@@ -348,31 +348,31 @@ http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png",group-title="Rasi-Network",Rasi Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png",group-title="testing",Rasi Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png",group-title="Rasi-Network",Rasi Classic
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png",group-title="testing",Rasi Classic
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png",group-title="Rasi-Network",Rasi Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png",group-title="testing",Rasi Music
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png",group-title="Rasi-Network",Rasi Hollywood
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png",group-title="testing",Rasi Hollywood
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png",group-title="Rasi-Network",Rasi Hindi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png",group-title="testing",Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png",Rasi Lifestyle

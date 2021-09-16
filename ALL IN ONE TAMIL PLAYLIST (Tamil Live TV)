@@ -451,12 +451,12 @@ http://locomotiontv.com/envivo/loco_ch_low/stream.
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 #EXTINF:60 group-title="Anime_Channel",ANIPLUS ID
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:0 group-title="Anime_Channel",AniPlus
+#EXTINF:0 group-title="Anime_Channel", AniPlus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:0 group-title="Anime_Channel",ANIPLUS
 http://bit.ly/2XFcmAn
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:0 group-title="Anime_Channel",Animax [Indonesian Sub]
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-name="Kanade TV" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300", group-title="Anime_Channel"Kanade TV (720p)
+#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-name="Kanade TV" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300", group-title="Anime_Channel", Kanade TV (720p)
 http://45.32.74.87:8080/hls/kanadetv.m3u8

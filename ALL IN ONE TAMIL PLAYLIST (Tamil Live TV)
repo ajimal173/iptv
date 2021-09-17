@@ -321,19 +321,19 @@ http://watchindia.net:8880/live/33253/72963/811.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Rasi-Network",Rasi TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Rasi-Network",Rasi Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png" group-title="Rasi-Network",Rasi Classic
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -345,13 +345,13 @@ http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Rasi-Network",Rasi Hollywood
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Rasi-Network",Rasi Hindi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -459,4 +459,4 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:0 group-title="Anime_Channel",Animax [Indonesian Sub]
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="KanadeTV.cl" tvg-name="Kanade TV" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300", group-title="Anime_Channel", Kanade TV (720p)
-http://45.32.74.87:8080/hls/kanadetv.m3u8
+http://45.32.74.87:81/hls/kanadetv.m3u8

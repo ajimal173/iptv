@@ -477,6 +477,11 @@ https://snehz5tv.herokuapp.com?c=0-9-133
 #EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-24ghantatv/list/386x386/0924ghantatv24ghanta.png" group-title=“ZEE5 LIVE”,24 Ghanta
 https://snehz5tv.herokuapp.com?c=0-9-24ghantatv
 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Tamil
+http://193.161.193.99:49103/szs/suriya/zlive.php?c=zeetamil 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Thirai
+http://193.161.193.99:49103/szs/suriya/zlive.php?c=224 
+
 -----------------------------------------------
 
 

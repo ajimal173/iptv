@@ -66,14 +66,32 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Tamil Local;Entertainment",Rasi Tamil
+http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
-http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
-http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
-http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
-http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
-http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/jtv.png" group-title="Tamil Local;Entertainment",Japan Tamil TV
+http://198.144.149.82:8080/NOTV/japan01/tracks-v1a1/mono.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Tamil Local;Entertainment ",Rasi TV
+http://singamcloud.in:1935/rasinetworks/rasitv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Tamil Local;Movies",Rasi Movies
+http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png" group-title="Tamil Local;Movies",Rasi Classic
+http://singamcloud.in:1935/rasinetworks/rasiclassic/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Tamil Local;Music",Rasi Music
+http://singamcloud.in:1935/rasinetworks/rasimusic/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png" group-title="Tamil Local;Lifestyle",Rasi Lifestyle
+http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Tamil Local;Movies",Rasi Hollywood
+http://singamcloud.in:1935/rasinetworks/rasihollywood/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Hindi Local;Movies",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="Malayalam Local;Movies",Rasi Malayalam
+http://singamcloud.in:1935/rasinetwork/rasimalayalam/chunklist.m3u8

@@ -87,8 +87,8 @@ http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Tamil Local",Rasi Hollywood
 http://singamcloud.in:1935/rasinetworks/rasihollywood/chunklist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Hindi Local",Rasi Hindi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Tamil Local",Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="Malayalam Local",Rasi Malayalam
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="Tamil Local",Rasi Malayalam
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/chunklist.m3u8

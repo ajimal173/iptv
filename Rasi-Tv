@@ -45,27 +45,6 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
-http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
-http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
-http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
-http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TELUGU
-http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI CLASSIC
-http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HINDI
-http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI LIFESTLYE
-http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Tamil Local",Rasi Tamil
 http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist.m3u8
 

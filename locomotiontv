@@ -9,12 +9,8 @@ http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:0, Yamato Animation (Italy)
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Animax
-https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
 #EXTINF:60,Animax
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
-#EXTINF:0,Animax Japan (Vietnamese Subs)
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 #EXTINF:0,AniPlus (Malay subtitles) (576p)
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:0,Retro Crush
@@ -27,7 +23,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:0,Animestation (480p)
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="",AZXTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="",AZXTV (site)
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:0,Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -73,10 +69,6 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0, LocomotionTV (site)
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:0, Locomotion (Opt 2)
-http://toonxtv.net/hls/loco_ch/stream.m3u8
-#EXTINF:0, Locomotion (LQ)
-http://locomotiontv.com/envivo/loco_ch_low/stream.
 #EXTINF:0, Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 #EXTINF:60,ANIPLUS ID
@@ -85,6 +77,7 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:0,ANIPLUS
 http://bit.ly/2XFcmAn
+#EXTINF:0,Animax.mpd
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:0,Animax [Indonesian Sub]
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8

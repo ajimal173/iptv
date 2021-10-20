@@ -1,57 +1,57 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_1
+#EXTINF:-1,7startv
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:-1,iptvtools_2
+#EXTINF:-1,Sana tv
 http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-#EXTINF:-1,iptvtools_3
+#EXTINF:-1,3 tamil
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1,Sharvesh 7star tv
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
-#EXTINF:-1,iptvtools_5
+#EXTINF:-1,7star plus
 http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
-#EXTINF:-1,iptvtools_6
+#EXTINF:-1,CTN
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
-#EXTINF:-1,iptvtools_7
+#EXTINF:-1,polimer channel
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
-#EXTINF:-1,iptvtools_8
+#EXTINF:-1,SS Varma tv
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
-#EXTINF:-1,iptvtools_9
+#EXTINF:-1,ten tv
 http://51.79.158.179:1935/tentv/tentv/playlist.m3u8
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1,Jawahar Channel
 http://hdserver.7starcloud.com:1935/jawaharchannel/livetv/playlist.m3u8
-#EXTINF:-1,iptvtools_11
+#EXTINF:-1,Jawahar tv
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-#EXTINF:-1,iptvtools_12
+#EXTINF:-1,sana plus
 http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-#EXTINF:-1,iptvtools_13
+#EXTINF:-1,Vani tv
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
-#EXTINF:-1,iptvtools_14
+#EXTINF:-1,kalvi
 http://bmlive.net:8000/sstar/sevenstartvs/bms.m3u8
-#EXTINF:-1,iptvtools_15
+#EXTINF:-1,Ashoka
 http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
 #EXTINF:-1,iptvtools_16
 http://198.16.106.62:8278/streams/d/Vasantham/playlist.m3u8
 #EXTINF:-1,iptvtools_17
 http://hdserver.7starcloud.com:1935/fmtamil/live/playlist.m3u8
-#EXTINF:-1,iptvtools_18
+#EXTINF:-1,namathu murasu tv
 http://51.79.158.179:1935/jayathiya/live/playlist.m3u8
-#EXTINF:-1,iptvtools_19
+#EXTINF:-1,MK music
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
 #EXTINF:-1,iptvtools_20
 http://hdserver.7starcloud.com:1935/dcn/channel/playlist.m3u8
-#EXTINF:-1,iptvtools_21
+#EXTINF:-1,N tv
 http://7starcloud.com:1935/ntv/live/playlist.m3u8
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1,MK six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1,iptvtools_23
+#EXTINF:-1,CTN
 http://bmlive.net:8000/ctn/ctn/bms.m3u8
-#EXTINF:-1,iptvtools_24
+#EXTINF:-1,polimer
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 #EXTINF:-1,iptvtools_25
 https://stream.skygaintv.com/LiveApp/streams/841444019223041560075808.m3u8
-#EXTINF:-1,iptvtools_26
+#EXTINF:-1,madhimugamtv
 http://51.79.158.179:1935/madhimugamtv/madhimugamtv/playlist.m3u8
-#EXTINF:-1,iptvtools_27
+#EXTINF:-1,Prakalya
 http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
 #EXTINF:-1,iptvtools_28
 http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
@@ -59,125 +59,125 @@ http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/10461.m3u8
 #EXTINF:-1,iptvtools_30
 https://stream1.playbox.co.in:1936/babatv/babatv/playlist.m3u8
-#EXTINF:-1,iptvtools_31
+#EXTINF:-1,SR Music
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
-#EXTINF:-1,iptvtools_32
+#EXTINF:-1,isai saral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1,iptvtools_33
+#EXTINF:-1,SS tv
 http://7starcloud.com:1935/live/sstv2/playlist.m3u8
-#EXTINF:-1,iptvtools_34
+#EXTINF:-1,vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
-#EXTINF:-1,iptvtools_35
+#EXTINF:-1,Sri Krishna tv
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1,iptvtools_36
 http://liketv.7starcloud.com:1935/live/liketv/playlist.m3u8
 #EXTINF:-1,iptvtools_37
 http://hdserver.7starcloud.com:1935/nilatv/livetv/playlist.m3u8
-#EXTINF:-1,iptvtools_38
+#EXTINF:-1,MSN tv
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
 #EXTINF:-1,iptvtools_39
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
-#EXTINF:-1,iptvtools_40
+#EXTINF:-1,Arunai tv
 http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
-#EXTINF:-1,iptvtools_41
+#EXTINF:-1,ARK tv
 http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8
-#EXTINF:-1,iptvtools_42
+#EXTINF:-1,news plus
 http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
 #EXTINF:-1,iptvtools_43
 http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8
-#EXTINF:-1,iptvtools_44
+#EXTINF:-1,DDPodhigai
 https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8
-#EXTINF:-1,iptvtools_45
+#EXTINF:-1,RCN tv
 https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
-#EXTINF:-1,iptvtools_46
+#EXTINF:-1,GTA tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
-#EXTINF:-1,iptvtools_47
+#EXTINF:-1,captain tv
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-#EXTINF:-1,iptvtools_48
+#EXTINF:-1,hari tv
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 #EXTINF:-1,iptvtools_49
 http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
-#EXTINF:-1,iptvtools_50
+#EXTINF:-1,anumantv
 http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
 #EXTINF:-1,iptvtools_51
 http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
-#EXTINF:-1,iptvtools_52
+#EXTINF:-1,udhayam tv
 http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
 #EXTINF:-1,iptvtools_53
 http://hdserver.7starcloud.com:1935/basstv/live/playlist.m3u8
-#EXTINF:-1,iptvtools_54
+#EXTINF:-1,suriya tv
 http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
 #EXTINF:-1,iptvtools_55
 https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
 #EXTINF:-1,iptvtools_56
 https://streaming37.worldbbtv.com/hls/saitv.m3u8
-#EXTINF:-1,iptvtools_57
+#EXTINF:-1,svbc
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-#EXTINF:-1,iptvtools_58
+#EXTINF:-1,sivantv
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1,iptvtools_59
+#EXTINF:-1,IBC bakathi
 https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_60
+#EXTINF:-1,IBC siluvai
 https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_61
+#EXTINF:-1,Imayam
 https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
 #EXTINF:-1,iptvtools_62
 https://m-c049-j2apps.s.llnwi.net/hls/0614.Chithiram.in_480p/index.m3u8
-#EXTINF:-1,iptvtools_63
+#EXTINF:-1,7 music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1,iptvtools_64
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
-#EXTINF:-1,iptvtools_65
+#EXTINF:-1,kalaignar_tv
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1,iptvtools_66
+#EXTINF:-1,vendhar
 https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
 #EXTINF:-1,iptvtools_67
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_68
+#EXTINF:-1,news7
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
-#EXTINF:-1,iptvtools_69
+#EXTINF:-1,puthiyathalaimurai
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
-#EXTINF:-1,iptvtools_70
+#EXTINF:-1,polimer news
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
-#EXTINF:-1,iptvtools_71
+#EXTINF:-1,news j
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
-#EXTINF:-1,iptvtools_72
+#EXTINF:-1,Thandhi tv news
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 #EXTINF:-1,iptvtools_73
 http://7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
-#EXTINF:-1,iptvtools_74
+#EXTINF:-1,kalaignar_tv news
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
-#EXTINF:-1,iptvtools_75
+#EXTINF:-1,IBC tamil canada
 https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_76
+#EXTINF:-1,IBC tamil
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,iptvtools_77
 https://tx1.ibctamil.tv/CDN_IBC_Kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_78
+#EXTINF:-1,IBC pagadi
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_79
+#EXTINF:-1,DAN Comedy
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
-#EXTINF:-1,iptvtools_80
+#EXTINF:-1,IBC music
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_81
+#EXTINF:-1,TVi HD
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1,iptvtools_82
+#EXTINF:-1,Sakthi tv
 http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
-#EXTINF:-1,iptvtools_83
+#EXTINF:-1,dan news
 https://askmedia.livebox.co.in/DanNewshls/3.m3u8
 #EXTINF:-1,iptvtools_84
 https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
-#EXTINF:-1,iptvtools_85
+#EXTINF:-1,Aadhavan HD
 http://45.77.66.224:1935/athavantv/live_360p/chunklist.m3u8
-#EXTINF:-1,iptvtools_86
+#EXTINF:-1,Jeyam plus
 http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1,iptvtools_87
+#EXTINF:-1,Vaigai
 http://account9.livebox.co.in/vaigaitvhls/live.m3u8
-#EXTINF:-1,iptvtools_88
+#EXTINF:-1,king
 http://account26.livebox.co.in/kinghls/live.m3u8
-#EXTINF:-1,iptvtools_89
+#EXTINF:-1,Asosa tv
 http://bmlive.net:8000/sstar/asosa/bms.m3u8
-#EXTINF:-1,iptvtools_90
+#EXTINF:-1,Vtv
 http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
 #EXTINF:-1,iptvtools_91
 http://streaming.livebox.co.in/citytvhls/live.m3u8
@@ -185,19 +185,19 @@ http://streaming.livebox.co.in/citytvhls/live.m3u8
 http://hdserver.7starcloud.com:1935/nanban/live/playlist.m3u8
 #EXTINF:-1,iptvtools_93
 https://server.iptelevision.in/hls/vanaviltv.m3u8
-#EXTINF:-1,iptvtools_94
+#EXTINF:-1,MK tv
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
-#EXTINF:-1,iptvtools_95
+#EXTINF:-1,pc tv
 http://pctv.livebox.co.in/pctvhls/live.m3u8
-#EXTINF:-1,iptvtools_96
+#EXTINF:-1,vaagai
 http://bmlive.net:8000/sstar/vaagaitvs/bms.m3u8
-#EXTINF:-1,iptvtools_97
+#EXTINF:-1,GTA tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
-#EXTINF:-1,iptvtools_98
+#EXTINF:-1,santhora tv
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1,iptvtools_99
 https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1,iptvtools_100
+#EXTINF:-1,Skills tv
 http://7starcloud.com:1935/skilltv/livetv/playlist.m3u8
 #EXTINF:-1,Tamil Entertainment
 http://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8

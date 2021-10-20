@@ -107,9 +107,9 @@ http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
 http://hdserver.7starcloud.com:1935/basstv/live/playlist.m3u8
 #EXTINF:-1,suriya tv
 http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
-#EXTINF:-1,iptvtools_55
+#EXTINF:-1,tune 6
 https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
-#EXTINF:-1,iptvtools_56
+#EXTINF:-1,Sai tv
 https://streaming37.worldbbtv.com/hls/saitv.m3u8
 #EXTINF:-1,svbc
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
@@ -151,7 +151,7 @@ https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklis
 https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IBC tamil
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_77
+#EXTINF:-1,IBC mazhalai
 https://tx1.ibctamil.tv/CDN_IBC_Kids/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IBC pagadi
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
@@ -165,7 +165,7 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
 #EXTINF:-1,dan news
 https://askmedia.livebox.co.in/DanNewshls/3.m3u8
-#EXTINF:-1,iptvtools_84
+#EXTINF:-1,DAN tamil oli
 https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
 #EXTINF:-1,Aadhavan HD
 http://45.77.66.224:1935/athavantv/live_360p/chunklist.m3u8
@@ -179,7 +179,7 @@ http://account26.livebox.co.in/kinghls/live.m3u8
 http://bmlive.net:8000/sstar/asosa/bms.m3u8
 #EXTINF:-1,Vtv
 http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
-#EXTINF:-1,iptvtools_91
+#EXTINF:-1,Cith tv
 http://streaming.livebox.co.in/citytvhls/live.m3u8
 #EXTINF:-1,iptvtools_92
 http://hdserver.7starcloud.com:1935/nanban/live/playlist.m3u8

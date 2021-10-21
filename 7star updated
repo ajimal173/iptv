@@ -258,10 +258,6 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/2
 #EXTINF:-1 tvg-id="" group-title="HINDI", STAR BHARAT HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/4
-#EXTINF:-1,SPORTS | STAR SPORTS 1 HINDI HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/7
-#EXTINF:-1,SPORTS | STAR SPORTS 1 ENGLISH HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/10
 #EXTINF:-1 tvg-id="" group-title="HINDI", STAR GOLD HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF:-1 tvg-id="" group-title="HINDI", STAR GOLD SELECT HD
@@ -338,6 +334,8 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/104
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/105
 #EXTINF:-1 tvg-id="" group-title="HINDI", HISTORY TV 18 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/116
+#EXTINF:-1,KIDS | NICK PLUS HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/120
 #EXTINF:-1 tvg-id="" group-title="HINDI", MINIPLEX HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/121
 #EXTINF:-1 tvg-id="" group-title="HINDI", MNX HD

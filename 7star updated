@@ -346,7 +346,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/125
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/126
 #EXTINF:-1 tvg-id="" group-title="HINDI", MN PLUS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/129
-#EXTINF:-1,KIDS | DISNEY INTERNATIONAL HD
+#EXTINF:-1 tvg-id="" group-title="ENGLISH", DISNEY INTERNATIONAL HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/132
 #EXTINF:-1 tvg-id="" group-title="HINDI", TATA SKY BOLLYWOOD HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/138
@@ -784,7 +784,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/48
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/64
 #EXTINF:-1 tvg-id="" group-title="ENGLISH", TATA SKY HITS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/75
-#EXTINF:-1,HINDI/TAMIL/TELUGU | TATA SKY WORLD CINEMA HD
+#EXTINF:-1 tvg-id="" group-title="ENGLISH", TATA SKY WORLD CINEMA HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/77
 #EXTINF:-1 tvg-id="" group-title="ENGLISH", ANIMAL PLANET HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/80

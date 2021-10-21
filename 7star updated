@@ -31,7 +31,7 @@ http://bmlive.net:8000/sstar/sevenstartvs/bms.m3u8
 http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",iptvtools_16
 http://198.16.106.62:8278/streams/d/Vasantham/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="7star updated",iptvtools_17
+#EXTINF:-1 tvg-id="" group-title="7star updated",FM tamil
 http://hdserver.7starcloud.com:1935/fmtamil/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",namathu murasu tv
 http://51.79.158.179:1935/jayathiya/live/playlist.m3u8
@@ -75,7 +75,7 @@ http://liketv.7starcloud.com:1935/live/liketv/playlist.m3u8
 http://hdserver.7starcloud.com:1935/nilatv/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",MSN tv
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="7star updated",iptvtools_39
+#EXTINF:-1 tvg-id="" group-title="7star updated",Sri Krishna tv
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",Arunai tv
 http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
@@ -125,7 +125,7 @@ https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
 https://m-c049-j2apps.s.llnwi.net/hls/0614.Chithiram.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",7 music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="7star updated",iptvtools_64
+#EXTINF:-1 tvg-id="" group-title="7star updated",moon
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",kalaignar_tv
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8

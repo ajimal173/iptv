@@ -72,3 +72,11 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 ch-id="HARD X (UK)" tvg-logo=" ,HARD X (UK)
 http://51.15.0.141:88/blacked_hd/index.m3u8
+#EXTINF:-1,Penthouse Gold
+http://93.152.174.144:4000/play/Penthouse/index.m3u8
+#EXTINF:-1,RTP 1 HD PT
+http://93.152.174.144:4000/play/rtp1/index.m3u8
+#EXTINF:-1,RTP 2 HD Pt
+http://93.152.174.144:4000/play/rtp2pt/index.m3u8
+#EXTINF:-1,Redlight
+http://93.152.174.144:4000/play/Redlight/index.m3u8

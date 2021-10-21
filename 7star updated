@@ -334,7 +334,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/104
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/105
 #EXTINF:-1 tvg-id="" group-title="HINDI", HISTORY TV 18 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/116
-#EXTINF:-1,KIDS | NICK PLUS HD
+#EXTINF:-1 tvg-id="" group-title="ENGLISH", NICK PLUS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/120
 #EXTINF:-1 tvg-id="" group-title="HINDI", MINIPLEX HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/121
@@ -350,7 +350,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/129
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/132
 #EXTINF:-1 tvg-id="" group-title="HINDI", TATA SKY BOLLYWOOD HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/138
-#EXTINF:-1,KIDS | CN PLUS HD
+#EXTINF:-1 tvg-id="" group-title="ENGLISH", CN PLUS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/139
 #EXTINF:-1 tvg-id="" group-title="HINDI", AASTHA
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/144
@@ -360,7 +360,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/146
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/147
 #EXTINF:-1 tvg-id="" group-title="HINDI", UTV MOVIES
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/148
-#EXTINF:-1,KIDS | DISNEY JUNIOR
+#EXTINF:-1 tvg-id="" group-title="HINDI", DISNEY JUNIOR
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/149
 #EXTINF:-1 tvg-id="" group-title="HINDI", ARIHANT 
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/166
@@ -368,7 +368,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/166
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/172
 #EXTINF:-1 tvg-id="" group-title="HINDI", STAR UTSAV MOVIES
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/177
-#EXTINF:-1,KIDS | CARTOON NETWORK
+#EXTINF:-1 tvg-id="" group-title="HINDI", CARTOON NETWORK
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/179
 #EXTINF:-1 tvg-id="" group-title="HINDI", SONY WAH 
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/180

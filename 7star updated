@@ -277,3 +277,196 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="Rasi-TV",Rasi Malayalam
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/chunklist.m3u8
+
+--------------------------------------------------------------------------------------
+
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/YAALTVLOGO.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Yaal Tv
+http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/GTA-Tamil-Logo.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", GTA Tamil TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/adutha.webp" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Adutha Thalaimurai
+http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/smstv.webp" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", SMS TV Tisaiyanvillai
+http://singamcloud.in:1935/smstvtsy/smstvtsy/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/rtv.webp" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", R TV Thirupathur
+http://singamcloud.in:1935/rtv/rtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/160.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Mullai HD
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/158.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Samanwaya Vision
+rtmp://bmlive.net:1935/samanwayavision/samanwayavision"
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/153.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Udhyam TV Nagarcoil
+http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/152.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", VIP HD
+http://bmlive.net:8000/gtv/gtv/bms.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/125.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Ladhee TV
+http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/124.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", SJS TV
+http://bmlive.net:8000/sjstv/sjstv/bms.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/111.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Penguin TV
+http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/109.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Vasanth TV
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/110.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", SMYRNA TV
+http://bmlive.net:8000/smyrnatv/smyrnatv/bms.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/89.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Selfie TV
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+#EXTINF: -1 group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", TDCTO
+http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w422916913.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1622187910_yupp.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Yupp Thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616431447_IBCisai.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", IBC Music
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF: -1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Marutam-Nelli-TV.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", MN TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1622638174_jothitv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Jothi TV
+http://live.singamcloud.in:1935/jothitv/jothitv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://haritv.com/images/logo.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", HARI TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616306258_yogaatv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Yogaa TV
+http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616318214_ttv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", T TV
+http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616318402_perpole.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Purple TV
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616318924_smcvtv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", SMCV TV
+http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616319770_vaniplus.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Vani Plus
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616494049_abm.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", ABM TV
+http://singamcloud.in:1935/abmtv/abmtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1617953717_KUMARINow.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Kumari Now
+http://live.singamcloud.in:1935/kumarinow/kumarinow/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1618489114_sai_tv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", SAI TV
+http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjl60SR14iQSd4ylAqrjK2Pkd8S0hy12wIkl9LgOg=s900-c-k-c0x00ffffff-no-rj" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Rainbow TV HD
+http://live.singamcloud.in:1935/rainbowtv/rainbowtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0016.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", PC TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/90.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", KL My TV
+http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
+#EXTINF: -1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (9).png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Thirumalai TV
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Tharun Movies
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+#EXTINF: -1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1618036009_poptv%20copy.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", POP TV
+http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1617258979_01.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Durais TV
+http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616321019_hellotv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Hello TV
+http://stream.singamcloud.in:1935/hellotv/hellotv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616321508_vvn.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", VVN TV
+http://stream.singamcloud.in:1935/panchayathutv/panchayathutv/playlist.m3u8
+#EXTINF: -1 tvg-logo="1616333373_kprtv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", KRP TV
+http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616333880_tamilstar.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Tamil Star TV
+http://stream.singamcloud.in:1935/tamilstartv/tamilstartv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616429439_ROJATV.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Roja TV
+http://stream.singamcloud.in:1935/rojatv/rojatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616429873_msntv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1616430395_haitv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Hai TV
+http://stream.singamcloud.in:1935/haitv/haitv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/download (8).png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Analai Express TV
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF: -1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/kvm tv hd logo 2.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", KVM Tv
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kvmtv-32d6e133e4ba-otua-stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20191110-WA0045.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Sharvesh 7Star TV
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/29.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", CTN TV
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG88913.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG11646.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74398.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Sri Krishna TV(T.kode)
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG85725.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Arunai TV
+http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG19021.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Velur TV
+http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93380.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Surya TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3887.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Vaigai TV
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
+#EXTINF: -1 tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Ultra MAX
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", 3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", 7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", 7Star TV
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Aaryaa-TV.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Aaryaa TV
+http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.aasaitvlive.in/img/aasai_tv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", AASAI TV
+http://osaitv.livebox.co.in/osaihls/live.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", AUS TAMIL
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1597395405_capitaldari.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Capital Dharisanam
+http://89.187.162.89/Capital_Tharisanam/index.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1609587276_Musiclogo.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Capital Music
+http://89.187.162.89/Capital_Music/index.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1609586495_capitalnews.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Capital News
+http://89.187.162.89/Capital_NEWS/index.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1602588427_1597400963_capitelcopy.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Capital TV
+http://89.187.162.89/Capital_TV-LIVE/index.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/DHARISANAM.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Dharisanam Tv
+http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8?token=GTR
+#EXTINF: -1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", IBC Comedy
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF: -1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-white.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF: -1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", IBC Tamil Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1622189968_tijitv.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Tiji Kids
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
+#EXTINF: -1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Jawahar-Channel.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1622898529_IMG_20210605_183607.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", KBO Classic
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1622898474_IMG_20210605_183550.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", KBO Tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1602589084_1598780744_Mytvlogocopy.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", My TV
+http://account19.livebox.co.in/mytvhls/live.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/79.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", N TV
+http://7starcloud.com:1935/ntv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Ragam-TV.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Raagam HD
+http://account12.livebox.co.in/ntvhls/ntv.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zAQSZeC.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Sana TV
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1602589120_1598779936_sathiyamlogo.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Sathiyam TV
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FigDbPo.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sivan-TV.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF: -1 tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", SRI KRISHNA TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1603524158_1598791651_DD Sportscopy.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Tamil Three
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngU3LWhh8SErFHPH0yKtfsCt4cYrq-EbNnGjICWLA=s88-c-k-c0x00ffffff-no-rj" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Tirumalai TV KARUR
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1597394379_tvicopy.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", TVI TV
+http://89.187.162.89/Capital_TV-LIVE/index.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1602589537_udhayamcopy.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.worldtamil.tv/img/logo.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", WORLD TAMIL TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/jeyson.jpg" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", JJ MAX
+https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/poovarasanvasudevan/ /main/extras/images/deepam.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", JEYSON TV
+https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8

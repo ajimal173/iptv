@@ -43,7 +43,7 @@ http://hdserver.7starcloud.com:1935/dcn/channel/playlist.m3u8
 http://7starcloud.com:1935/ntv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",MK six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="7star updated",CTN
+#EXTINF:-1 tvg-id="" group-title="7star updated",CTN (conoor)
 http://bmlive.net:8000/ctn/ctn/bms.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",polimer
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
@@ -179,7 +179,7 @@ http://account26.livebox.co.in/kinghls/live.m3u8
 http://bmlive.net:8000/sstar/asosa/bms.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",Vtv
 http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="" group-title="7star updated",Cith tv
+#EXTINF:-1 tvg-id="" group-title="7star updated",City tv
 http://streaming.livebox.co.in/citytvhls/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",iptvtools_92
 http://hdserver.7starcloud.com:1935/nanban/live/playlist.m3u8

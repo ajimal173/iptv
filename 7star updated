@@ -555,5 +555,6 @@ http://bit.ly/2XFcmAn
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:0 tvg-id="" group-title="Anime Channels",Animax [Indonesian Sub]
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Anime Channels",Animax Japan (404p)
+http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8
 -----------------------------------------------------------------------------------------------------------------------

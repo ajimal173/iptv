@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,|UK| ITV BE FHD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77581
 #EXTINF:-1,|UK| ITV 1 FHD
@@ -50,8 +51,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10577
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10581
 #EXTINF:-1,|UK|  E4+1
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/91953
-#EXTINF:-1,|UK| GB News
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/148668
 #EXTINF:-1,|UK| E4 HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10491
 #EXTINF:-1,|UK| SKY ONE HD
@@ -238,32 +237,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13629
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13628
 #EXTINF:-1,|UK|- Nickelodeon
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13627
-#EXTINF:-1,********* NEWS UK *********
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/12946
-#EXTINF:-1,|UK| BBC News FHD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22242
-#EXTINF:-1,|UK| SKY NEWS HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10536
-#EXTINF:-1,||UK|| SKY  NEWS HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13639
-#EXTINF:-1,|UK| BBC NEWS HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10582
-#EXTINF:-1,|UK| CNN HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10576
-#EXTINF:-1,|uk| AL JAZEERA FHD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10575
-#EXTINF:-1,||UK|| ALJAZEERA NEWS HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13644
-#EXTINF:-1,||UK|| BBC WORLD NEWS
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13645
-#EXTINF:-1,||UK|| BLOOMBERG NEWS
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13642
-#EXTINF:-1,||UK|| EURONEWS
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13638
-#EXTINF:-1,||UK|| FOX NEWS
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13640
-#EXTINF:-1,||UK|| RTE NEWS
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13643
 #EXTINF:-1,|UK| MTV HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10493
 #EXTINF:-1,|UK| MTV LIVE HD
@@ -442,8 +415,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77370
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77361
 #EXTINF:-1,|UK|  BBC One Lon
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77364
-#EXTINF:-1,|UK|  BBC One News HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77360
 #EXTINF:-1,|UK|  BBC One NI HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77369
 #EXTINF:-1,|UK|  BBC One Oxford
@@ -716,12 +687,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/11155
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13098
 #EXTINF:-1,|USA| USA Network
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13099
-#EXTINF:-1,|USA| FOX News. UHD.
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22169
-#EXTINF:-1,|USA| Fox News HD.
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22170
-#EXTINF:-1,|USA| Fox Soccer Plus HD.
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22194
 #EXTINF:-1,|USA| VH1 HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13100
 #EXTINF:-1,|USA| Animal Planet
@@ -1090,36 +1055,10 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75390
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75389
 #EXTINF:-1,|USA| My Jam TV HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75393
-#EXTINF:-1,|USA| NESN+ HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75396
-#EXTINF:-1,|USA| News 12 Bronx & Brooklyn HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75438
-#EXTINF:-1,|USA| News 12 Hudson Valley & Westchester HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75439
-#EXTINF:-1,|USA| News 12 Long Island HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75440
-#EXTINF:-1,|USA| News 12 New Jersey HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75441
-#EXTINF:-1,|USA| News 12 The Bronx HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75442
-#EXTINF:-1,|USA| One America News HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75360
-#EXTINF:-1,|USA| PAC-12 Arizona FHD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75401
-#EXTINF:-1,|USA| PAC-12 Bay Area FHD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75402
-#EXTINF:-1,|USA| PAC-12 MOUNTAIN
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75403
-#EXTINF:-1,|USA| PAC-12 Oregon FHD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75404
-#EXTINF:-1,|USA| PAC-12 Washington FHD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75405
 #EXTINF:-1,|USA| Plays FHD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75356
 #EXTINF:-1,|USA| Revolt HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75406
-#EXTINF:-1,|USA| Sky News America HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75411
 #EXTINF:-1,|USA| Sony Movie Channel HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75412
 #EXTINF:-1,|USA| The Shopping Channel FHD
@@ -1134,20 +1073,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/75381
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54217
 #EXTINF:-1,|USA-HD|  EZWAY NETWORK
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54242
-#EXTINF:-1,|USA|NHL Center Ice 1 HD VIP US
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/138262
-#EXTINF:-1,|USA|NHL Center Ice 2 HD VIP US
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/138263
-#EXTINF:-1,|USA|NHL Center Ice 3 HD VIP US
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/138264
-#EXTINF:-1,|USA|NHL Center Ice 4 HD VIP US
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/138265
-#EXTINF:-1,|USA| Bloomberg
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13149
-#EXTINF:-1,|USA| CNBC
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13150
-#EXTINF:-1,|USA| CNBC WORLD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13153
 #EXTINF:-1,|USA| CW Network FHD US
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/78663
 #EXTINF:-1,|USA|Fuse HD
@@ -1156,10 +1081,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13158
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13159
 #EXTINF:-1,|USA| NHL Network HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13140
-#EXTINF:-1,|USA|  NESN PLUS
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54211
-#EXTINF:-1,|USA-HD|  FOX NEWS CHANNEL FHD 1080
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54232
 #EXTINF:-1,|USA| MTV HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13094
 #EXTINF:-1,|USA| ABC (EAST)
@@ -1278,12 +1199,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54253
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54254
 #EXTINF:-1,|USA-HD|  CLEO TV
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54255
-#EXTINF:-1,|USA-HD|  CHEDDAR NEWS FHD 1080
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54258
-#EXTINF:-1,|USA-HD|  CHEDDAR BUSINESS FHD 1080
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54259
-#EXTINF:-1,|USA-HD|  CHEDDAR BIG NEWS
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54260
 #EXTINF:-1,|USA|  CHARGE
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54261
 #EXTINF:-1,|USA-HD|  CBS POP
@@ -1356,8 +1271,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69531
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69553
 #EXTINF:-1,CA| ES1 Canada
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69532
-#EXTINF:-1,CA| Euronews HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69533
 #EXTINF:-1,CA| Evasion HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69534
 #EXTINF:-1,CA| France 24
@@ -1674,24 +1587,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69747
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69786
 #EXTINF:-1,|CA| CBC MONTREALHD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69748
-#EXTINF:-1,|CA| CBC NEWS NETWORK HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69635
-#EXTINF:-1,|CA| CBC OTTAWA HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69749
-#EXTINF:-1,|CA| CBC REGINA(HD)
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69750
-#EXTINF:-1,|CA| CBC ST JOHN's (HD)
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69751
-#EXTINF:-1,|CA| CBC Toronto HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69742
-#EXTINF:-1,|CA| CBC VANCOUVER HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69752
-#EXTINF:-1,|CA| CBC Windsor HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69634
-#EXTINF:-1,|CA| CBC Winnipeg HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69629
-#EXTINF:-1,|CA| CBC YELLOWKNIFE
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69753
 #EXTINF:-1,|CA| Citytv Montreal
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69610
 #EXTINF:-1,|CA| Citytv Toronto HD
@@ -1700,18 +1595,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69611
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69612
 #EXTINF:-1,|CA| CMT SD (CA)
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69783
-#EXTINF:-1,|CA| CNBC HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69685
-#EXTINF:-1,|CA| CNN HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69684
-#EXTINF:-1,|CA| CP24 HD (R)
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69667
-#EXTINF:-1,|CA| CP24 HD (R) backup
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69668
-#EXTINF:-1,|CA| CP24 news HD (B)
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69669
-#EXTINF:-1,|CA| CPAC HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69782
 #EXTINF:-1,|CA| CTV2 Atlantic HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69631
 #EXTINF:-1,|CA| CTV2 Barrie HD (CA)
@@ -1738,12 +1621,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69617
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69615
 #EXTINF:-1,|CA| CTV Kitchener HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69616
-#EXTINF:-1,|CA| CTV LIVE NEWS 1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69647
-#EXTINF:-1,|CA| CTV LIVE NEWS 2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69648
-#EXTINF:-1,|CA| CTV NEWS CHANNEL
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69618
 #EXTINF:-1,|CA| CTV Ottawa HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69758
 #EXTINF:-1,|CA| CTV SCI-FI
@@ -1894,8 +1771,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69606
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69663
 #EXTINF:-1,|CA| HBO 2 (R)
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69662
-#EXTINF:-1,|CA| Headline News HD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69772
 #EXTINF:-1,|CA| History HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/69607
 #EXTINF:-1,|CA| Hollywood Suite 00s
@@ -1924,8 +1799,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49039
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49040
 #EXTINF:-1,|CA HD| APTN HD Ca
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49041
-#EXTINF:-1,|CA HD| BBC WORLD NEWS Ca
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49044
 #EXTINF:-1,|CA HD| BET Ca
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49045
 #EXTINF:-1,|CA HD| BNN HD Ca
@@ -1934,8 +1807,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49046
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49047
 #EXTINF:-1,|CA HD| CBC Ca
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49048
-#EXTINF:-1,|CA HD| CBC NEWS Ca
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49049
 #EXTINF:-1,|CA HD| CBC OTTAWA Ca
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49050
 #EXTINF:-1,|CA HD| CBC TORONTO Ca
@@ -1966,8 +1837,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49062
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49063
 #EXTINF:-1,|CA HD| CTV MONTREAL Ca
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49064
-#EXTINF:-1,|CA HD| CTV NEWS Ca
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49065
 #EXTINF:-1,|CA HD| CTV VANCOUVER Ca
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/49067
 #EXTINF:-1,|CA HD| CW11 Ca

@@ -245,3 +245,5 @@ http://195.201.82.32:5001/play/a01h
 http://195.201.82.32:5001/play/a02d
 #EXTINF:0 type="stream" channelId="-1", Zee Zest HD
 http://195.201.82.32:5001/play/a02r
+#EXTINF:0 type="stream" channelId="-1", Shemaroo TV
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in_480p/index.m3u8

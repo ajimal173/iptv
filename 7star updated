@@ -558,3 +558,439 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Anime Channels",Animax Japan (404p)
 http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8
 -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",WORLD TAMIL
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Vannam TV HD
+http://remoteiptv.in:1935/vannamtv/vannamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",SHAKTHI TV
+ http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",STAR BHARAT HD
+http://180.178.130.180:8000/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",STAR BHARAT 
+http://180.178.130.180:8000/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",STAR MOV HD
+http://180.178.130.180:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",STAR WOR P HD
+http://180.178.130.180:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",STAR WORLD HD 
+http://180.178.130.180:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Sony BBC EarHD-
+http://180.178.130.180:8000/play/a040/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Sony Ten 1 HD- 
+http://180.178.130.180:8000/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Sony Ten 2 HD-
+http://180.178.130.180:8000/play/a045/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Sony Ten 3 HD
+http://180.178.130.180:8000/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star GOLD HD 
+http://180.178.130.180:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star Gold 2- 
+http://180.178.130.180:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star Gold SelHD-
+http://180.178.130.180:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star Plus HD 
+http://180.178.130.180:8000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star S Hin 1 HD-
+http://180.178.130.180:8000/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star Utsav 
+http://180.178.130.180:8000/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",StarMov S HD
+http://180.178.130.180:8000/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",TLC HD- Rs3
+http://180.178.130.180:8000/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",UTV ACTION-
+http://180.178.130.180:8000/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",UTV MOVIES
+http://180.178.130.180:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",ZEE ANMOL
+http://180.178.130.180:8000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",ZEE Bollywood
+http://180.178.130.180:8000/play/a04n/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",ZEE CINEMA HD
+http://180.178.130.180:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",ZEE Cafe 
+http://180.178.130.180:8000/play/a04a/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",ZEE TV HD
+http://180.178.130.180:8000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Zing 
+http://180.178.130.180:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",colors INFIN HD
+http://180.178.130.180:8000/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",colors rishtey 
+http://180.178.130.180:8000/play/a05j/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",nick HD+- 
+http://180.178.130.180:8000/play/a047/index.m3u8 
+World indian iptv
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",PIX HD -
+http://103.131.212.138:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Romedy NOW-
+http://103.131.212.138:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Sony SET HD - 
+http://103.131.212.138:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",SIX HD - 
+http://103.131.212.138:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",STAR BHARAT Hd
+http://103.131.212.138:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",STAR MOVIE s
+
+http://103.131.212.138:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",STAR WORld
+http://103.131.212.138:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",STAR WORLD HD 
+http://103.131.212.138:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Sony BBC EarHD-
+http://103.131.212.138:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Sony Ten 1 HD- 
+http://103.131.212.138:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Sony Ten 2 HD-
+http://103.131.212.138:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Sony Ten 3 HD- 
+http://103.131.212.138:8000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star GOLD HD 
+http://103.131.212.138:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star Gold SelHD-
+http://103.131.212.138:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star Plus HD
+http://103.131.212.138:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",Star S Hin 1 HD- 
+http://103.131.212.138:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium",StarMovieS HD-
+http://103.131.212.138:8000/play/a00w/index.m3u8
+_____________--------------------------------------------------------------_______________________
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",A Sports HD
+http://42.200.67.163:8090/play/a0qd
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ABP ANANDA
+http://42.200.67.163:8090/play/a0lx
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ABP ASMITA
+http://42.200.67.163:8090/play/a0lz
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ABP MAJHA
+http://42.200.67.163:8090/play/a0ly
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ABP NEWS
+http://42.200.67.163:8090/play/a0lw
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",AR NEWS
+http://42.200.67.163:8090/play/a0i2
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ARYDigitalAsia
+http://42.200.67.163:8090/play/a0o7
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ARYDigitalAsia HD
+http://42.200.67.163:8090/play/a0qc
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ARYFamily
+http://42.200.67.163:8090/play/a0o6
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ARYMusik
+http://42.200.67.163:8090/play/a0oa
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ARYNewsAsia
+http://42.200.67.163:8090/play/a0od
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ARYQTV
+http://42.200.67.163:8090/play/a0o9
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ARYZindagi
+http://42.200.67.163:8090/play/a0o4
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Aalami Sahara
+http://42.200.67.163:8090/play/a0nz
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Ahlebait TV
+http://42.200.67.163:8090/play/a0e5
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Al Jazeera Arabic
+http://42.200.67.163:8090/play/a0ih
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Al Jazeera English
+http://42.200.67.163:8090/play/a0ig
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Al Jazeera English HD
+http://42.200.67.163:8090/play/a0n4
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",B4U Hitz
+http://42.200.67.163:8090/play/a0pu
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",B4U Plus
+http://42.200.67.163:8090/play/a0pv
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",B4U_MOVIES_INDIA
+http://42.200.67.163:8090/play/a0nb
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",B4U_MUSIC_INDIA
+http://42.200.67.163:8090/play/a0nc
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Barkat TV
+http://42.200.67.163:8090/play/a0q2
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",CHANNEL S HD
+http://42.200.67.163:8090/play/a0lh
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",DW Deutsch
+http://42.200.67.163:8090/play/a0n7
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",DW English
+http://42.200.67.163:8090/play/a0n8
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",DW English HD
+http://42.200.67.163:8090/play/a0n1
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",DW09
+http://42.200.67.163:8090/play/a0n9
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",FAZAL TV
+http://42.200.67.163:8090/play/a0q5
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",FAZAL TV
+http://42.200.67.163:8090/play/a0mq
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",FILM BOX
+http://42.200.67.163:8090/play/a0q7
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",FILMASIA
+http://42.200.67.163:8090/play/a0mg
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",FIRANGI
+http://42.200.67.163:8090/play/a0o2
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Gawahi TV
+http://42.200.67.163:8090/play/a0q1
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",House Full Movie
+http://42.200.67.163:8090/play/a0mv
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ISAAC TV
+http://42.200.67.163:8090/play/a0q0
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ISAAC TV
+http://42.200.67.163:8090/play/a0if
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",M ASIA
+http://42.200.67.163:8090/play/a0q6
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",M Entertainment
+http://42.200.67.163:8090/play/a0i0
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",MAX CINEMA
+http://42.200.67.163:8090/play/a0hs
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",MEGA MOVIES
+http://42.200.67.163:8090/play/a0ml
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",MOVIE MAX
+http://42.200.67.163:8090/play/a0qb
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",MOVIES BOX
+http://42.200.67.163:8090/play/a0q9
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Mission Asia
+http://42.200.67.163:8090/play/a0q4
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Music Masti
+http://42.200.67.163:8090/play/a0hu
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Muslim TV
+http://42.200.67.163:8090/play/a0e1
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",NHK WORLD-JPN
+http://42.200.67.163:8090/play/a0n5
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Notun Somoy
+http://42.200.67.163:8090/play/a0mx
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",PINK TV
+http://42.200.67.163:8090/play/a0i8
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",PMI TV
+http://42.200.67.163:8090/play/a0q3
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Paigham Pushto 2
+http://42.200.67.163:8090/play/a0hz
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Paigham Urdu HD
+http://42.200.67.163:8090/play/a0i6
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ROSHNI TV
+http://42.200.67.163:8090/play/a0i3
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",RT
+http://42.200.67.163:8090/play/a0ps
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",STAR MAX
+http://42.200.67.163:8090/play/a0mo
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",STV
+http://42.200.67.163:8090/play/a0qa
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",STV
+http://42.200.67.163:8090/play/a0hw
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",SUB NEWS
+http://42.200.67.163:8090/play/a0ib
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sahara BIH
+http://42.200.67.163:8090/play/a0ny
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sahara Filmi
+http://42.200.67.163:8090/play/a0o1
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sahara MP
+http://42.200.67.163:8090/play/a0o0
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sahara MUM
+http://42.200.67.163:8090/play/a0nw
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sahara NAT
+http://42.200.67.163:8090/play/a0nu
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sahara NCR
+http://42.200.67.163:8090/play/a0nv
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sahara ONE
+http://42.200.67.163:8090/play/a0nt
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sahara UP
+http://42.200.67.163:8090/play/a0nx
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Shine Star TV
+http://42.200.67.163:8090/play/a0q8
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",TRT World HD
+http://42.200.67.163:8090/play/a0n6
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",TVB News
+http://42.200.67.163:8090/play/a0pt
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",TVB News
+http://42.200.67.163:8090/play/a0na
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",XPOSE News
+http://42.200.67.163:8090/play/a0ky
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ZEE MP CHHATTISGARH
+http://42.200.67.163:8090/play/a0ph
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ZEE PUNJAB HARYANA HIMACHAL
+http://42.200.67.163:8090/play/a0pf
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ZEE RAJASTHAN NEWS
+http://42.200.67.163:8090/play/a0nl
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Zee News
+http://42.200.67.163:8090/play/a0pe
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Zing
+http://42.200.67.163:8090/play/a0pd
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",&PRIVE HD-Rs 19
+http://103.153.39.36:8000/play/a01d
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",&flix HD-Rs19
+http://103.153.39.36:8000/play/a00p
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",&pictures HD -Rs19
+http://103.153.39.36:8000/play/a017
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",&tv HD - Rs 19
+http://103.153.39.36:8000/play/a01u
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ANIMAL PLAN HD-Rs3
+http://103.153.39.36:8000/play/a011
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",BBC WORLD - Rs 1
+http://103.153.39.36:8000/play/a01f
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",CARTOON-Rs4.25
+http://103.153.39.36:8000/play/a01w
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",CNN INTL - 50p
+http://103.153.39.36:8000/play/a01e
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",COMEDY CEN-Rs 5
+http://103.153.39.36:8000/play/a01g
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Colors HD-Rs 19
+http://103.153.39.36:8000/play/a00o
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",DISCOVERY K-Rs3
+http://103.153.39.36:8000/play/a024
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Discovery HD-Rs6
+http://103.153.39.36:8000/play/a00y
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Discovery S-Rs1
+http://103.153.39.36:8000/play/a01k
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Discovery T-Rs1
+http://103.153.39.36:8000/play/a01l
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Disney Chan-Rs8
+http://103.153.39.36:8000/play/a01y
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Disney Jr.-Rs 4
+http://103.153.39.36:8000/play/a020
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",EuroSports HD-Rs 6
+http://103.153.39.36:8000/play/a00r
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",FOX Life HD-Rs1
+http://103.153.39.36:8000/play/a01t
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",HISTORY TV18 HD-Rs7
+http://103.153.39.36:8000/play/a013
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Investigation Discovery-Rs1
+http://103.153.39.36:8000/play/a00j
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",MAX HD -Rs 17
+http://103.153.39.36:8000/play/a00h
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",MN+ HD-Rs 10
+http://103.153.39.36:8000/play/a00u
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",MNX - Rs 6
+http://103.153.39.36:8000/play/a01h
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",MOVIES NO-Rs 10
+http://103.153.39.36:8000/play/a01i
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",NAT Geo Wild HD-Rs 5
+http://103.153.39.36:8000/play/a00i
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",National G HD-Rs10
+http://103.153.39.36:8000/play/a00x
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Nick Jr. - Rs1
+http://103.153.39.36:8000/play/a023
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",PIX HD - Rs 15
+http://103.153.39.36:8000/play/a016
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Pogo - Rs 4.25
+http://103.153.39.36:8000/play/a022
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Romedy NOW-Rs 6
+http://103.153.39.36:8000/play/a01j
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",SAB HD - Rs 19
+http://103.153.39.36:8000/play/a01v
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",SET HD - Rs 19
+http://103.153.39.36:8000/play/a00q
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",SIX HD - Rs 19
+http://103.153.39.36:8000/play/a00f
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",SONIC- Rs 2
+http://103.153.39.36:8000/play/a021
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",SONY MAX 2 - Rs 1
+http://103.153.39.36:8000/play/a01s
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",STAR BHARAT HD-Rs19
+http://103.153.39.36:8000/play/a010
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",STAR MOV HD-Rs 19
+http://103.153.39.36:8000/play/a00v
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",STAR WOR P HD-Rs9
+http://103.153.39.36:8000/play/a00a
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",STAR WORLD HD -Rs9
+http://103.153.39.36:8000/play/a00b
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sony BBC EarHD-Rs10
+http://103.153.39.36:8000/play/a015
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sony Ten 1 HD- Rs 19
+http://103.153.39.36:8000/play/a00e
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sony Ten 2 HD- Rs 17
+http://103.153.39.36:8000/play/a01a
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Sony Ten 3 HD- Rs 17
+http://103.153.39.36:8000/play/a00k
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star GOLD HD -Rs10
+http://103.153.39.36:8000/play/a012
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Gold 2- Rs 1
+http://103.153.39.36:8000/play/a01q
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Gold SelHD-Rs10
+http://103.153.39.36:8000/play/a014
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Plus HD -Rs19
+http://103.153.39.36:8000/play/a00m
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star S Hin 1 HD- Rs19
+http://103.153.39.36:8000/play/a026
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Spo 1 HD-Rs19
+http://103.153.39.36:8000/play/a00c
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Spo 2 HD- Rs19
+http://103.153.39.36:8000/play/a00d
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Sports 3 Rs 4
+http://103.153.39.36:8000/play/a00l
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Sports S 1 HD-Rs19
+http://103.153.39.36:8000/play/a018
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Sports S 2 HD-Rs10
+http://103.153.39.36:8000/play/a019
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",StarMov S HD-Rs 10
+http://103.153.39.36:8000/play/a00w
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",TLC HD- Rs3
+http://103.153.39.36:8000/play/a027
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",UTV ACTION-Rs 2
+http://103.153.39.36:8000/play/a01p
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",UTV MOVIES-Rs 2
+http://103.153.39.36:8000/play/a01o
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ZEE ANMOL-Rs 10p
+http://103.153.39.36:8000/play/a00s
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ZEE BOLLYWO-Rs2
+http://103.153.39.36:8000/play/a01r
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ZEE CINEMA HD-Rs19
+http://103.153.39.36:8000/play/a00z
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ZEE Cafe H-Rs19
+http://103.153.39.36:8000/play/a00t
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ZEE TV HD-Rs 19
+http://103.153.39.36:8000/play/a00n
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Zoom - 50p
+http://103.153.39.36:8000/play/a025
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",colors INFIN HD-Rs9
+http://103.153.39.36:8000/play/a01b
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",hungama tv-Rs 6
+http://103.153.39.36:8000/play/a01x
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",nick - Rs 6
+http://103.153.39.36:8000/play/a01z
+#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",nick HD+- Rs 10
+http://103.153.39.36:8000/play/a01c
+_____________--------------------------------------------------------------_______________________
+
+_____________--------------------------------------------------------------_______________________

@@ -479,8 +479,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://50.7.74.29:8880/hls/j00026/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Anime Channels", AT-X
 https://sub2.neetball.net/live/neet.m3u8
-#EXTINF:0 tvg-id="" group-title="Anime Channels", Yamato Animation (Italy)
-https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:60 tvg-id="" group-title="Anime Channels",Animax
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Anime Channels",AniPlus (Malay subtitles) (576p)
@@ -558,8 +556,6 @@ http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8
 
 _____________--------------------------------------------------------------_______________________
 
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",A Sports HD
-http://42.200.67.163:8090/play/a0qd
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ABP ANANDA
 http://42.200.67.163:8090/play/a0lx
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",ABP ASMITA
@@ -810,12 +806,6 @@ http://103.153.39.36:8000/play/a026
 http://103.153.39.36:8000/play/a00c
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Spo 2 HD- Rs19
 http://103.153.39.36:8000/play/a00d
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Sports 3 Rs 4
-http://103.153.39.36:8000/play/a00l
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Sports S 1 HD-Rs19
-http://103.153.39.36:8000/play/a018
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",Star Sports S 2 HD-Rs10
-http://103.153.39.36:8000/play/a019
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",StarMov S HD-Rs 10
 http://103.153.39.36:8000/play/a00w
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-1",TLC HD- Rs3
@@ -944,12 +934,6 @@ http://180.178.130.180:8000/play/a03i/index.m3u8
 http://180.178.130.180:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Sony BBC EarHD-Rs10
 http://180.178.130.180:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Sony Ten 1 HD- Rs 19
-http://180.178.130.180:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Sony Ten 2 HD- Rs 17
-http://180.178.130.180:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Sony Ten 3 HD- Rs 17
-http://180.178.130.180:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star GOLD HD -Rs10
 http://180.178.130.180:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star Gold 2- Rs 1
@@ -958,18 +942,6 @@ http://180.178.130.180:8000/play/a04m/index.m3u8
 http://180.178.130.180:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star Plus HD -Rs19
 http://180.178.130.180:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star S Hin 1 HD- Rs19
-http://180.178.130.180:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star Spo 1 HD-Rs19
-http://180.178.130.180:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star Spo 2 HD- Rs19
-http://180.178.130.180:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star Sports 3 Rs 4
-http://180.178.130.180:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star Sports S 1 HD-Rs19
-http://180.178.130.180:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star Sports S 2 HD-Rs10
-http://180.178.130.180:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",Star Utsav -Rs1
 http://180.178.130.180:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="IPTV Premium-2",StarMov S HD-Rs 10

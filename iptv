@@ -8,20 +8,6 @@ http://5.255.90.184:2000/play/a03e
 http://78.83.191.18:8000/play/a078
 #EXTINF:12,ADULT XXX_10
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-#EXTINF:35,ADULT XXX_50
-http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
-#EXTINF:0,ADULT XXX_51
-http://51.15.0.141:88/hustlerhd/mpegts
-#EXTINF:0,ADULT XXX_52
-http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-#EXTINF:0,ADULT XXX_54
-http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:61,ADULT XXX_55
-http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-#EXTINF:60,ADULT XXX_56
-http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-#EXTINF:10,ADULT XXX_57
-http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 #EXTINF:35,Adult IPTV Anal (18+)
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:0,Adult IPTV Big Ass (18+)
@@ -70,11 +56,4 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:35,Adult IPTV Threesome (18+)
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 ch-id="HARD X (UK)" tvg-logo=" ,HARD X (UK)
-http://51.15.0.141:88/blacked_hd/index.m3u8
-#EXTINF:-1,Penthouse Gold
-http://93.152.174.144:4000/play/Penthouse/index.m3u8
-#EXTINF:-1,Redlight
-http://93.152.174.144:4000/play/Redlight/index.m3u8
-#EXTINF:-1,PLAYBOY ES
-http://82.114.83.154:54035/play/a00i/index.m3u8
+

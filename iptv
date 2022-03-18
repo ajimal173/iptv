@@ -56,4 +56,48 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:35,Adult IPTV Threesome (18+)
 http://cdn.adultiptv.net/threesome.m3u8
+_________________________________________________________________________________________________________________________________________________________
+
+#EXTINF:-1 tvg-id="01ba828a12974681c4d63a3e7a455479",08/udp://239.1.7.10:22710/{PMT:949}
+http://176.67.211.5:9981/stream/channelid/176339457?ticket=3ABADB23C42FDD8E71716DF3408150F1FAE0618D&profile=pass
+#EXTINF:-1 tvg-id="dc932591eaa923a37acd896d3911a69f",08/udp://239.1.7.13:22713/{PMT:445}
+http://176.67.211.5:9981/stream/channelid/287675356?ticket=4DCD5EC426BDDA6305516DB4FB53D9237E28ED12&profile=pass
+#EXTINF:-1 tvg-id="381ddc24c1e238384b31b00e5bf252d7",08/udp://239.1.7.19:22719/{PMT:372}
+http://176.67.211.5:9981/stream/channelid/618405176?ticket=C38C6D49A3ED5CB27591001529374E9941107E77&profile=pass
+#EXTINF:-1 tvg-id="f8606cb02433ad009bb3208ec349bd4f",08/udp://239.1.7.22:22722/{PMT:400}
+http://176.67.211.5:9981/stream/channelid/812409080?ticket=7E2908D882E395E56CE2E79F1243F6A8D80943DE&profile=pass
+#EXTINF:-1 tvg-id="4a862ea0d11aaf8a1e0bfb7ea31e2608",Dorcel XXX HD
+http://176.67.211.5:9981/stream/channelid/539919946?ticket=B08E0B534013477F93297530996072D70B76F17B&profile=pass
+#EXTINF:-1 tvg-id="46e1f251f23f2a80f479ff21d90cac33",Erotic 3
+http://176.67.211.5:9981/stream/channelid/1374871878?ticket=BF1F5750C578763EB60CE02B1CB86C39727C3F3A&profile=pass
+#EXTINF:-1 tvg-id="c6dfe92fb29bbbc8f6d9edc5d0a0c877",Erotic 4
+http://176.67.211.5:9981/stream/channelid/803856326?ticket=C9700054A03009F40C8E4238432D252BB787E6A6&profile=pass
+#EXTINF:-1 tvg-id="5502c7b0d207cf9be1be2f2441475da8",Erox HD
+http://176.67.211.5:9981/stream/channelid/818348629?ticket=6EA53A2804A486EB3CA2D3426CC2A3E98702D229&profile=pass
+#EXTINF:-1 tvg-id="af839de32062099d1253b72a73418243",EroXXX HD
+http://176.67.211.5:9981/stream/channelid/1671267247?ticket=1EECCC9FFF41496CD6D839AC7E0410139B9B9E08&profile=pass
+#EXTINF:-1 tvg-id="fe12b00787ba79fb67f72efdf0220ea8",Evil Angel HD
+http://176.67.211.5:9981/stream/channelid/128979710?ticket=75BC62300F811A08DA90EBABCFD39ED4966ACE1C&profile=pass
+#EXTINF:-1 tvg-id="1b899418324c8894e098847d60169dc2",Hustler TV
+http://176.67.211.5:9981/stream/channelid/412387611?ticket=2BF5FD750A53AB103CEC9B030852D39918BC6811&profile=pass
+#EXTINF:-1 tvg-id="1ca42eaf2ea839438b05aeef812d1e0f",Penthouse Gold HD
+http://176.67.211.5:9981/stream/channelid/791585820?ticket=D5530C0A5B4CC58ADA725B7449E09A1D4FF4B042&profile=pass
+#EXTINF:-1 tvg-id="3f86d722e2e079b005183160f5c60915",Pink DJ
+http://176.67.211.5:9981/stream/channelid/584549951?ticket=EDFCCC22706ABAB4E906FC678BE2AA6531D48439&profile=pass
+#EXTINF:-1 tvg-id="df7a9ded7627fcc1293a5f0bfd5f5541",Pink Erotic 5
+http://176.67.211.5:9981/stream/channelid/1839037151?ticket=1DF922CF6A11D3812F985C6DE56AA019B6106323&profile=pass
+#EXTINF:-1 tvg-id="4da69065f98dcd62587b5cedc27e3c7b",Pink Erotic 6
+http://176.67.211.5:9981/stream/channelid/1703978573?ticket=3C8B9DB34B0FE0BD3DE92399C57FBAC6C47ED36F&profile=pass
+#EXTINF:-1 tvg-id="06d70707ab78eed7b7b58e7026fcd146",Pink Erotic 7
+http://176.67.211.5:9981/stream/channelid/117954310?ticket=20B5178D05095373B1229C0C9A97095373F629C3&profile=pass
+#EXTINF:-1 tvg-id="8111314c5067cb88bca0ff2405b3b157",Pink Erotic 8
+http://176.67.211.5:9981/stream/channelid/1278284161?ticket=D2487532454736968AA6CA7557A77EA15FF1A882&profile=pass
+#EXTINF:-1 tvg-id="f81fd8df83f031a2f036ad9d76a29dfa",Pink Legend
+http://176.67.211.5:9981/stream/channelid/1607999480?ticket=8899EF4E6829C1404919B564F5AC241194B3236D&profile=pass
+#EXTINF:-1 tvg-id="3be6fbc4452c63aba479207db97f3101",Playboy TV
+http://176.67.211.5:9981/stream/channelid/1157359163?ticket=CE86954AFFC57CF0D056F9C741AAA40B4125D83C&profile=pass
+#EXTINF:-1 tvg-id="18c8be51ed04ef35d7303d241802ee4b",Private  HD
+http://176.67.211.5:9981/stream/channelid/1371457560?ticket=C31549A1605DAD83D7F8BA0643B6208A7A23DCAC&profile=pass
+#EXTINF:-1 tvg-id="92760d39498033208da8f91d3215e4e2",Reality Kings TV
+http://176.67.211.5:9981/stream/channelid/957183634?ticket=B92AAF63C90FB080846E7DA0EEE9073B337096A1&profile=pass
 

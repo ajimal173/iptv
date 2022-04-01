@@ -34,12 +34,6 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="INDIAN SPECIAL 2",STAR PLUS HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1" tvg-logo="" group-title="INDIAN SPECIAL 2",STAR SPORTS HD 1
-http://182.50.65.213:8888/udp/239.239.0.4:3001/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 (SERVER 2)" tvg-logo="" group-title="INDIAN SPECIAL 2",STAR SPORTS HD 1 (SERVER 2)
-  http://103.166.253.222:80/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS HD" tvg-logo="" group-title="INDIAN SPECIAL 2",T SPORTS HD
-http://103.166.253.222:80/hls/t-sports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="" group-title="INDIAN SPECIAL 2",UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ACTION " tvg-logo="" group-title="INDIAN SPECIAL 2",ZEE ACTION 
@@ -100,16 +94,6 @@ http://103.153.39.36:8000/play/a014
 http://103.153.39.36:8000/play/a00m
 #EXTINF:-1 tvg-id="001" tvg-name="Star S Hin 1 HD- Rs19" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network",Star S Hin 1 HD- Rs19
 http://103.153.39.36:8000/play/a026
-#EXTINF:-1 tvg-id="001" tvg-name="Star Spo 1 HD-Rs19" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network",Star Spo 1 HD-Rs19
-http://103.153.39.36:8000/play/a00c
-#EXTINF:-1 tvg-id="001" tvg-name="Star Spo 2 HD- Rs19" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network",Star Spo 2 HD- Rs19
-http://103.153.39.36:8000/play/a00d
-#EXTINF:-1 tvg-id="001" tvg-name="Star Sports 3 Rs 4" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network",Star Sports 3 Rs 4
-http://103.153.39.36:8000/play/a00l
-#EXTINF:-1 tvg-id="001" tvg-name="Star Sports S 1 HD-Rs19" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network",Star Sports S 1 HD-Rs19
-http://103.153.39.36:8000/play/a018
-#EXTINF:-1 tvg-id="001" tvg-name="Star Sports S 2 HD-Rs10" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network",Star Sports S 2 HD-Rs10
-http://103.153.39.36:8000/play/a019
 #EXTINF:-1 tvg-id="001" tvg-name="StarMov S HD-Rs 10" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network",StarMov S HD-Rs 10
 http://103.153.39.36:8000/play/a00w
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLiv  KNOWLEDGE",SONY HD
@@ -222,8 +206,6 @@ http://103.153.39.36:8000/play/a01l
 http://103.153.39.36:8000/play/a01y
 #EXTINF:-1 tvg-id="001" tvg-name="Disney Jr.-Rs 4" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",Disney Jr.-Rs 4
 http://103.153.39.36:8000/play/a020
-#EXTINF:-1 tvg-id="001" tvg-name="EuroSports HD-Rs 6" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",EuroSports HD-Rs 6
-http://103.153.39.36:8000/play/a00r
 #EXTINF:-1 tvg-id="001" tvg-name="FOX Life HD-Rs1" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",FOX Life HD-Rs1
 http://103.153.39.36:8000/play/a01t
 #EXTINF:-1 tvg-id="001" tvg-name="HISTORY TV18 HD-Rs7" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",HISTORY TV18 HD-Rs7
@@ -278,16 +260,6 @@ http://103.153.39.36:8000/play/a014
 http://103.153.39.36:8000/play/a00m
 #EXTINF:-1 tvg-id="001" tvg-name="Star S Hin 1 HD- Rs19" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",Star S Hin 1 HD- Rs19
 http://103.153.39.36:8000/play/a026
-#EXTINF:-1 tvg-id="001" tvg-name="Star Spo 1 HD-Rs19" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",Star Spo 1 HD-Rs19
-http://103.153.39.36:8000/play/a00c
-#EXTINF:-1 tvg-id="001" tvg-name="Star Spo 2 HD- Rs19" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",Star Spo 2 HD- Rs19
-http://103.153.39.36:8000/play/a00d
-#EXTINF:-1 tvg-id="001" tvg-name="Star Sports 3 Rs 4" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",Star Sports 3 Rs 4
-http://103.153.39.36:8000/play/a00l
-#EXTINF:-1 tvg-id="001" tvg-name="Star Sports S 1 HD-Rs19" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",Star Sports S 1 HD-Rs19
-http://103.153.39.36:8000/play/a018
-#EXTINF:-1 tvg-id="001" tvg-name="Star Sports S 2 HD-Rs10" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",Star Sports S 2 HD-Rs10
-http://103.153.39.36:8000/play/a019
 #EXTINF:-1 tvg-id="001" tvg-name="StarMov S HD-Rs 10" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",StarMov S HD-Rs 10
 http://103.153.39.36:8000/play/a00w
 #EXTINF:-1 tvg-id="001" tvg-name="TLC HD- Rs3" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  KNOWLEDGE",TLC HD- Rs3

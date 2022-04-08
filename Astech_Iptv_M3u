@@ -98,272 +98,183 @@ http://103.153.39.36:8000/play/a026
 http://103.153.39.36:8000/play/a00w
 __________________________________________----------------------------------------------------------------------------_____________________________________________
 
-#EXTINF:-1  group-title="Assam Talks" tvg-logo="",Assam Talks
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1  group-title="Anjan Tv" tvg-logo="",Anjan Tv
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Anjan Tv
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1  group-title="Rashi Hindi Hd" tvg-logo="",Rashi Hindi Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Rashi Hindi Hd
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-#EXTINF:-1  group-title="
-DY 365" tvg-logo="",
-DY 365
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",DY 365
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1  group-title="
-North East Live" tvg-logo="",
-North East Live
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",North East Live
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
-#EXTINF:-1  group-title="A1 Tv" tvg-logo="",A1 Tv
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",A1 Tv
 http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
-#EXTINF:-1  group-title="Tv 100" tvg-logo="",Tv 100
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Tv 100
 http://cdn.smartstream.video/smartstream-us/tv100/tv100/chunklist.m3u8
-#EXTINF:-1  group-title="News 11" tvg-logo="",News 11
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",News 11
 http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
-#EXTINF:-1  group-title="Jonak ind" tvg-logo="",Jonak ind
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Jonak ind
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1  group-title="Nk Tv" tvg-logo="",Nk Tv
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Nk Tv
 https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist.m3u8
-#EXTINF:-1  group-title="Win Channel" tvg-logo="",Win Channel
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Win Channel
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1  group-title="Mhone Shradha" tvg-logo="",Mhone Shradha
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Mhone Shradha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-#EXTINF:-1  group-title="Mhone News" tvg-logo="",Mhone News
-http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
-#EXTINF:-1  group-title="Pratidin" tvg-logo="",Pratidin
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Pratidin
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1  group-title="News Live" tvg-logo="",News Live
-https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/playlist.m3u8
-#EXTINF:-1  group-title="INH 24" tvg-logo="",INH 24
-https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
-#EXTINF:-1  group-title="Bansal News" tvg-logo="",Bansal News
-https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8
-#EXTINF:-1  group-title="Shubhsandesh Tv" tvg-logo="",Shubhsandesh Tv
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Shubhsandesh Tv
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1  group-title="Ind 24" tvg-logo="",Ind 24
-https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8
-#EXTINF:-1  group-title="
-Janta Tv" tvg-logo="",
-Janta Tv
-http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1  group-title="Disha Tv" tvg-logo="",Disha Tv
-http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
-#EXTINF:-1  group-title="Zee Aflam" tvg-logo="",Zee Aflam
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:-1  group-title="Mirror Now" tvg-logo="",Mirror Now
-https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-#EXTINF:-1  group-title="News 18" tvg-logo="",News 18
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-#EXTINF:-1  group-title="ABP News" tvg-logo="",ABP News
-https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8
-#EXTINF:-1  group-title="India Tv" tvg-logo="",India Tv
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
-#EXTINF:-1  group-title="NDTV INDIA" tvg-logo="",NDTV INDIA
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1  group-title="NDTV 24*7" tvg-logo="",NDTV 24*7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1  group-title="NDTV PROFIT" tvg-logo="",NDTV PROFIT
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-#EXTINF:-1  group-title="GNT" tvg-logo="",GNT
-https://tezlive-amd.akamaized.net/hls/live/2016145-b/tez/tezlive/tez_3/chunklist.m3u8
-#EXTINF:-1  group-title="ET NOW" tvg-logo="",ET NOW
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1  group-title="CNBC TV 18 (IN)" tvg-logo="",CNBC TV 18 (IN)
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1  group-title="CNBC AWAAZ (IN)" tvg-logo="",CNBC AWAAZ (IN)
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1  group-title="NEWS 18 ASSAM (IN)" tvg-logo="",NEWS 18 ASSAM (IN)
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="AND TV HD" tvg-logo="",AND TV HD
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",AND TV HD
 https://yuppsportsind.akamaized.net/121120/andtvhdus/playlist.m3u8
-#EXTINF:-1  group-title="ZEE TV HD (US)" tvg-logo="",ZEE TV HD (US)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE TV HD (US)
 https://yuppsportsind.akamaized.net/121120/zeetvhdus/playlist.m3u8
-#EXTINF:-1  group-title="9XM (IN)" tvg-logo="",9XM (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",9XM (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1  group-title="9X JALWA (IN)" tvg-logo="",9X JALWA (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",9X JALWA (IN)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1  group-title="ZEE NEWS (IN)" tvg-logo="",ZEE NEWS (IN)
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
-#EXTINF:-1  group-title="
-DD RETRO (IN)" tvg-logo="",
-DD RETRO (IN)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1  group-title="INDIA AHEAD (IN)" tvg-logo="",INDIA AHEAD (IN)
-https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
-#EXTINF:-1  group-title="POPSTSR! TV (US)ARRE (IN)" tvg-logo="",POPSTSR! TV (US)ARRE (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",POPSTSR! TV (US)ARRE (IN)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
-#EXTINF:-1  group-title="AAJ TAK HD (IN)" tvg-logo="",AAJ TAK HD (IN)
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1  group-title="INDIA TODAY (IN)" tvg-logo="",INDIA TODAY (IN)
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1  group-title="BOX CINEMA (IN)" tvg-logo="",BOX CINEMA (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",BOX CINEMA (IN)
 http://14.199.164.20:4001/play/a0su/index.m3u8
-#EXTINF:-1  group-title="DISHUM TV (IN)" tvg-logo="",DISHUM TV (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",DISHUM TV (IN)
 http://14.199.164.20:4001/play/a0pe/index.m3u8
-#EXTINF:-1  group-title="E24 (IN)" tvg-logo="",E24 (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",FOOD FOOD (IN)
 http://14.199.164.20:4001/play/a0pc/index.m3u8
-#EXTINF:-1  group-title="FOOD FOOD (IN)" tvg-logo="",FOOD FOOD (IN)
-http://14.199.164.20:4001/play/a0pc/index.m3u8
-#EXTINF:-1  group-title="MUSIC INDIA (IN)" tvg-logo="",MUSIC INDIA (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MUSIC INDIA (IN)
 http://14.199.164.20:4001/play/a0mt/index.m3u8
-#EXTINF:-1  group-title="
-MASTIII (IN)" tvg-logo="",
-MASTIII (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MASTIII (IN)
 http://14.199.164.20:4001/play/a0my/index.m3u8
-#EXTINF:-1  group-title="TEHZEEB TV (IN)" tvg-logo="",TEHZEEB TV (IN)
-http://14.199.164.20:4001/play/a0p5/index.m3u8
-#EXTINF:-1  group-title="SARV DHARM SANGAM (IN)" tvg-logo="",SARV DHARM SANGAM (IN)
-http://14.199.164.20:4001/play/a0nn/index.m3u8
-#EXTINF:-1  group-title="DHINCHAAK (IN)" tvg-logo="",DHINCHAAK (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
-#EXTINF:-1  group-title="DHINCHAAK 2 (IN)" tvg-logo="",DHINCHAAK 2 (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",DHINCHAAK 2 (IN)
 http://14.199.164.20:4001/play/a0tm/index.m3u8
-#EXTINF:-1  group-title="M TUNES (IN)" tvg-logo="",M TUNES (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",M TUNES (IN)
 http://14.199.164.20:4001/play/a0p2/index.m3u8
-#EXTINF:-1  group-title="ZEE ACTION (IN)" tvg-logo="",ZEE ACTION (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE ACTION (IN)
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
-#EXTINF:-1  group-title="COLORS HD (IN)" tvg-logo="",COLORS HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",COLORS HD (IN)
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
-#EXTINF:-1  group-title="COLORS HD (IN)" tvg-logo="",COLORS HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",COLORS HD (IN)
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Animal Planet Hd" tvg-logo="",Animal Planet Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Animal Planet Hd
 https://live.durbinlive.com/hls/animalplanent.m3u8
-#EXTINF:-1  group-title="Nick hindi" tvg-logo="",Nick hindi
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Nick hindi
 89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ
-#EXTINF:-1  group-title="Pogo hindi And Urdu Hd" tvg-logo="",Pogo hindi And Urdu Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Pogo hindi And Urdu Hd
 https://live.durbinlive.com/hls/pogo.m3u8
-#EXTINF:-1  group-title="Sony Pix" tvg-logo="",Sony Pix
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Sony Pix
 https://live.durbinlive.com/hls/sonypixhd.m3u8
-#EXTINF:-1  group-title="Sony Televion hd" tvg-logo="",Sony Televion hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Sony Televion hd
 89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ
-#EXTINF:-1  group-title="Zee Bangla Hd" tvg-logo="",Zee Bangla Hd
-https://live.durbinlive.com/hls/zeebanglahd.m3u8
-#EXTINF:-1  group-title="Colour Bangla" tvg-logo="",Colour Bangla
-https://live.durbinlive.com/hls/colorsbangla.m3u8
-#EXTINF:-1  group-title="Sony six hd" tvg-logo="",Sony six hd
-89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ
-#EXTINF:-1  group-title="Sony Sab Hd" tvg-logo="",Sony Sab Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Sony Sab Hd
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Sony mAx Hd" tvg-logo="",Sony mAx Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Sony mAx Hd
 http://103.149.130.122:8089/77/index.m3u8
-#EXTINF:-1  group-title="Zoom Hd" tvg-logo="",Zoom Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zoom Hd
 https://live.durbinlive.com/hls/zoom.m3u8
-#EXTINF:-1  group-title="Star Movies Hd" tvg-logo="",Star Movies Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Star Movies Hd
 89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ
-#EXTINF:-1  group-title="Nation geography hd" tvg-logo="",Nation geography hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Nation geography hd
 http://103.55.144.46/hls/ngohd.m3u8
-#EXTINF:-1  group-title="Disney Channel Hd" tvg-logo="",Disney Channel Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Disney Channel Hd
 http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
-#EXTINF:-1  group-title="Zee Cinema hd" tvg-logo="",Zee Cinema hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zee Cinema hd
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:-1  group-title="Star gold hd" tvg-logo="",Star gold hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Star gold hd
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Hbo hd" tvg-logo="",Hbo hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Hbo hd
 http://190.171.101.36:80/HBO/index.m3u8
-#EXTINF:-1  group-title="
-Cartoon Newtwork" tvg-logo="",
-Cartoon Newtwork
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Cartoon Newtwork
 http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1  group-title="Zee Action Hd" tvg-logo="",Zee Action Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zee Action Hd
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Nick HD" tvg-logo="",Nick HD
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Nick HD
 http://103.55.144.46/hls/nick.m3u8
-#EXTINF:-1  group-title="Zee Tv Full Hd" tvg-logo="",Zee Tv Full Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zee Tv Full Hd
 https://yuppsportsind.akamaized.net/121120/zeetvhdus/playlist.m3u8
-#EXTINF:-1  group-title="
-HBO Hd" tvg-logo="",
-HBO Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",HBO Hd
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:-1  group-title="SONY SAB (IN)" tvg-logo="",SONY SAB (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SONY SAB (IN)
 http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
-#EXTINF:-1  group-title="STAR PLUS(IN)" tvg-logo="",STAR PLUS(IN)
-
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR PLUS(IN)
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
-#EXTINF:-1  group-title="STAR PLUS(IN)" tvg-logo="",STAR PLUS(IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR PLUS(IN)
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="STAR BHARAT HD (IN)" tvg-logo="",STAR BHARAT HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR BHARAT HD (IN)
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
-#EXTINF:-1  group-title="STAR PLUS HD (IN)" tvg-logo="",STAR PLUS HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1  group-title="SAHARA ONE (IN)" tvg-logo="",SAHARA ONE (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SAHARA ONE (IN)
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-#EXTINF:-1  group-title="UTV HD (IN)" tvg-logo="",UTV HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",UTV HD (IN)
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="
-STAR GOLD HD (IN)" tvg-logo="",
-STAR GOLD HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR GOLD HD (IN)
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="ZEE CLASSIC (IN)" tvg-logo="",ZEE CLASSIC (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE CLASSIC (IN)
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="ZEE CINEMA HD (IN)" tvg-logo="",ZEE CINEMA HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE CINEMA HD (IN)
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Zee action Hd" tvg-logo="",Zee action Hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zee action Hd
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="ZEE ANMOL CINEMA (IN)" tvg-logo="",ZEE ANMOL CINEMA (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE ANMOL CINEMA (IN)
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="
-SONY MAX 2 (IN)" tvg-logo="",
-SONY MAX 2 (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SONY MAX 2 (IN)
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="B4U MOVIES (IN)" tvg-logo="",B4U MOVIES (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",B4U MOVIES (IN)
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="B4U MUSIC (IN)" tvg-logo="",B4U MUSIC (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",B4U MUSIC (IN)
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="ZOOM (IN)" tvg-logo="",ZOOM (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZOOM (IN)
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="MTV (IN)" tvg-logo="",MTV (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MTV (IN)
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="MTV BEATS HD (IN)" tvg-logo="",MTV BEATS HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MTV BEATS HD (IN)
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="STAR MOVIES HD (IN)" tvg-logo="",STAR MOVIES HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR MOVIES HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-#EXTINF:-1  group-title="STAR WORLD HD (IN)" tvg-logo="",STAR WORLD HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
-#EXTINF:-1  group-title="SONY MAX HD (IN)" tvg-logo="",SONY MAX HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SONY MAX HD (IN)
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
-#EXTINF:-1  group-title="SONY HD (IN)" tvg-logo="",SONY HD (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SONY HD (IN)
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
-#EXTINF:-1  group-title="Sahara One" tvg-logo="",Sahara One
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Sahara One
 http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/54.ts
-#EXTINF:-1  group-title="Maha Movies" tvg-logo="",Maha Movies
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Maha Movies
 http://14.199.164.20:4001/play/a0q7/index.m3u8
-#EXTINF:-1  group-title="Sony hd" tvg-logo="",Sony hd
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Sony hd
 89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ
-#EXTINF:-1  group-title="Bflix" tvg-logo="",Bflix
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1  group-title="Manoranjan Movies" tvg-logo="",Manoranjan Movies
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1  group-title="Movies 4 u" tvg-logo="",Movies 4 u
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Movies 4 u
 https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8
-#EXTINF:-1  group-title="Movie Kingdom" tvg-logo="",Movie Kingdom
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1  group-title="Halchal tv" tvg-logo="",Halchal tv
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Halchal tv
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1  group-title="India News" tvg-logo="",India News
-https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:-1  group-title="India today" tvg-logo="",India today
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1  group-title="Maha movies" tvg-logo="",Maha movies
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Maha movies
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1  group-title="Massti" tvg-logo="",Massti
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Massti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1  group-title="
-Music India" tvg-logo="",
-Music India
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1  group-title="Punjabi Zindabad" tvg-logo="",Punjabi Zindabad
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Punjabi Zindabad
 89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ
-#EXTINF:-1  group-title="Desi Channel" tvg-logo="",Desi Channel
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1  group-title="Times Now" tvg-logo="",Times Now
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1  group-title="9x Jalwa" tvg-logo="",9x Jalwa
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",9x Jalwa
 http://14.199.164.20:4001/play/a0nc/index.m3u8
-#EXTINF:-1  group-title="9x jhakas" tvg-logo="",9x jhakas
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",9x jhakas
 http://14.199.164.20:4001/play/a0mx/index.m3u8
-#EXTINF:-1  group-title="24 hours movies" tvg-logo="",24 hours movies
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",24 hours movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1  group-title="Abc News" tvg-logo="",Abc News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1  group-title="STAR PLUS (IN)" tvg-logo="",STAR PLUS (IN)
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR PLUS (IN)
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
 __________________________________________----------------------------------------------------------------------------_____________________________________________

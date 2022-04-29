@@ -882,8 +882,6 @@ http://conference1.livebox.co.in/vedhatvhls/live.m3u8
 http://139.99.96.93:1935/eesantv/eesantv/playlist.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1625737733_golden.png",Golden Gospel TV
 http://51.195.220.104/goldengospeltv/goldengospeltv/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1625240465_IMG_20210702_210837.jpg",Vismaya News
-http://139.99.96.93:1935/vismayanews/vismayanews/playlist.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616159247_icon.png",SINGAM TV
 http://singamcloud.in/singamtv/singamtv/index.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Music" tvg-logo="https://singamcloud.com/tv/upload/1616232479_kalaiisai.png",Kalai ISAI
@@ -964,42 +962,10 @@ http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1622898529_IMG_20210605_183607.jpg",KBO classic tamil
 https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622645536_IMG_20210602_201956.jpg",TCV
-https://stream.ufworldind.in/tcv/tcv/playlist.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1622638376_chithiram.png",Chithiram TV
 http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622638282_mytv.png",MY TV
-http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622638042_news18.png",News 18 Malayalam
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622286807_Kaumudy TV.png",Kaumudy
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622286601_kappa.png",Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Music" tvg-logo="https://singamcloud.com/tv/upload/1622286272_mktus.png",MK Tunes
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285815_mano.png",Manorama News
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285594_Kairali.png",Kairali
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285476_Jaihind TV.png",Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285264_Flowers TV.png",Flowers TV
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285110_DD malayam.png",DD Malayalam
-http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284783_Nvision.png",Nvision
-http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284673_janam tv copy.png",Jeevan tv
-http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284492_Amrita TV.png",Amrita TV
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284368_ASINET.png",Asianet NEWS
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1622282980_swasthik.png",Swasthik TV
-http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1622282311_life tv.png",Life TV Plus
-http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1622225613_IMG_20210528_234254.jpg",Polimer Tv
 http://103.199.160.85:80/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Music" tvg-logo="https://singamcloud.com/tv/upload/1622176344_mmusic.png",M Music
@@ -1294,14 +1260,6 @@ http://198.144.149.82:8080/NOTV/NEWS80/index.m3u8?token=GTR
 https://ca.streamjo.com/live/samugam.m3u8
 #EXTINF:-1 group-title="TS SOUTH - Comedy" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Srippoli-TV.png",Sirippoli TV
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Sports" tvg-logo="https://tavapi.inditechman.com/extras/images/1603524158_1598791651_DD Sportscopy.jpg",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Sports",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Malayalam" tvg-logo="https://tavapi.inditechman.com/extras/images/90.png",KL My TV
-http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Malayalam" tvg-logo="https://tavapi.inditechman.com/extras/images/125.png",Ladhee TV
-http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8
 #EXTINF:-1 group-title="TS SOUTH - Kids" tvg-logo="https://tavapi.inditechman.com/extras/images/CHUTTIGRACETV.png",Chutti Grace TV
 https://server1.thewebworld.in:3465/hybrid/play.m3u8
 __________________________________________----------------------------------------------------------------------------_____________________________________________

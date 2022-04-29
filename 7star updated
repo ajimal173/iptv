@@ -203,6 +203,26 @@ http://7starcloud.com:1935/skilltv/livetv/playlist.m3u8
 http://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8
 
 -------------------------------------------------------------
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rashi Hindi Hd
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi TV
+http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616233067_rasi holly.png",Rasi hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232999_rasi music.png",Rasi Movie
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232914_rasi music.png",Rasi Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232845_rasi tamil.png",Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
+
+
+-------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Rasi-Network",Rasi Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive

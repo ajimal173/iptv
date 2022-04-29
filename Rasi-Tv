@@ -104,3 +104,24 @@ http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
 http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS-new",RASI CLASSIC
 http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8 
+
+-----------------------------------------------
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="",Rashi Hindi Hd
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi TV
+http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616233067_rasi holly.png",Rasi hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232999_rasi music.png",Rasi Movie
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232914_rasi music.png",Rasi Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+
+#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232845_rasi tamil.png",Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
+
+-----------------------------------------------

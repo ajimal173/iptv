@@ -896,8 +896,6 @@ http://singamcloud.in/smcvtv/smcvtv/index.m3u8
 http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616494049_abm.png",ABM Tv
 http://singamcloud.in/abmtv/abmtv/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - Sports" tvg-logo="https://singamcloud.com/tv/upload/1616435679_DD sports.png",DD SPORTS
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616435151_vasanth.png",Vasanth TV
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 #EXTINF:-1 group-title="TS Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616435069_puthugam.png",Puthuyugam TV
@@ -908,8 +906,6 @@ http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/inde
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1616433934_madha.png",Madha TV
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - News" tvg-logo="https://singamcloud.com/tv/upload/1616433167_velucham copy.png",Velicham TV
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616432667_moon.png",Moon TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616432125_mk tv.png",MK TV
@@ -940,12 +936,8 @@ http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
 http://singamcloud.in/purpletv/purpletv/index.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616318214_ttv.png",T TV
 http://singamcloud.in/ttv/ttv/index.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - News" tvg-logo="https://singamcloud.com/tv/upload/1616317832_et.png",ET NOW
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 #EXTINF:-1 group-title="TS Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616306258_yogaa tv.png",Yogaa TV
 http://hdserver.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
-#EXTINF:-1 group-title="TS Singam Cloud - News" tvg-logo="https://singamcloud.com/tv/upload/1616305063_news18 tamilnadu.png",NEWS18 TAMILNADU
-http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="TS Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616305753_kanichi.png",Kanchi tv
 http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="TS Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616306017_jayam tv.png",Jayam Tv Madurai
@@ -1210,54 +1202,12 @@ http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/ind
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 group-title="TS SOUTH - Music" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Pappers-TV.png",Peppers TV
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/1602588077_1596971809_angelcopy.jpg",Angel TV
-https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/2.png",Gospel
-http://bmlive.net:8000/gospeltv/gospeltv/bms.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/krubaitv.jpeg",Grace TV Madurai
-https://server2.thewebworld.in:3190/hybrid/play.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://www.livetvcentral.com/imgs/tvs/359.jpg",Heaven TV
-http://209.58.160.179/heaventvhls/live.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg",Jeevan TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/jeevaoli.webp",JeevaOli TV
-http://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/21.png",Jesus TV
-http://bmlive.net:8000/jesuschannel/jesuschannel/bms.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/161.png",Krubai TV
-http://bmlive.net:8000/kirubaitv/kirubaitv/bms.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/1602588047_1596971871_nambikkaicopy.jpg",Nambikkai TV
-http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/158.png",Samanwaya Vision
-http://bmlive.net:8000/samanwayavision/samanwayavision/bms.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/110.png",SMYRNA TV
-http://bmlive.net:8000/smyrnatv/smyrnatv/bms.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnlhYWwuVmlubWVlbk11c2ljX3NjcmVlbl81XzE1NzgxNjMyMTZfMDU0/screen-5.jpg?fakeurl=1&type=.jpg",Vinmeen TV
-http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Religious" tvg-logo="https://play-lh.googleusercontent.com/37gkdL86OBpCnX5UYEM1wGAysjV9f9Vi2t9eHH1C49ExL_x_yi2yisJkYRcfjBmnqkri=s100-rw",VVM tv
-http://indiamatrix.in/vvmtv/vvmtv.m3u8
 #EXTINF:-1 group-title="TS SOUTH - International" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="TS SOUTH - International" tvg-logo="https://i.imgur.com/IgwQ7o5.png",Aathavan TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 group-title="TS SOUTH - International" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg",Tamil Vision International
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Devotional" tvg-logo="https://tavapi.inditechman.com/extras/images/ayya.webp",Ayya Vaikundar TV
-http://livematrix.in/ayyatv/ayyatv.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Devotional" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sri-Sankara-TV.png",Sri Sankara TV
-https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
-#EXTINF:-1 group-title="TS SOUTH - Devotional" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/SVBC-Tamil.png",SVBC Tamil
-http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-#EXTINF:-1 group-title="TS SOUTH - News" tvg-logo="https://tavapi.inditechman.com/extras/images/1602587859_1598793299_mirrorcopy.jpg",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1 group-title="TS SOUTH - News" tvg-logo="https://tavapi.inditechman.com/extras/images/1603524142_1598792353_NDTVcopy.jpg",NDTV
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="TS SOUTH - News" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:-1 group-title="TS SOUTH - News" tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png",News 80
-http://198.144.149.82:8080/NOTV/NEWS80/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TS SOUTH - News" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2020/09/Samugam-TV.png",Samugam TV
-https://ca.streamjo.com/live/samugam.m3u8
 #EXTINF:-1 group-title="TS SOUTH - Comedy" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Srippoli-TV.png",Sirippoli TV
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 #EXTINF:-1 group-title="TS SOUTH - Kids" tvg-logo="https://tavapi.inditechman.com/extras/images/CHUTTIGRACETV.png",Chutti Grace TV

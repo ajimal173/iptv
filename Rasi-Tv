@@ -824,9 +824,6 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=VH1
 #EXTINF:-1 tvg-id="1400" group-title="Jio - Music " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV Beats SD
 http://ranapk-may.in1.bitmana.io/autoq.php?c=MTV_Beats_SD
 
-#EXTINF:-1 tvg-id="1480" group-title="Jio - Educational " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IMS_School.png",IMS Schools Grade 1 - 8
-http://ranapk-may.in1.bitmana.io/autoq.php?c=IMS_School
-
 #EXTINF:-1 tvg-id="1518" group-title="Jio - Entertainment " tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png",Moon TV
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Moon_Tv
 
@@ -838,9 +835,6 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=ABSTAR_News
 
 #EXTINF:-1 tvg-id="1592" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lokmanch_News.png",Lokmanch News
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Lokmanch_News
-
-#EXTINF:-1 tvg-id="1593" group-title="Jio - Educational " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lifology.png",Lifology
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Lifology
 
 #EXTINF:-1 tvg-id="1594" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_24.png",Samachar 24
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Samachar_24
@@ -896,9 +890,6 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=V24_TV
 #EXTINF:-1 tvg-id="1741" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_AtoZ.png",Bharat AtoZ
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Bharat_AtoZ
 
-#EXTINF:-1 tvg-id="1742" group-title="Jio - Devotional " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskrit_Ganga_TV.png",Sanskrit Ganga
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Sanskrit_Ganga_TV
-
 #EXTINF:-1 tvg-id="1743" group-title="Jio - News " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hornbill_TV.png",Hornbill TV
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Hornbill_TV
 
@@ -908,17 +899,11 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=DPK_News
 #EXTINF:-1 tvg-id="1761" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aryan_TV_National.png",Aryan TV National
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Aryan_TV_National
 
-#EXTINF:-1 tvg-id="1764" group-title="Jio - Devotional " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dadabhagwan.png",Dada Bhagwan Foundation
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Dadabhagwan
-
 #EXTINF:-1 tvg-id="1766" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zorins_TV.png",Zorins TV
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Zorins_TV
 
 #EXTINF:-1 tvg-id="1768" group-title="Jio - Infotainment " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol.png",Naaptol
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Naaptol
-
-#EXTINF:-1 tvg-id="1769" group-title="Jio - Devotional " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/LWA.png",LWA
-http://ranapk-may.in1.bitmana.io/autoq.php?c=LWA
 
 #EXTINF:-1 tvg-id="1777" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_News.png",Bharat News TV
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Bharat_News
@@ -944,17 +929,8 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=DTV_Bharat
 #EXTINF:-1 tvg-id="1817" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png",NEWS 24 MPCG
 http://ranapk-may.in1.bitmana.io/autoq.php?c=NEWS_24_MPCG
 
-#EXTINF:-1 tvg-id="1826" group-title="Jio - Educational " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swarlasika.png",Swaralasika Sangeetalaya
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Swarlasika
-
 #EXTINF:-1 tvg-id="1834" group-title="Jio - Entertainment " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png",Green Chillies
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Green_Chillies_TV
-
-#EXTINF:-1 tvg-id="1838" group-title="Jio - Devotional " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Devam.png",Devam
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Devam
-
-#EXTINF:-1 tvg-id="1848" group-title="Jio - Educational " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AAS_Vidyalaya_State_Boards.png",AAS Vidyalaya State Boards
-http://ranapk-may.in1.bitmana.io/autoq.php?c=AAS_Vidyalaya_State_Boards
 
 #EXTINF:-1 tvg-id="1849" group-title="Jio - Infotainment " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_At_Dubai_Expo.png",India At Dubai Expo
 http://ranapk-may.in1.bitmana.io/autoq.php?c=India_At_Dubai_Expo
@@ -971,9 +947,6 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=TEST6_HD
 #EXTINF:-1 tvg-id="1063" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST7_HD.png",TEST7 HD
 http://ranapk-may.in1.bitmana.io/autoq.php?c=TEST7_HD
 
-#EXTINF:-1 tvg-id="1148" group-title="Jio - Shopping " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST8_HD.png",TEST8 HD
-http://ranapk-may.in1.bitmana.io/autoq.php?c=TEST8_HD
-
 #EXTINF:-1 tvg-id="1205" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png",ABP Ganga
 http://ranapk-may.in1.bitmana.io/autoq.php?c=ABP_Ganga
 
@@ -983,17 +956,11 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=Kalaignar_TV
 #EXTINF:-1 tvg-id="1210" group-title="Jio - News " tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png",Kalaignar Seithigal 
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Kalaignar_Seithigal_
 
-#EXTINF:-1 tvg-id="1212" group-title="Jio - Devotional " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hare_Krsna_Pravachan.png",Hare Krsna Pravachan
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Hare_Krsna_Pravachan
-
 #EXTINF:-1 tvg-id="1216" group-title="Jio - Kids " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png",Highbrow
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Highbrow
 
 #EXTINF:-1 tvg-id="1219" group-title="Jio - Infotainment " tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png",Animal Planet HD Tamil
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Animal_Planet_HD_Tamil
-
-#EXTINF:-1 tvg-id="1220" group-title="Jio - Devotional " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_TV.png",Rajyoga TV
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Rajyoga_TV
 
 #EXTINF:-1 tvg-id="1225" group-title="Jio - Lifestyle " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png",Click Life
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Click_Life
@@ -1004,23 +971,14 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=Nick_HD_Plus
 #EXTINF:-1 tvg-id="1240" group-title="Jio - News " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST10_HD.png",TEST10 HD
 http://ranapk-may.in1.bitmana.io/autoq.php?c=TEST10_HD
 
-#EXTINF:-1 tvg-id="1241" group-title="Jio - Devotional " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/God_TV.png",God TV
-http://ranapk-may.in1.bitmana.io/autoq.php?c=God_TV
-
 #EXTINF:-1 tvg-id="1251" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",TV9 Bharatvarsh
 http://ranapk-may.in1.bitmana.io/autoq.php?c=TV9_Bharatvarsh
-
-#EXTINF:-1 tvg-id="1255" group-title="Jio - Devotional " tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Tamil
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Aastha_Tamil
 
 #EXTINF:-1 tvg-id="1257" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png",Surya Samachar
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Surya_Samachar
 
 #EXTINF:-1 tvg-id="1258" group-title="Jio - Movies " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png",Surya Cinema
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Surya_Cinema
-
-#EXTINF:-1 tvg-id="1259" group-title="Jio - Devotional " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png",Surya Bhakti
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Surya_Bhakti
 
 #EXTINF:-1 tvg-id="1263" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png",Total Tv Haryana
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Total_Tv_Haryana
@@ -1124,9 +1082,6 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=Sony_Pix_SD
 #EXTINF:-1 tvg-id="1538" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png",Samachar Today
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Samachar_Today
 
-#EXTINF:-1 tvg-id="1544" group-title="Jio - Educational " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_Darshan.png",Shiksha Darshan
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Shiksha_Darshan
-
 #EXTINF:-1 tvg-id="1550" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png",AB News
 http://ranapk-may.in1.bitmana.io/autoq.php?c=AB_News
 
@@ -1141,12 +1096,6 @@ http://ranapk-may.in1.bitmana.io/autoq.php?c=Colors_Cineplex_Bollywood
 
 #EXTINF:-1 tvg-id="1780" group-title="Jio - Kids " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png",Hoopla Kidz TV
 http://ranapk-may.in1.bitmana.io/autoq.php?c=Hoopla_Kids_TV
-
-#EXTINF:-1 tvg-id="1827" group-title="Jio - Educational " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_NEET.png",Aakash EduTV NEET
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Aakash_EduTV_NEET
-
-#EXTINF:-1 tvg-id="1851" group-title="Jio - Educational " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_JEE.png",Aakash EduTV JEE
-http://ranapk-may.in1.bitmana.io/autoq.php?c=Aakash_EduTV_JEE
 
 #EXTINF:-1 tvg-id="1853" group-title="Jio - News " tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News11_Bharat.png",News11 Bharat
 http://ranapk-may.in1.bitmana.io/autoq.php?c=News11_Bharat

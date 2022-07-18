@@ -1303,62 +1303,12 @@ http://new-pro.tv:8080/mazen1/123456/69368
 http://new-pro.tv:8080/mazen1/123456/122106
 #EXTINF:-1 tvg-id="tamilvision.ca" tvg-name="Ca: Tamil Vision TV" tvg-logo="http://vod-logo.net/photos/45d5f2534393e480e47e8eeb28afa560.png" group-title="Canada",Ca: Tamil Vision TV
 http://new-pro.tv:8080/mazen1/123456/69869
-#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="Ca: Assemblee Nationale Quebec (FR)" tvg-logo="" group-title="Canada | French",Ca: Assemblee Nationale Quebec (FR)
-http://new-pro.tv:8080/mazen1/123456/109672
 #EXTINF:-1 tvg-id="" tvg-name="Ca: VBS" tvg-logo="http://vod-logo.net/photos/8e8d33c4c7dd74d4a4a3469a61da44a2.png" group-title="Canada",Ca: VBS
 http://new-pro.tv:8080/mazen1/123456/69874
 #EXTINF:-1 tvg-id="" tvg-name="Ca: Montreal Greek TV" tvg-logo="http://vod-logo.net/photos/b5a0e50cd44428cf3daeb3072a0bc2ae.jpg" group-title="Canada",Ca: Montreal Greek TV
 http://new-pro.tv:8080/mazen1/123456/69880
 #EXTINF:-1 tvg-id="" tvg-name="Ca: Rogers TV" tvg-logo="http://vod-logo.net/photos/2fdd8f27bd7e34d03aa3407dfe36dfc1.png" group-title="Canada",Ca: Rogers TV
 http://new-pro.tv:8080/mazen1/123456/69500
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: ICI RDI (FR)" tvg-logo="http://vod-logo.net/photos/140a45fb1996faacffcc83595b6d0b7e.png" group-title="Canada | French",Ca | Fr: ICI RDI (FR)
-http://new-pro.tv:8080/mazen1/123456/69489
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: ICI Montreal" tvg-logo="http://vod-logo.net/photos/048a00460c1a12d2f8252fbbfbf96f54.png" group-title="Canada | French",Ca | Fr: ICI Montreal
-http://new-pro.tv:8080/mazen1/123456/69495
-#EXTINF:-1 tvg-id="" tvg-name="Ca: Canal D (FR)" tvg-logo="http://vod-logo.net/photos/5e0d31d4afaa9eb182cb56d4a07b14fe.png" group-title="Canada | French",Ca: Canal D (FR)
-http://new-pro.tv:8080/mazen1/123456/69492
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: LCN (FR)" tvg-logo="http://vod-logo.net/photos/0077beb9d2e1ddd47434cc5234e20d43.png" group-title="Canada | French",Ca | Fr: LCN (FR)
-http://new-pro.tv:8080/mazen1/123456/69496
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: Tva Sports 2 HD" tvg-logo="" group-title="Canada | French",Ca | Fr: Tva Sports 2 HD
-http://new-pro.tv:8080/mazen1/123456/69497
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: Z TELE" tvg-logo="" group-title="Canada | French",Ca | Fr: Z TELE
-http://new-pro.tv:8080/mazen1/123456/69499
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: TELE QUEBEC (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/1200px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="Canada | French",Ca | Fr: TELE QUEBEC (FR)
-http://new-pro.tv:8080/mazen1/123456/69501
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: RDS (FR)" tvg-logo="" group-title="Canada | French",Ca | Fr: RDS (FR)
-http://new-pro.tv:8080/mazen1/123456/109698
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: RDS 2 (FR)" tvg-logo="" group-title="Canada | French",Ca | Fr: RDS 2 (FR)
-http://new-pro.tv:8080/mazen1/123456/109699
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: RDS INFO (FR)" tvg-logo="" group-title="Canada | French",Ca | Fr: RDS INFO (FR)
-http://new-pro.tv:8080/mazen1/123456/109700
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr:  VIE" tvg-logo="" group-title="Canada | French",Ca | Fr:  VIE
-http://new-pro.tv:8080/mazen1/123456/109701
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: VRAK TV" tvg-logo="" group-title="Canada | French",Ca | Fr: VRAK TV
-http://new-pro.tv:8080/mazen1/123456/109702
-#EXTINF:-1 tvg-id="" tvg-name="Ca: ADDIK (FR)" tvg-logo="" group-title="Canada | French",Ca: ADDIK (FR)
-http://new-pro.tv:8080/mazen1/123456/109704
-#EXTINF:-1 tvg-id="" tvg-name="Ca: Super Ecran 1" tvg-logo="" group-title="Canada | French",Ca: Super Ecran 1
-http://new-pro.tv:8080/mazen1/123456/109708
-#EXTINF:-1 tvg-id="" tvg-name="Ca: Super Ecran 4" tvg-logo="" group-title="Canada | French",Ca: Super Ecran 4
-http://new-pro.tv:8080/mazen1/123456/109710
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: YOOPA" tvg-logo="" group-title="Canada | French",Ca | Fr: YOOPA
-http://new-pro.tv:8080/mazen1/123456/109711
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: TFO HD" tvg-logo="http://vod-logo.net/photos/e9cf6a4a95acd4bdba48dee566e20871.png" group-title="Canada | French",Ca | Fr: TFO HD
-http://new-pro.tv:8080/mazen1/123456/69502
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: TVA Montreal HD (FR)" tvg-logo="http://vod-logo.net/photos/d6391131628929b4695668df60957f14.png" group-title="Canada | French",Ca | Fr: TVA Montreal HD (FR)
-http://new-pro.tv:8080/mazen1/123456/69504
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: Unis TV HD (FR)" tvg-logo="http://vod-logo.net/photos/34867c463537bbaae20d9c841b3d54ac.png" group-title="Canada | French",Ca | Fr: Unis TV HD (FR)
-http://new-pro.tv:8080/mazen1/123456/69505
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: TV5 Quebec HD (FR)" tvg-logo="" group-title="Canada | French",Ca | Fr: TV5 Quebec HD (FR)
-http://new-pro.tv:8080/mazen1/123456/122075
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: Evasion (FR)" tvg-logo="http://vod-logo.net/photos/2b369e2884c45e30ca4d339b17076f6e.png" group-title="Canada | French",Ca | Fr: Evasion (FR)
-http://new-pro.tv:8080/mazen1/123456/69459
-#EXTINF:-1 tvg-id="" tvg-name="Ca: CASA (FR)" tvg-logo="" group-title="Canada | French",Ca: CASA (FR)
-http://new-pro.tv:8080/mazen1/123456/135046
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: ICI VANCOUVER FR" tvg-logo="" group-title="Canada | French",Ca | Fr: ICI VANCOUVER FR
-http://new-pro.tv:8080/mazen1/123456/135049
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: MOI CIE" tvg-logo="" group-title="Canada | French",Ca | Fr: MOI CIE
-http://new-pro.tv:8080/mazen1/123456/135051
 #EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="Ca: GLOBAL TORONTO HD" tvg-logo="" group-title="Canada",Ca: GLOBAL TORONTO HD
 http://new-pro.tv:8080/mazen1/123456/302592
 #EXTINF:-1 tvg-id="iciradiocanadatoronto.ca" tvg-name="Ca: ICI Radio Toronto" tvg-logo="" group-title="Canada",Ca: ICI Radio Toronto
@@ -1367,14 +1317,10 @@ http://new-pro.tv:8080/mazen1/123456/302593
 http://new-pro.tv:8080/mazen1/123456/302596
 #EXTINF:-1 tvg-id="cottagelife.ca" tvg-name="Ca: Cottage Life" tvg-logo="" group-title="Canada",Ca: Cottage Life
 http://new-pro.tv:8080/mazen1/123456/302597
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: EMCI" tvg-logo="" group-title="Canada | French",Ca | Fr: EMCI
-http://new-pro.tv:8080/mazen1/123456/302598
 #EXTINF:-1 tvg-id="cbccbnt.ca" tvg-name="Ca: CBC St Johns HD" tvg-logo="" group-title="Canada",Ca: CBC St Johns HD
 http://new-pro.tv:8080/mazen1/123456/302600
 #EXTINF:-1 tvg-id="espnclassic.ca" tvg-name="Ca: ESPN Classic" tvg-logo="" group-title="Canada",Ca: ESPN Classic
 http://new-pro.tv:8080/mazen1/123456/302602
-#EXTINF:-1 tvg-id="" tvg-name="Ca: ICI ARTV (FR)" tvg-logo="" group-title="Canada | French",Ca: ICI ARTV (FR)
-http://new-pro.tv:8080/mazen1/123456/302603
 #EXTINF:-1 tvg-id="outdoorlife.ca" tvg-name="Ca: Outdoor Life Network" tvg-logo="" group-title="Canada",Ca: Outdoor Life Network
 http://new-pro.tv:8080/mazen1/123456/302604
 #EXTINF:-1 tvg-id="adultswim.ca" tvg-name="Ca: ADULT SWIM HD" tvg-logo="" group-title="Canada",Ca: ADULT SWIM HD
@@ -1395,10 +1341,6 @@ http://new-pro.tv:8080/mazen1/123456/302533
 http://new-pro.tv:8080/mazen1/123456/302549
 #EXTINF:-1 tvg-id="onesoccer.ca" tvg-name="Ca: One Soccer" tvg-logo="" group-title="Canada",Ca: One Soccer
 http://new-pro.tv:8080/mazen1/123456/302550
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: Meteo Media Montreal" tvg-logo="" group-title="Canada | French",Ca | Fr: Meteo Media Montreal
-http://new-pro.tv:8080/mazen1/123456/302551
-#EXTINF:-1 tvg-id="" tvg-name="Ca: DAYSTAR TV" tvg-logo="" group-title="Canada | French",Ca: DAYSTAR TV
-http://new-pro.tv:8080/mazen1/123456/302552
 #EXTINF:-1 tvg-id="dtour.ca" tvg-name="Ca: DTour" tvg-logo="" group-title="Canada",Ca: DTour
 http://new-pro.tv:8080/mazen1/123456/302553
 #EXTINF:-1 tvg-id="" tvg-name="Ca: HOPE TV" tvg-logo="" group-title="Canada",Ca: HOPE TV
@@ -1409,8 +1351,6 @@ http://new-pro.tv:8080/mazen1/123456/302555
 http://new-pro.tv:8080/mazen1/123456/302556
 #EXTINF:-1 tvg-id="travelxp.ca" tvg-name="Ca: TRAVELXP" tvg-logo="" group-title="Canada",Ca: TRAVELXP
 http://new-pro.tv:8080/mazen1/123456/302561
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: MUSIQUE PLUS" tvg-logo="" group-title="Canada | French",Ca | Fr: MUSIQUE PLUS
-http://new-pro.tv:8080/mazen1/123456/302562
 #EXTINF:-1 tvg-id="wild.ca" tvg-name="Ca: Wild" tvg-logo="" group-title="Canada",Ca: Wild
 http://new-pro.tv:8080/mazen1/123456/302567
 #EXTINF:-1 tvg-id="wgncanada.ca" tvg-name="Ca: WGN" tvg-logo="" group-title="Canada",Ca: WGN
@@ -1421,8 +1361,6 @@ http://new-pro.tv:8080/mazen1/123456/302569
 http://new-pro.tv:8080/mazen1/123456/302570
 #EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="Ca:  Smithsonian HD" tvg-logo="" group-title="Canada",Ca:  Smithsonian HD
 http://new-pro.tv:8080/mazen1/123456/302571
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: CINEPOP" tvg-logo="" group-title="Canada | French",Ca | Fr: CINEPOP
-http://new-pro.tv:8080/mazen1/123456/302574
 #EXTINF:-1 tvg-id="" tvg-name="Ca: KTLA" tvg-logo="" group-title="Canada",Ca: KTLA
 http://new-pro.tv:8080/mazen1/123456/302575
 #EXTINF:-1 tvg-id="onegetfit.ca" tvg-name="Ca: ONE Get Fit FHD" tvg-logo="" group-title="Canada",Ca: ONE Get Fit FHD
@@ -1437,13 +1375,10 @@ http://new-pro.tv:8080/mazen1/123456/302580
 http://new-pro.tv:8080/mazen1/123456/302581
 #EXTINF:-1 tvg-id="superchannelvault.ca" tvg-name="Ca: SUPER Channel VAULT HD" tvg-logo="" group-title="Canada",Ca: SUPER Channel VAULT HD
 http://new-pro.tv:8080/mazen1/123456/302582
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: AMI TV" tvg-logo="" group-title="Canada | French",Ca | Fr: AMI TV
-http://new-pro.tv:8080/mazen1/123456/302583
 #EXTINF:-1 tvg-id="" tvg-name="Ca: Bravo HD" tvg-logo="" group-title="Canada",Ca: Bravo HD
 http://new-pro.tv:8080/mazen1/123456/302584
 #EXTINF:-1 tvg-id="" tvg-name="Ca: World Fishing Network" tvg-logo="" group-title="Canada",Ca: World Fishing Network
 http://new-pro.tv:8080/mazen1/123456/302590
-
 #EXTINF:-1 tvg-id="" tvg-name="Pk: Roze News" tvg-logo="https://i.pinimg.com/originals/39/a8/14/39a8146784f2f39d1e21a674044fd389.jpg" group-title="Pakistan",Pk: Roze News
 http://new-pro.tv:8080/mazen1/123456/71169
 #EXTINF:-1 tvg-id="" tvg-name="Pk: Mehran TV" tvg-logo="http://mehrantv.tv/wp-content/uploads/2018/06/Logo-I.png" group-title="Pakistan",Pk: Mehran TV

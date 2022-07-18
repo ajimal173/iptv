@@ -28,7 +28,6 @@ http://new-pro.tv:8080/mazen1/123456/30043
 http://new-pro.tv:8080/mazen1/123456/2698
 #EXTINF:-1 tvg-id="" tvg-name="MyHD: Fix & Foxi" tvg-logo="http://vod-logo.net/photos/9c50737e8e895fbd93da86998d11500d.jpg" group-title="GoBox ",MyHD: Fix & Foxi
 http://new-pro.tv:8080/mazen1/123456/13425
-
 #EXTINF:-1 tvg-id="" tvg-name="Kids: Oggy 1 TV" tvg-logo="http://vod-logo.net/photos/70fb4d4189fdd850a84318b02d2977df.png" group-title="Kids ⭐️ الاطفال",Kids: Oggy 1 TV
 http://new-pro.tv:8080/mazen1/123456/37127
 #EXTINF:-1 tvg-id="" tvg-name="Kids: Oggy 2 TV" tvg-logo="http://vod-logo.net/photos/70fb4d4189fdd850a84318b02d2977df.png" group-title="Kids ⭐️ الاطفال",Kids: Oggy 2 TV
@@ -348,78 +347,6 @@ http://new-pro.tv:8080/mazen1/123456/68504
 http://new-pro.tv:8080/mazen1/123456/68533
 #EXTINF:-1 tvg-id="really.uk" tvg-name="UK: Really" tvg-logo="" group-title="UK ",UK: Really
 http://new-pro.tv:8080/mazen1/123456/72753
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK Sports",UK: BT Sport 1 HD
-http://new-pro.tv:8080/mazen1/123456/68472
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK | Sport: BT Sport 2 HD" tvg-logo="" group-title="UK Sports",UK | Sport: BT Sport 2 HD
-http://new-pro.tv:8080/mazen1/123456/68473
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: BT Sport 1 FHD" tvg-logo="" group-title="UK Sports",UK | Sport: BT Sport 1 FHD
-http://new-pro.tv:8080/mazen1/123456/69581
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: BT Sport 2 FHD" tvg-logo="" group-title="UK Sports",UK | Sport: BT Sport 2 FHD
-http://new-pro.tv:8080/mazen1/123456/69582
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: BT Sport 3 FHD" tvg-logo="" group-title="UK Sports",UK | Sport: BT Sport 3 FHD
-http://new-pro.tv:8080/mazen1/123456/69583
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Box Nation HD" tvg-logo="" group-title="UK Sports",UK | Sport: Box Nation HD
-http://new-pro.tv:8080/mazen1/123456/154432
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK | Sport: BT Sport 3 HD" tvg-logo="" group-title="UK Sports",UK | Sport: BT Sport 3 HD
-http://new-pro.tv:8080/mazen1/123456/68474
-#EXTINF:-1 tvg-id="" tvg-name="UK | IR: Eir Sports 1 FHD" tvg-logo="" group-title="UK Sports",UK | IR: Eir Sports 1 FHD
-http://new-pro.tv:8080/mazen1/123456/68478
-#EXTINF:-1 tvg-id="" tvg-name="UK | IR: Eir Sports 2 FHD" tvg-logo="" group-title="UK Sports",UK | IR: Eir Sports 2 FHD
-http://new-pro.tv:8080/mazen1/123456/68479
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS NFL" tvg-logo="" group-title="UK Sports",UK: SKY SPORTS NFL
-http://new-pro.tv:8080/mazen1/123456/68483
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena HD (DARTS)" tvg-logo="" group-title="UK Sports",UK: Sky Sports Arena HD (DARTS)
-http://new-pro.tv:8080/mazen1/123456/68484
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK | Sport: Sky Sports Cricket HD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Cricket HD
-http://new-pro.tv:8080/mazen1/123456/68485
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK | Sport: Sky Sports F1 HD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports F1 HD
-http://new-pro.tv:8080/mazen1/123456/68486
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK | Sport: Sky Sports Football HD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Football HD
-http://new-pro.tv:8080/mazen1/123456/68487
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK | Sport: Sky Sports Golf HD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Golf HD
-http://new-pro.tv:8080/mazen1/123456/68488
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK | Sport: Sky Sports Main Event HD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Main Event HD
-http://new-pro.tv:8080/mazen1/123456/68489
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK | Sport: Sky Sports Premier League HD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Premier League HD
-http://new-pro.tv:8080/mazen1/123456/68490
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: EuroSport 1 FHD" tvg-logo="" group-title="UK Sports",UK | Sport: EuroSport 1 FHD
-http://new-pro.tv:8080/mazen1/123456/69584
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: EuroSport 2 FHD" tvg-logo="" group-title="UK Sports",UK | Sport: EuroSport 2 FHD
-http://new-pro.tv:8080/mazen1/123456/69585
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Premier Sports 1 FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Premier Sports 1 FHD
-http://new-pro.tv:8080/mazen1/123456/69586
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Premier Sports 2 FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Premier Sports 2 FHD
-http://new-pro.tv:8080/mazen1/123456/69587
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports Racing FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Racing FHD
-http://new-pro.tv:8080/mazen1/123456/69588
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="" group-title="UK Sports",UK: Sky Sports Mix FHD
-http://new-pro.tv:8080/mazen1/123456/69589
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports News FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports News FHD
-http://new-pro.tv:8080/mazen1/123456/69590
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports NFL FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports NFL FHD
-http://new-pro.tv:8080/mazen1/123456/69591
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports Arena FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Arena FHD
-http://new-pro.tv:8080/mazen1/123456/69592
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports Cricket FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Cricket FHD
-http://new-pro.tv:8080/mazen1/123456/69593
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports F1 FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports F1 FHD
-http://new-pro.tv:8080/mazen1/123456/69594
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports Football FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Football FHD
-http://new-pro.tv:8080/mazen1/123456/69595
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports Golf FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Golf FHD
-http://new-pro.tv:8080/mazen1/123456/69596
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports Main Event FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Main Event FHD
-http://new-pro.tv:8080/mazen1/123456/69597
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Sky Sports Premier League FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports Premier League FHD
-http://new-pro.tv:8080/mazen1/123456/69598
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: BT Sport ESPN FHD" tvg-logo="" group-title="UK Sports",UK | Sport: BT Sport ESPN FHD
-http://new-pro.tv:8080/mazen1/123456/69599
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN HD" tvg-logo="" group-title="UK Sports",UK: BT Sport ESPN HD
-http://new-pro.tv:8080/mazen1/123456/68471
-#EXTINF:-1 tvg-id="" tvg-name="UK: Rangers FC [Live Matches Only]" tvg-logo="" group-title="UK Sports",UK: Rangers FC [Live Matches Only]
-http://new-pro.tv:8080/mazen1/123456/319936
-#EXTINF:-1 tvg-id="" tvg-name="UK: Celtic TV [Live Matches Only]" tvg-logo="" group-title="UK Sports",UK: Celtic TV [Live Matches Only]
-http://new-pro.tv:8080/mazen1/123456/319937
 #EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK: Sky Animation HD" tvg-logo="" group-title="UK ",UK: Sky Animation HD
 http://new-pro.tv:8080/mazen1/123456/68491
 #EXTINF:-1 tvg-id="LOVEWORLD-TV.uk" tvg-name="UK: Love World HD" tvg-logo="" group-title="UK ",UK: Love World HD
@@ -438,8 +365,6 @@ http://new-pro.tv:8080/mazen1/123456/68502
 http://new-pro.tv:8080/mazen1/123456/68503
 #EXTINF:-1 tvg-id="" tvg-name="UK: WATCH HD" tvg-logo="" group-title="UK ",UK: WATCH HD
 http://new-pro.tv:8080/mazen1/123456/68505
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK | Sport: Premier Sports HD" tvg-logo="" group-title="UK Sports",UK | Sport: Premier Sports HD
-http://new-pro.tv:8080/mazen1/123456/68507
 #EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: Nat Geo HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="UK ",UK: Nat Geo HD
 http://new-pro.tv:8080/mazen1/123456/68508
 #EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC HD" tvg-logo="http://www.vod-logo.net/photos/6a2fd28bbb9a5720e61348235d05cd53.jpg" group-title="UK ",UK: TLC HD
@@ -450,8 +375,6 @@ http://new-pro.tv:8080/mazen1/123456/68514
 http://new-pro.tv:8080/mazen1/123456/68515
 #EXTINF:-1 tvg-id="" tvg-name="UK: Crime & Investigation FHD" tvg-logo="http://www.vod-logo.net/photos/95f42baff4179badc9d62d4cffaeb8e4.png" group-title="UK ",UK: Crime & Investigation FHD
 http://new-pro.tv:8080/mazen1/123456/68518
-#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK | Sport: Premier Sports 2 HD" tvg-logo="" group-title="UK Sports",UK | Sport: Premier Sports 2 HD
-http://new-pro.tv:8080/mazen1/123456/68519
 #EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: Nat Geo Wild HD" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="UK ",UK: Nat Geo Wild HD
 http://new-pro.tv:8080/mazen1/123456/68522
 #EXTINF:-1 tvg-id="TVOne.uk" tvg-name="UK: Sky SKY MAX HD" tvg-logo="" group-title="UK ",UK: Sky SKY MAX HD
@@ -518,12 +441,6 @@ http://new-pro.tv:8080/mazen1/123456/68569
 http://new-pro.tv:8080/mazen1/123456/68570
 #EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK | Sport: MUTV  HD" tvg-logo="" group-title="UK Sports",UK | Sport: MUTV  HD
 http://new-pro.tv:8080/mazen1/123456/68571
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK | Sport: Sky Sport Racing HD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sport Racing HD
-http://new-pro.tv:8080/mazen1/123456/68573
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK | Sport: Sky Sports News HD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports News HD
-http://new-pro.tv:8080/mazen1/123456/68574
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix HD" tvg-logo="" group-title="UK Sports",UK: Sky Sports Mix HD
-http://new-pro.tv:8080/mazen1/123456/68575
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Box Office [ Live Events ]" tvg-logo="" group-title="UK Sports",UK: Sky Sports Box Office [ Live Events ]
 http://new-pro.tv:8080/mazen1/123456/298510
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK: Sky Atlantic HD" tvg-logo="" group-title="UK ",UK: Sky Atlantic HD
@@ -536,8 +453,6 @@ http://new-pro.tv:8080/mazen1/123456/68577
 http://new-pro.tv:8080/mazen1/123456/72715
 #EXTINF:-1 tvg-id="" tvg-name="UK | Sport: BT BOX OFFICE" tvg-logo="" group-title="UK Sports",UK | Sport: BT BOX OFFICE
 http://new-pro.tv:8080/mazen1/123456/180261
-#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK | Sport: Free Sports HD" tvg-logo="" group-title="UK Sports",UK | Sport: Free Sports HD
-http://new-pro.tv:8080/mazen1/123456/72716
 #EXTINF:-1 tvg-id="Disney.uk" tvg-name="UK: Disney Junior HD" tvg-logo="http://www.vod-logo.net/photos/7ecee542c33472c3af78f5f5e2fcf534.png" group-title="UK ",UK: Disney Junior HD
 http://new-pro.tv:8080/mazen1/123456/68578
 #EXTINF:-1 tvg-id="" tvg-name="UK: Disney XD HD" tvg-logo="http://www.vod-logo.net/photos/00d4c3a6715b7d4d598fe48b4856510c.jpg" group-title="UK ",UK: Disney XD HD
@@ -749,26 +664,10 @@ http://new-pro.tv:8080/mazen1/123456/98200
 http://new-pro.tv:8080/mazen1/123456/98218
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Comedy FHD" tvg-logo="" group-title="UK ",UK: Sky Comedy FHD
 http://new-pro.tv:8080/mazen1/123456/98219
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK | Sport: BT Sport 2 SD" tvg-logo="" group-title="UK Sports",UK | Sport: BT Sport 2 SD
-http://new-pro.tv:8080/mazen1/123456/98196
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK | Sport: BT Sport 3 SD" tvg-logo="" group-title="UK Sports",UK | Sport: BT Sport 3 SD
-http://new-pro.tv:8080/mazen1/123456/98197
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK | Sport: BT Sport 1 SD" tvg-logo="" group-title="UK Sports",UK | Sport: BT Sport 1 SD
-http://new-pro.tv:8080/mazen1/123456/98195
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: FITE TV FHD" tvg-logo="" group-title="UK Sports",UK | Sport: FITE TV FHD
-http://new-pro.tv:8080/mazen1/123456/98199
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: La Liga TV FHD" tvg-logo="" group-title="UK Sports",UK | Sport: La Liga TV FHD
-http://new-pro.tv:8080/mazen1/123456/98217
-#EXTINF:-1 tvg-id="SkySpNFL.uk" tvg-name="UK | Sport: Sky Sports NFL HD" tvg-logo="" group-title="UK Sports",UK | Sport: Sky Sports NFL HD
-http://new-pro.tv:8080/mazen1/123456/98198
 #EXTINF:-1 tvg-id="" tvg-name="UK: DAVE FHD" tvg-logo="" group-title="UK ",UK: DAVE FHD
 http://new-pro.tv:8080/mazen1/123456/98222
 #EXTINF:-1 tvg-id="e4plus1.uk" tvg-name="UK: E4 +1" tvg-logo="" group-title="UK ",UK: E4 +1
 http://new-pro.tv:8080/mazen1/123456/98177
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK | Sport: EUROSPORTS 1 HD" tvg-logo="" group-title="UK Sports",UK | Sport: EUROSPORTS 1 HD
-http://new-pro.tv:8080/mazen1/123456/98189
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK | Sport: EUROSPORTS 2 HD" tvg-logo="" group-title="UK Sports",UK | Sport: EUROSPORTS 2 HD
-http://new-pro.tv:8080/mazen1/123456/98188
 #EXTINF:-1 tvg-id="" tvg-name="UK: GOLD FHD" tvg-logo="" group-title="UK ",UK: GOLD FHD
 http://new-pro.tv:8080/mazen1/123456/98225
 #EXTINF:-1 tvg-id="" tvg-name="UK: IDEAL World FHD" tvg-logo="" group-title="UK ",UK: IDEAL World FHD
@@ -840,8 +739,6 @@ http://new-pro.tv:8080/mazen1/123456/70378
 http://new-pro.tv:8080/mazen1/123456/287494
 #EXTINF:-1 tvg-id="cbs2kdka.us" tvg-name="Usa: CBSN Pittsburgh" tvg-logo="http://vod-logo.net/photos/60a480e3811c925e30998ae411f1799e.png" group-title="USA REGIONAL",Usa: CBSN Pittsburgh
 http://new-pro.tv:8080/mazen1/123456/70379
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="USA: CBS Sports Network" tvg-logo="" group-title="Usa Sports",USA: CBS Sports Network
-http://new-pro.tv:8080/mazen1/123456/70380
 #EXTINF:-1 tvg-id="disneyxd.us" tvg-name="USA: Disney XD" tvg-logo="http://vod-logo.net/photos/00d4c3a6715b7d4d598fe48b4856510c.jpg" group-title="USA Kids",USA: Disney XD
 http://new-pro.tv:8080/mazen1/123456/70381
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA: Disney Junior HD" tvg-logo="http://vod-logo.net/photos/0e2f704d935f99f8a76ee1dfeaf94f57.jpg" group-title="USA Kids",USA: Disney Junior HD
@@ -994,42 +891,8 @@ http://new-pro.tv:8080/mazen1/123456/70438
 http://new-pro.tv:8080/mazen1/123456/70432
 #EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Stadium 2" tvg-logo="" group-title="Usa Sports",Usa | Sport: Stadium 2
 http://new-pro.tv:8080/mazen1/123456/70431
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="Usa | Sport: BeIN Sports HD" tvg-logo="http://vod-logo.net/photos/1dc926fa79ec6d015a0283aafb1bf9aa.png" group-title="Usa Sports",Usa | Sport: BeIN Sports HD
-http://new-pro.tv:8080/mazen1/123456/70427
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="Usa | Sport: BeIN Sports La Liga" tvg-logo="http://vod-logo.net/photos/c694d875afbdc3d6265bacdc6bb88f8a.jpg" group-title="Usa Sports",Usa | Sport: BeIN Sports La Liga
-http://new-pro.tv:8080/mazen1/123456/70426
-#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="Usa | Sport: BeIN Sports Xtra HD" tvg-logo="" group-title="Usa Sports",Usa | Sport: BeIN Sports Xtra HD
-http://new-pro.tv:8080/mazen1/123456/70428
-#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="Usa | Sport: BeIN Sports 4 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="Usa Sports",Usa | Sport: BeIN Sports 4 HD
-http://new-pro.tv:8080/mazen1/123456/70425
-#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="Usa | Sport: BeIN Sports 5 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="Usa Sports",Usa | Sport: BeIN Sports 5 HD
-http://new-pro.tv:8080/mazen1/123456/70424
-#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="Usa | Sport: BeIN Sports 6 HD" tvg-logo="http://vod-logo.net/photos/a46f5a4558e354a306ce9b51ee519683.jpg" group-title="Usa Sports",Usa | Sport: BeIN Sports 6 HD
-http://new-pro.tv:8080/mazen1/123456/70423
-#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="Usa | Sport: BeIN Sports 7 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="Usa Sports",Usa | Sport: BeIN Sports 7 HD
-http://new-pro.tv:8080/mazen1/123456/70422
-#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="Usa | Sport: BeIN Sports 8 HD" tvg-logo="http://vod-logo.net/photos/6b19f9a2b9222060f45d2f9252b74e4e.jpg" group-title="Usa Sports",Usa | Sport: BeIN Sports 8 HD
-http://new-pro.tv:8080/mazen1/123456/70421
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA: Game Show Network" tvg-logo="http://vod-logo.net/photos/8fecf5935f0a41aa99b6303fb97a5811.png" group-title="Usa Sports",USA: Game Show Network
-http://new-pro.tv:8080/mazen1/123456/70429
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="Usa | Sport: NFL RedZone" tvg-logo="http://vod-logo.net/photos/13231802202c99886b128dc82fb2b827.png" group-title="USA | NBA NFL NHL MLB",Usa | Sport: NFL RedZone
-http://new-pro.tv:8080/mazen1/123456/70434
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="Usa | Sport: Big Ten Network" tvg-logo="http://vod-logo.net/photos/bcdb887e9afa6c335d3b0a68c93b4fca.jpg" group-title="Usa Sports",Usa | Sport: Big Ten Network
-http://new-pro.tv:8080/mazen1/123456/70443
-#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="USA: Fight Network HD" tvg-logo="http://vod-logo.net/photos/99091004e804a13888af0b67cf31b989.jpg" group-title="Usa Sports",USA: Fight Network HD
-http://new-pro.tv:8080/mazen1/123456/70444
 #EXTINF:-1 tvg-id="wwe.us" tvg-name="Usa | Sport: WWE Network HD" tvg-logo="http://vod-logo.net/photos/d09f02cb9e44fc2ffc9352930e764838.jpg" group-title="Usa Sports",Usa | Sport: WWE Network HD
 http://new-pro.tv:8080/mazen1/123456/70446
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: UFC 1 HD" tvg-logo="http://vod-logo.net/photos/fa69c5d00e56bbca726dc12e9469c31e.png" group-title="Usa Sports",Usa | Sport: UFC 1 HD
-http://new-pro.tv:8080/mazen1/123456/92065
-#EXTINF:-1 tvg-id="" tvg-name="Usa: 30A TV" tvg-logo="http://vod-logo.net/photos/1551e6492d98881d0d6f73fc8b24cc24.png" group-title="USA",Usa: 30A TV
-http://new-pro.tv:8080/mazen1/123456/87466
-#EXTINF:-1 tvg-id="" tvg-name="Usa: Aljazeera Amri" tvg-logo="http://vod-logo.net/photos/7c65aa81f771baa3a4f348aa3e897e79.png" group-title="USA",Usa: Aljazeera Amri
-http://new-pro.tv:8080/mazen1/123456/87456
-#EXTINF:-1 tvg-id="" tvg-name="Usa: Aljazeera Balkans" tvg-logo="http://vod-logo.net/photos/b5aed5512cc8c5ffe7fc64deb20af5c8.png" group-title="USA",Usa: Aljazeera Balkans
-http://new-pro.tv:8080/mazen1/123456/87454
-#EXTINF:-1 tvg-id="" tvg-name="Usa: Aljazeera English" tvg-logo="http://vod-logo.net/photos/f266e4a9946b8277ca016862622c1321.png" group-title="USA",Usa: Aljazeera English
-http://new-pro.tv:8080/mazen1/123456/87455
 #EXTINF:-1 tvg-id="" tvg-name="USA: Buzzr" tvg-logo="" group-title="USA Entertainment",USA: Buzzr
 http://new-pro.tv:8080/mazen1/123456/179036
 #EXTINF:-1 tvg-id="cgtn.us" tvg-name="Usa: CGTN Doc" tvg-logo="http://vod-logo.net/photos/261595a5bfb344ca00b0dca57c793971.png" group-title="USA Documentary ",Usa: CGTN Doc
@@ -1078,188 +941,22 @@ http://new-pro.tv:8080/mazen1/123456/108645
 http://new-pro.tv:8080/mazen1/123456/87462
 #EXTINF:-1 tvg-id="nasachannel.us" tvg-name="USA: Nasa HD" tvg-logo="http://vod-logo.net/photos/de2c67945a73fdd38ae1af1edd94b888.crdownload" group-title="USA Documentary ",USA: Nasa HD
 http://new-pro.tv:8080/mazen1/123456/88715
-#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="Usa: The Weather Channel" tvg-logo="http://vod-logo.net/photos/e3c9ce94f4b620422635aaf99926bbc9.png" group-title="USA",Usa: The Weather Channel
-http://new-pro.tv:8080/mazen1/123456/87452
-#EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="Usa | Sport: Olympic Channel" tvg-logo="http://vod-logo.net/photos/e2b75120925313235ec8b41cc55be7e7.png" group-title="Usa Sports",Usa | Sport: Olympic Channel
-http://new-pro.tv:8080/mazen1/123456/70392
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="Usa | Sport: ESPN News" tvg-logo="" group-title="Usa Sports",Usa | Sport: ESPN News
-http://new-pro.tv:8080/mazen1/123456/70393
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: ESPN 1" tvg-logo="http://vod-logo.net/photos/1970385264f54e4e9e6c871ebf8275c6.png" group-title="Usa Sports",Usa | Sport: ESPN 1
-http://new-pro.tv:8080/mazen1/123456/70394
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: ESPN 2" tvg-logo="http://vod-logo.net/photos/1970385264f54e4e9e6c871ebf8275c6.png" group-title="Usa Sports",Usa | Sport: ESPN 2
-http://new-pro.tv:8080/mazen1/123456/70395
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA: Fox Sports 1" tvg-logo="http://vod-logo.net/photos/4e327bd38c16cec1fbc1b08cb4f59e10.png" group-title="Usa Sports",USA: Fox Sports 1
-http://new-pro.tv:8080/mazen1/123456/70396
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA: Fox Sports 2" tvg-logo="http://vod-logo.net/photos/c91e4070a28496762130fb8ddccfcd47.png" group-title="Usa Sports",USA: Fox Sports 2
-http://new-pro.tv:8080/mazen1/123456/70397
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports NetBase" tvg-logo="" group-title="Usa Sports",USA: Fox Sports NetBase
-http://new-pro.tv:8080/mazen1/123456/70398
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Yes Network" tvg-logo="http://vod-logo.net/photos/e5402d074e5c6dff59e8424c5e9ce101.png" group-title="Usa Sports",USA: Fox Sports Yes Network
-http://new-pro.tv:8080/mazen1/123456/70400
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Tennessee" tvg-logo="http://vod-logo.net/photos/1f58cd1523aaa932684a18775e0c64a0.png" group-title="Usa Sports",USA: Fox Sports Tennessee
-http://new-pro.tv:8080/mazen1/123456/70402
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports San Diego" tvg-logo="http://vod-logo.net/photos/badfd043a19112f9141b578b43784f58.png" group-title="Usa Sports",USA: Fox Sports San Diego
-http://new-pro.tv:8080/mazen1/123456/70403
-#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="USA: Bally Sports South HD" tvg-logo="" group-title="Usa Sports",USA: Bally Sports South HD
-http://new-pro.tv:8080/mazen1/123456/304985
-#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="USA: Bally Sports South West HD" tvg-logo="" group-title="Usa Sports",USA: Bally Sports South West HD
-http://new-pro.tv:8080/mazen1/123456/304986
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Sun" tvg-logo="http://vod-logo.net/photos/90e2a86918b24661cd04e9b6cf00a5be.jpg" group-title="Usa Sports",USA: Fox Sports Sun
-http://new-pro.tv:8080/mazen1/123456/70404
-#EXTINF:-1 tvg-id="" tvg-name="Usa: Bally Sports Detroit" tvg-logo="http://vod-logo.net/photos/6280814c2433d67d2496d43a3d564abd.png" group-title="Usa Sports",Usa: Bally Sports Detroit
-http://new-pro.tv:8080/mazen1/123456/70405
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports North" tvg-logo="http://vod-logo.net/photos/a4de561bcccb061a25b67fb3ccc68cb5.crdownload" group-title="Usa Sports",USA: Fox Sports North
-http://new-pro.tv:8080/mazen1/123456/70407
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Midwest" tvg-logo="http://vod-logo.net/photos/d841e402f5ae303a4c2267814ed160c5.png" group-title="Usa Sports",USA: Fox Sports Midwest
-http://new-pro.tv:8080/mazen1/123456/70408
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Florida" tvg-logo="http://vod-logo.net/photos/0d0a4017381b83e9816ac753a954c868.png" group-title="Usa Sports",USA: Fox Sports Florida
-http://new-pro.tv:8080/mazen1/123456/70409
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Wisconsin" tvg-logo="http://vod-logo.net/photos/c1b7054a5abf32ae9c1f48ea84635a97.png" group-title="Usa Sports",USA: Fox Sports Wisconsin
-http://new-pro.tv:8080/mazen1/123456/70411
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Detroit Plus" tvg-logo="http://vod-logo.net/photos/a943b931ec1e9b0e62a7385ab518faf1.png" group-title="Usa Sports",USA: Fox Sports Detroit Plus
-http://new-pro.tv:8080/mazen1/123456/70413
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Southwest" tvg-logo="http://vod-logo.net/photos/ba1657adac5e1d03d8a20e5a100780ac.png" group-title="Usa Sports",USA: Fox Sports Southwest
-http://new-pro.tv:8080/mazen1/123456/70416
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Golf Channel" tvg-logo="http://vod-logo.net/photos/de2023c9a947bb972cf89111c1e85080.png" group-title="Usa Sports",USA: NBC Golf Channel
-http://new-pro.tv:8080/mazen1/123456/70547
-#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="USA: NBC Sports Philadelfia" tvg-logo="http://vod-logo.net/photos/391c06ee493c8ea2bd121a0ee5146f7f.jpg" group-title="Usa Sports",USA: NBC Sports Philadelfia
-http://new-pro.tv:8080/mazen1/123456/70548
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Sports Washington" tvg-logo="http://vod-logo.net/photos/f5c78baa764b9109bde4cf0dacefe94a.png" group-title="Usa Sports",USA: NBC Sports Washington
-http://new-pro.tv:8080/mazen1/123456/70549
-#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="USA: NBC Sports California" tvg-logo="http://vod-logo.net/photos/3ac47fc1a93a67aa060ac73d189e55cc.crdownload" group-title="Usa Sports",USA: NBC Sports California
-http://new-pro.tv:8080/mazen1/123456/70550
-#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="USA: NBC Sports Chicago" tvg-logo="http://vod-logo.net/photos/c53cc65bc92faa230b79ead676680377.png" group-title="Usa Sports",USA: NBC Sports Chicago
-http://new-pro.tv:8080/mazen1/123456/70551
-#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="USA: NBC Sports Bay Area" tvg-logo="" group-title="Usa Sports",USA: NBC Sports Bay Area
-http://new-pro.tv:8080/mazen1/123456/173694
-#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="USA: NBC Sports Boston" tvg-logo="http://vod-logo.net/photos/b35b6e0b77b7c9a62f8dfe153efcf883.png" group-title="Usa Sports",USA: NBC Sports Boston
-http://new-pro.tv:8080/mazen1/123456/92223
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Sports Northwest" tvg-logo="http://vod-logo.net/photos/e08db116cc5c3bfba258142dec43b4cc.png" group-title="Usa Sports",USA: NBC Sports Northwest
-http://new-pro.tv:8080/mazen1/123456/70553
-#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="USA: NBC Sports Network" tvg-logo="http://vod-logo.net/photos/530f6985a0e2a100d403694815f5de24.png" group-title="Usa Sports",USA: NBC Sports Network
-http://new-pro.tv:8080/mazen1/123456/70554
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 4 (KNBC) Los Angeles" tvg-logo="" group-title="USA REGIONAL",USA: NBC 4 (KNBC) Los Angeles
-http://new-pro.tv:8080/mazen1/123456/294995
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Sports HD" tvg-logo="" group-title="USA REGIONAL",USA: NBC Sports HD
-http://new-pro.tv:8080/mazen1/123456/294997
-#EXTINF:-1 tvg-id="cspan2.us" tvg-name="USA: C SPAN 2 HD" tvg-logo="" group-title="USA",USA: C SPAN 2 HD
-http://new-pro.tv:8080/mazen1/123456/294998
-#EXTINF:-1 tvg-id="" tvg-name="Usa: Cinema 03 PPV" tvg-logo="https://i.ibb.co/1shwhgk/shoxbet.png" group-title="USA Cinema",Usa: Cinema 03 PPV
-http://new-pro.tv:8080/mazen1/123456/73505
-#EXTINF:-1 tvg-id="" tvg-name="USA | Spor: Venn HD" tvg-logo="" group-title="Usa Sports",USA | Spor: Venn HD
-http://new-pro.tv:8080/mazen1/123456/216101
-#EXTINF:-1 tvg-id="altitudesport.us" tvg-name="USA | Sport: Altitude Sports" tvg-logo="" group-title="Usa Sports",USA | Sport: Altitude Sports
-http://new-pro.tv:8080/mazen1/123456/216095
-#EXTINF:-1 tvg-id="atandtsportsnetrockymountain.us" tvg-name="USA: AT&T Sportsnet Rocky Mountain" tvg-logo="" group-title="Usa Sports",USA: AT&T Sportsnet Rocky Mountain
-http://new-pro.tv:8080/mazen1/123456/216096
-#EXTINF:-1 tvg-id="ballysportssarizona.us" tvg-name="USA: Bally Sports Arizona" tvg-logo="" group-title="Usa Sports",USA: Bally Sports Arizona
-http://new-pro.tv:8080/mazen1/123456/216097
-#EXTINF:-1 tvg-id="" tvg-name="USA: Bein Sports En Español" tvg-logo="" group-title="Usa Sports",USA: Bein Sports En Español
-http://new-pro.tv:8080/mazen1/123456/216094
-#EXTINF:-1 tvg-id="stadium.us" tvg-name="USA | Sport: Stadium" tvg-logo="" group-title="Usa Sports",USA | Sport: Stadium
-http://new-pro.tv:8080/mazen1/123456/216108
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Stadium 3" tvg-logo="" group-title="Usa Sports",USA | Sport: Stadium 3
-http://new-pro.tv:8080/mazen1/123456/216107
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="USA: TBS HD" tvg-logo="" group-title="Usa Sports",USA: TBS HD
-http://new-pro.tv:8080/mazen1/123456/216886
-#EXTINF:-1 tvg-id="tvg2.us" tvg-name="USA | Sport: TVG 2 HD" tvg-logo="" group-title="Usa Sports",USA | Sport: TVG 2 HD
-http://new-pro.tv:8080/mazen1/123456/216106
-#EXTINF:-1 tvg-id="vsin.us" tvg-name="USA | Sport: VSiN HD" tvg-logo="" group-title="Usa Sports",USA | Sport: VSiN HD
-http://new-pro.tv:8080/mazen1/123456/216100
-#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="USA | Sport: Willow Cricket Extra" tvg-logo="" group-title="Usa Sports",USA | Sport: Willow Cricket Extra
-http://new-pro.tv:8080/mazen1/123456/216098
-#EXTINF:-1 tvg-id="ballysportsneworleans.us" tvg-name="USA: Bally Sports New Orleans" tvg-logo="" group-title="Usa Sports",USA: Bally Sports New Orleans
-http://new-pro.tv:8080/mazen1/123456/216123
-#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="USA: Bally Sports Sun" tvg-logo="" group-title="Usa Sports",USA: Bally Sports Sun
-http://new-pro.tv:8080/mazen1/123456/216125
-#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="USA | Sports: Bally Sports West" tvg-logo="" group-title="Usa Sports",USA | Sports: Bally Sports West
-http://new-pro.tv:8080/mazen1/123456/216124
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sports: DraftKings Baseball Channel" tvg-logo="" group-title="Usa Sports",USA | Sports: DraftKings Baseball Channel
-http://new-pro.tv:8080/mazen1/123456/216130
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: DraftKings College Football" tvg-logo="" group-title="Usa Sports",USA | Sport: DraftKings College Football
-http://new-pro.tv:8080/mazen1/123456/216129
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sports: DraftKings Football" tvg-logo="" group-title="Usa Sports",USA | Sports: DraftKings Football
-http://new-pro.tv:8080/mazen1/123456/216128
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Carolinas" tvg-logo="" group-title="Usa Sports",USA: Fox Sports Carolinas
-http://new-pro.tv:8080/mazen1/123456/216122
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports South Georgia" tvg-logo="" group-title="Usa Sports",USA: Fox Sports South Georgia
-http://new-pro.tv:8080/mazen1/123456/216126
-#EXTINF:-1 tvg-id="mavtv.us" tvg-name="USA | Sports: MAV TV" tvg-logo="" group-title="Usa Sports",USA | Sports: MAV TV
-http://new-pro.tv:8080/mazen1/123456/216121
-#EXTINF:-1 tvg-id="" tvg-name="USA: MLB Network" tvg-logo="" group-title="USA | NBA NFL NHL MLB",USA: MLB Network
-http://new-pro.tv:8080/mazen1/123456/216119
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sports: MLB StrikeZone" tvg-logo="" group-title="USA | NBA NFL NHL MLB",USA | Sports: MLB StrikeZone
-http://new-pro.tv:8080/mazen1/123456/216120
-#EXTINF:-1 tvg-id="motortrend.us" tvg-name="USA: MotorTrend" tvg-logo="" group-title="Usa Sports",USA: MotorTrend
-http://new-pro.tv:8080/mazen1/123456/216118
-#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="USA | Sports: NESN" tvg-logo="" group-title="Usa Sports",USA | Sports: NESN
-http://new-pro.tv:8080/mazen1/123456/216117
-#EXTINF:-1 tvg-id="pac12losangeles.us" tvg-name="USA: PAC 12 Los Angeles" tvg-logo="" group-title="Usa Sports",USA: PAC 12 Los Angeles
-http://new-pro.tv:8080/mazen1/123456/216115
-#EXTINF:-1 tvg-id="pac12mountain.us" tvg-name="USA | Sports: PAC12 Mountain" tvg-logo="" group-title="Usa Sports",USA | Sports: PAC12 Mountain
-http://new-pro.tv:8080/mazen1/123456/216114
-#EXTINF:-1 tvg-id="pac12washington.us" tvg-name="USA: PAC 12 Washington" tvg-logo="" group-title="Usa Sports",USA: PAC 12 Washington
-http://new-pro.tv:8080/mazen1/123456/216116
-#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="USA | Sports: RFD-TV" tvg-logo="" group-title="Usa Sports",USA | Sports: RFD-TV
-http://new-pro.tv:8080/mazen1/123456/216113
-#EXTINF:-1 tvg-id="rootsportsnorthwest.us" tvg-name="USA | Sports: Root Sports" tvg-logo="" group-title="Usa Sports",USA | Sports: Root Sports
-http://new-pro.tv:8080/mazen1/123456/216112
-#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="USA | Sports: Spectrum SportsNet LA Dodgers" tvg-logo="" group-title="Usa Sports",USA | Sports: Spectrum SportsNet LA Dodgers
-http://new-pro.tv:8080/mazen1/123456/216110
-#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="USA | Sports: Spectrum SportsNet Lakers" tvg-logo="" group-title="Usa Sports",USA | Sports: Spectrum SportsNet Lakers
-http://new-pro.tv:8080/mazen1/123456/216111
-#EXTINF:-1 tvg-id="sportsgrid.us" tvg-name="USA | Sports: Sports Grid" tvg-logo="" group-title="Usa Sports",USA | Sports: Sports Grid
-http://new-pro.tv:8080/mazen1/123456/216109
-#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="USA | Sport: Marquee Sports Network" tvg-logo="" group-title="Usa Sports",USA | Sport: Marquee Sports Network
-http://new-pro.tv:8080/mazen1/123456/128411
 #EXTINF:-1 tvg-id="babyfirst.us" tvg-name="USA: Baby First" tvg-logo="" group-title="USA Kids",USA: Baby First
 http://new-pro.tv:8080/mazen1/123456/216131
 #EXTINF:-1 tvg-id="dabl.us" tvg-name="USA: DABL HD" tvg-logo="" group-title="USA Kids",USA: DABL HD
 http://new-pro.tv:8080/mazen1/123456/216132
 #EXTINF:-1 tvg-id="pbskids.us" tvg-name="USA: PBS Kids" tvg-logo="" group-title="USA Kids",USA: PBS Kids
 http://new-pro.tv:8080/mazen1/123456/179580
-#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="USA: Bally Sports Florida HD" tvg-logo="" group-title="Usa Sports",USA: Bally Sports Florida HD
-http://new-pro.tv:8080/mazen1/123456/179327
-#EXTINF:-1 tvg-id="ballysportsindiana.us" tvg-name="USA | Sport: Bally Sports Indianna HD" tvg-logo="" group-title="Usa Sports",USA | Sport: Bally Sports Indianna HD
-http://new-pro.tv:8080/mazen1/123456/179328
-#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="USA | Sport: Bally Sports Mid West HD" tvg-logo="" group-title="Usa Sports",USA | Sport: Bally Sports Mid West HD
-http://new-pro.tv:8080/mazen1/123456/179330
-#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-name="USA: Bally Sports North HD" tvg-logo="" group-title="Usa Sports",USA: Bally Sports North HD
-http://new-pro.tv:8080/mazen1/123456/179331
-#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="USA: Bally Sports Ohio HD" tvg-logo="" group-title="Usa Sports",USA: Bally Sports Ohio HD
-http://new-pro.tv:8080/mazen1/123456/179332
-#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="USA: Bally Sports Socal" tvg-logo="" group-title="Usa Sports",USA: Bally Sports Socal
-http://new-pro.tv:8080/mazen1/123456/296521
-#EXTINF:-1 tvg-id="ballysportsoutheaststennessee.us" tvg-name="USA | Sport: Bally Sports Tennessee HD" tvg-logo="" group-title="Usa Sports",USA | Sport: Bally Sports Tennessee HD
-http://new-pro.tv:8080/mazen1/123456/179340
-#EXTINF:-1 tvg-id="pac12arizona.us" tvg-name="USA: Pac 12 Arizona HD" tvg-logo="" group-title="Usa Sports",USA: Pac 12 Arizona HD
-http://new-pro.tv:8080/mazen1/123456/179573
-#EXTINF:-1 tvg-id="pac12bayarea.us" tvg-name="USA | Sport: PAC12 BayArea" tvg-logo="" group-title="Usa Sports",USA | Sport: PAC12 BayArea
-http://new-pro.tv:8080/mazen1/123456/179577
-#EXTINF:-1 tvg-id="pac12network.us" tvg-name="USA: Pac12 Network HD" tvg-logo="" group-title="Usa Sports",USA: Pac12 Network HD
-http://new-pro.tv:8080/mazen1/123456/179576
-#EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="USA: SportsNet New York HD" tvg-logo="" group-title="Usa Sports",USA: SportsNet New York HD
-http://new-pro.tv:8080/mazen1/123456/179613
-#EXTINF:-1 tvg-id="" tvg-name="USA: Tennis Plus" tvg-logo="" group-title="Usa Sports",USA: Tennis Plus
-http://new-pro.tv:8080/mazen1/123456/179626
-#EXTINF:-1 tvg-id="tvg.us" tvg-name="USA: TVG HD" tvg-logo="" group-title="Usa Sports",USA: TVG HD
-http://new-pro.tv:8080/mazen1/123456/179632
-#EXTINF:-1 tvg-id="" tvg-name="USA: Telemundo New York" tvg-logo="" group-title="USA REGIONAL",USA: Telemundo New York
-http://new-pro.tv:8080/mazen1/123456/179624
 #EXTINF:-1 tvg-id="aande.us" tvg-name="USA: A&E HD" tvg-logo="" group-title="USA Documentary ",USA: A&E HD
 http://new-pro.tv:8080/mazen1/123456/179041
 #EXTINF:-1 tvg-id="" tvg-name="USA: Cheddar HD" tvg-logo="" group-title="USA",USA: Cheddar HD
 http://new-pro.tv:8080/mazen1/123456/179145
-#EXTINF:-1 tvg-id="elevensports.us" tvg-name="USA: Eleven Sports HD" tvg-logo="" group-title="Usa Sports",USA: Eleven Sports HD
-http://new-pro.tv:8080/mazen1/123456/179209
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="USA: MTV HD" tvg-logo="" group-title="USA",USA: MTV HD
 http://new-pro.tv:8080/mazen1/123456/179405
 #EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA: Outdoor HD" tvg-logo="" group-title="USA Documentary ",USA: Outdoor HD
 http://new-pro.tv:8080/mazen1/123456/179569
 #EXTINF:-1 tvg-id="" tvg-name="USA: OWN HD" tvg-logo="" group-title="USA",USA: OWN HD
 http://new-pro.tv:8080/mazen1/123456/179570
-#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="Usa: SEC Network HD" tvg-logo="" group-title="Usa Sports",Usa: SEC Network HD
-http://new-pro.tv:8080/mazen1/123456/179606
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC 7 (WWSB) Sarasota" tvg-logo="" group-title="USA",USA: ABC 7 (WWSB) Sarasota
 http://new-pro.tv:8080/mazen1/123456/179044
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC FAMILY/SPARK" tvg-logo="" group-title="USA REGIONAL",USA: ABC FAMILY/SPARK
@@ -1288,8 +985,6 @@ http://new-pro.tv:8080/mazen1/123456/179295
 http://new-pro.tv:8080/mazen1/123456/179300
 #EXTINF:-1 tvg-id="" tvg-name="USA: Fubo Sports Network HD" tvg-logo="" group-title="Usa Sports",USA: Fubo Sports Network HD
 http://new-pro.tv:8080/mazen1/123456/179348
-#EXTINF:-1 tvg-id="afnsports.us" tvg-name="USA: AFN Sport" tvg-logo="" group-title="Usa Sports",USA: AFN Sport
-http://new-pro.tv:8080/mazen1/123456/220906
 #EXTINF:-1 tvg-id="" tvg-name="USA: CBS Reality HD" tvg-logo="" group-title="USA REGIONAL",USA: CBS Reality HD
 http://new-pro.tv:8080/mazen1/123456/220925
 #EXTINF:-1 tvg-id="" tvg-name="USA: CineMax 5 Star Max HD" tvg-logo="" group-title="USA Cinema",USA: CineMax 5 Star Max HD
@@ -1298,8 +993,6 @@ http://new-pro.tv:8080/mazen1/123456/220909
 http://new-pro.tv:8080/mazen1/123456/220908
 #EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="USA: Discovery Velocity HD" tvg-logo="" group-title="USA Documentary ",USA: Discovery Velocity HD
 http://new-pro.tv:8080/mazen1/123456/220907
-#EXTINF:-1 tvg-id="foxcollegesportspacific.us" tvg-name="USA: Fox College Sports Pacific HD" tvg-logo="" group-title="Usa Sports",USA: Fox College Sports Pacific HD
-http://new-pro.tv:8080/mazen1/123456/220923
 #EXTINF:-1 tvg-id="foxlife.us" tvg-name="USA: Fox Life HD" tvg-logo="" group-title="USA REGIONAL",USA: Fox Life HD
 http://new-pro.tv:8080/mazen1/123456/220921
 #EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS Racing HD" tvg-logo="" group-title="Usa Sports",USA: FOX SPORTS Racing HD
@@ -1308,20 +1001,10 @@ http://new-pro.tv:8080/mazen1/123456/220924
 http://new-pro.tv:8080/mazen1/123456/220920
 #EXTINF:-1 tvg-id="" tvg-name="USA: GINX eSports HD" tvg-logo="" group-title="Usa Sports",USA: GINX eSports HD
 http://new-pro.tv:8080/mazen1/123456/220916
-#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="USA: NBCSN Bay Area HD" tvg-logo="" group-title="USA REGIONAL",USA: NBCSN Bay Area HD
-http://new-pro.tv:8080/mazen1/123456/220914
 #EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Boston HD" tvg-logo="" group-title="USA REGIONAL",USA: NBCSN Boston HD
 http://new-pro.tv:8080/mazen1/123456/220915
-#EXTINF:-1 tvg-id="" tvg-name="USA: PREMIER SPORTS 2" tvg-logo="" group-title="Usa Sports",USA: PREMIER SPORTS 2
-http://new-pro.tv:8080/mazen1/123456/220910
-#EXTINF:-1 tvg-id="" tvg-name="USA: Racing.com" tvg-logo="" group-title="Usa Sports",USA: Racing.com
-http://new-pro.tv:8080/mazen1/123456/220913
 #EXTINF:-1 tvg-id="" tvg-name="USA: Science Channel" tvg-logo="" group-title="USA Documentary ",USA: Science Channel
 http://new-pro.tv:8080/mazen1/123456/220926
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA: Sportsman Channel HD" tvg-logo="" group-title="Usa Sports",USA: Sportsman Channel HD
-http://new-pro.tv:8080/mazen1/123456/220911
-#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSNET ONE HD" tvg-logo="" group-title="Usa Sports",USA: SPORTSNET ONE HD
-http://new-pro.tv:8080/mazen1/123456/220912
 #EXTINF:-1 tvg-id="travelchannel.us" tvg-name="USA: Travel Channel" tvg-logo="" group-title="USA Documentary ",USA: Travel Channel
 http://new-pro.tv:8080/mazen1/123456/220927
 #EXTINF:-1 tvg-id="" tvg-name="USA: WeatherNation HD" tvg-logo="" group-title="USA",USA: WeatherNation HD
@@ -1460,18 +1143,6 @@ http://new-pro.tv:8080/mazen1/123456/220058
 http://new-pro.tv:8080/mazen1/123456/219859
 #EXTINF:-1 tvg-id="" tvg-name="USA: NBC HD" tvg-logo="" group-title="USA REGIONAL",USA: NBC HD
 http://new-pro.tv:8080/mazen1/123456/179454
-#EXTINF:-1 tvg-id="nbcwdsu.us" tvg-name="USA: NBC 6 (WDSU) New Orleans" tvg-logo="" group-title="USA REGIONAL",USA: NBC 6 (WDSU) New Orleans
-http://new-pro.tv:8080/mazen1/123456/179464
-#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 10 (WCAU) Philadelphia" tvg-logo="" group-title="USA REGIONAL",USA: NBC 10 (WCAU) Philadelphia
-http://new-pro.tv:8080/mazen1/123456/179467
-#EXTINF:-1 tvg-id="nbc7witn.us" tvg-name="USA: NBC 4 (WRC) Washington" tvg-logo="" group-title="USA REGIONAL",USA: NBC 4 (WRC) Washington
-http://new-pro.tv:8080/mazen1/123456/179480
-#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="USA: NBCSN HD" tvg-logo="" group-title="USA REGIONAL",USA: NBCSN HD
-http://new-pro.tv:8080/mazen1/123456/179485
-#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="USA: NBCSN PHILADELPHIA HD" tvg-logo="" group-title="USA REGIONAL",USA: NBCSN PHILADELPHIA HD
-http://new-pro.tv:8080/mazen1/123456/179487
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA: NBCSN WASHINGTON HD" tvg-logo="" group-title="USA REGIONAL",USA: NBCSN WASHINGTON HD
-http://new-pro.tv:8080/mazen1/123456/179488
 #EXTINF:-1 tvg-id="" tvg-name="USA: NICK HD (kids)" tvg-logo="" group-title="USA Kids",USA: NICK HD (kids)
 http://new-pro.tv:8080/mazen1/123456/179566
 #EXTINF:-1 tvg-id="tbnenlace.us" tvg-name="USA: TBN" tvg-logo="" group-title="USA",USA: TBN
@@ -1803,48 +1474,8 @@ http://new-pro.tv:8080/mazen1/123456/69381
 http://new-pro.tv:8080/mazen1/123456/69382
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="Ca: TSN 5 HD" tvg-logo="http://vod-logo.net/photos/bfe79c6cad548c68d9ae1f66a5bbbca9.png" group-title="Canada",Ca: TSN 5 HD
 http://new-pro.tv:8080/mazen1/123456/69383
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="Ca: Sportsnet One HD" tvg-logo="http://vod-logo.net/photos/984e85f570456528646884ac2ace8dc1.png" group-title="Canada",Ca: Sportsnet One HD
-http://new-pro.tv:8080/mazen1/123456/69384
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="Ca: Sportsnet Ontario HD" tvg-logo="http://vod-logo.net/photos/737c51233818ee2fb22f7eea3f098708.png" group-title="Canada",Ca: Sportsnet Ontario HD
-http://new-pro.tv:8080/mazen1/123456/69385
-#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="Ca: Sportsnet Pacific HD" tvg-logo="http://vod-logo.net/photos/46566f346999a061f9e9fc30c9894363.png" group-title="Canada",Ca: Sportsnet Pacific HD
-http://new-pro.tv:8080/mazen1/123456/69388
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="Ca: Sportsnet 360 HD" tvg-logo="http://vod-logo.net/photos/a1cd85b9c97a0ad7562fb25a03671618.png" group-title="Canada",Ca: Sportsnet 360 HD
-http://new-pro.tv:8080/mazen1/123456/69389
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="Ca: Sportsnet East HD" tvg-logo="http://vod-logo.net/photos/5544ca12dbfcbf77d607ab26e22074f0.png" group-title="Canada",Ca: Sportsnet East HD
-http://new-pro.tv:8080/mazen1/123456/69391
-#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="Ca: Sportsnet West HD" tvg-logo="http://vod-logo.net/photos/e72369bdcf730beb108ac90ee78344ab.png" group-title="Canada",Ca: Sportsnet West HD
-http://new-pro.tv:8080/mazen1/123456/69392
-#EXTINF:-1 tvg-id="fightnetwork.ca" tvg-name="Ca: Fight Network HD" tvg-logo="http://vod-logo.net/photos/99091004e804a13888af0b67cf31b989.jpg" group-title="Canada",Ca: Fight Network HD
-http://new-pro.tv:8080/mazen1/123456/69393
-#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="Ca: BeIN Sports HD" tvg-logo="http://vod-logo.net/photos/d00c45f82073c8777bf0006862e3ff67.png" group-title="Canada",Ca: BeIN Sports HD
-http://new-pro.tv:8080/mazen1/123456/69394
-#EXTINF:-1 tvg-id="" tvg-name="Ca: Golf Channel HD" tvg-logo="http://vod-logo.net/photos/15c9ea817e5cfd0fb3d1dd2d0b807d6f.png" group-title="Canada",Ca: Golf Channel HD
-http://new-pro.tv:8080/mazen1/123456/69464
-#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="Ca | Fr: Tva Sports 1 HD" tvg-logo="http://vod-logo.net/photos/08871e02d6f335330e87678b5fa14ed7.png" group-title="Canada",Ca | Fr: Tva Sports 1 HD
-http://new-pro.tv:8080/mazen1/123456/69396
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="Ca: NBA TV HD" tvg-logo="http://vod-logo.net/photos/f12e19427a3058e4d16c15dd6ed66fdb.png" group-title="Canada",Ca: NBA TV HD
-http://new-pro.tv:8080/mazen1/123456/69884
-#EXTINF:-1 tvg-id="" tvg-name="Ca: MLB Network (R)" tvg-logo="http://vod-logo.net/photos/1a3b0eac2132e8a65b6b3870af7a07c0.jpg" group-title="Canada",Ca: MLB Network (R)
-http://new-pro.tv:8080/mazen1/123456/69907
-#EXTINF:-1 tvg-id="chch.ca" tvg-name="Ca: CHCH HD" tvg-logo="http://vod-logo.net/photos/e3934cf5603168af9bdc18ab14faff86.png" group-title="Canada",Ca: CHCH HD
-http://new-pro.tv:8080/mazen1/123456/69440
-#EXTINF:-1 tvg-id="cnn.ca" tvg-name="Ca: CNN HD" tvg-logo="http://vod-logo.net/photos/6ad44f1f6a6c158558498adda287bb0d.png" group-title="Canada",Ca: CNN HD
-http://new-pro.tv:8080/mazen1/123456/69446
-#EXTINF:-1 tvg-id="cp24.ca" tvg-name="Ca: Cp24 TV" tvg-logo="http://vod-logo.net/photos/0b025400f441b80ca5fa40cc62fe0a1e.png" group-title="Canada",Ca: Cp24 TV
-http://new-pro.tv:8080/mazen1/123456/74966
-#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="Ca: The Weather Network HD" tvg-logo="http://vod-logo.net/photos/80cb4dd853a1bf1dc95a97e50149e187.png" group-title="Canada",Ca: The Weather Network HD
-http://new-pro.tv:8080/mazen1/123456/69481
 #EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA: W NETWORK" tvg-logo="https://i.ibb.co/1s8SMjH/W-Network-Logo-svg.png" group-title="Canada",CA: W NETWORK
 http://new-pro.tv:8080/mazen1/123456/109676
-#EXTINF:-1 tvg-id="" tvg-name="Ca: Al Jazeera English" tvg-logo="http://vod-logo.net/photos/f266e4a9946b8277ca016862622c1321.png" group-title="Canada",Ca: Al Jazeera English
-http://new-pro.tv:8080/mazen1/123456/105058
-#EXTINF:-1 tvg-id="" tvg-name="Ca: BBC Toronto Gaunda Punjab" tvg-logo="http://vod-logo.net/photos/985c81bce8255661f0d7bcedad7ff1bd.jpg" group-title="Canada",Ca: BBC Toronto Gaunda Punjab
-http://new-pro.tv:8080/mazen1/123456/69881
-#EXTINF:-1 tvg-id="" tvg-name="Ca: FOX 29 (WUTV) Buffalo" tvg-logo="https://i.ibb.co/YNPnRnH/Fox-29-Philadelphia.png" group-title="Canada",Ca: FOX 29 (WUTV) Buffalo
-http://new-pro.tv:8080/mazen1/123456/122092
-#EXTINF:-1 tvg-id="" tvg-name="Ca: CW 23 (WNLO) Buffalo" tvg-logo="https://i.ibb.co/0fKGqX2/Wnlo-2009.png" group-title="Canada",Ca: CW 23 (WNLO) Buffalo
-http://new-pro.tv:8080/mazen1/123456/122097
 #EXTINF:-1 tvg-id="cbccharlottetown.ca" tvg-name="Ca: CBC Charlottetown HD" tvg-logo="https://i.ibb.co/52KBJz1/c175.png" group-title="Canada",Ca: CBC Charlottetown HD
 http://new-pro.tv:8080/mazen1/123456/122082
 #EXTINF:-1 tvg-id="cbcedmonton.ca" tvg-name="Ca: CBC Edmonton HD" tvg-logo="https://i.ibb.co/tp8KbYh/519-YShvpt-RL.png" group-title="Canada",Ca: CBC Edmonton HD
@@ -1973,16 +1604,12 @@ http://new-pro.tv:8080/mazen1/123456/69352
 http://new-pro.tv:8080/mazen1/123456/69360
 #EXTINF:-1 tvg-id="fxx.ca" tvg-name="Ca: Fxx HD" tvg-logo="http://vod-logo.net/photos/a27cf33f644488190b6b53ebb2037315.png" group-title="Canada",Ca: Fxx HD
 http://new-pro.tv:8080/mazen1/123456/69362
-#EXTINF:-1 tvg-id="foxsportsracing.ca" tvg-name="Ca: Fox Sports Racing" tvg-logo="https://i.ibb.co/HPDgq3N/1200px-Fox-Sports-Networks-logo-svg.png" group-title="Canada",Ca: Fox Sports Racing
-http://new-pro.tv:8080/mazen1/123456/122063
 #EXTINF:-1 tvg-id="hbo.ca" tvg-name="Ca: HBO 1" tvg-logo="https://i.ibb.co/kVn084N/1200px-HBO-Logo-svg.png" group-title="Canada",Ca: HBO 1
 http://new-pro.tv:8080/mazen1/123456/122077
 #EXTINF:-1 tvg-id="hbo2.ca" tvg-name="Ca: HBO 2" tvg-logo="https://i.ibb.co/wWtYyBy/HBO-2-Logo.png" group-title="Canada",Ca: HBO 2
 http://new-pro.tv:8080/mazen1/123456/122076
 #EXTINF:-1 tvg-id="" tvg-name="Ca: NFL Network HD" tvg-logo="https://i.ibb.co/72JR247/uowyiwxfcyccofswi5pz.png" group-title="Canada",Ca: NFL Network HD
 http://new-pro.tv:8080/mazen1/123456/122066
-#EXTINF:-1 tvg-id="" tvg-name="Ca: PBS 54 (WQLN) Erie" tvg-logo="https://i.ibb.co/Hq6CVgw/download.jpg" group-title="Canada",Ca: PBS 54 (WQLN) Erie
-http://new-pro.tv:8080/mazen1/123456/122094
 #EXTINF:-1 tvg-id="" tvg-name="Ca: Diy Network HD" tvg-logo="http://vod-logo.net/photos/995b95a2ed9d8f29eca6e30652ca7151.png" group-title="Canada",Ca: Diy Network HD
 http://new-pro.tv:8080/mazen1/123456/69356
 #EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="Ca: E! Entertainment HD" tvg-logo="http://www.vod-logo.net/photos/6aa7dc9c2e3aac3fafd36027cd8a8046.jpg" group-title="Canada",Ca: E! Entertainment HD
@@ -2231,22 +1858,10 @@ http://new-pro.tv:8080/mazen1/123456/302554
 http://new-pro.tv:8080/mazen1/123456/302555
 #EXTINF:-1 tvg-id="cnn.ca" tvg-name="Ca: CNN International" tvg-logo="" group-title="Canada",Ca: CNN International
 http://new-pro.tv:8080/mazen1/123456/302556
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="Ca: SPORTSNET WORLD" tvg-logo="" group-title="Canada",Ca: SPORTSNET WORLD
-http://new-pro.tv:8080/mazen1/123456/302557
-#EXTINF:-1 tvg-id="" tvg-name="Ca: Sportsnet News" tvg-logo="" group-title="Canada",Ca: Sportsnet News
-http://new-pro.tv:8080/mazen1/123456/302558
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: Seasons HD" tvg-logo="" group-title="Canada | French",Ca | Fr: Seasons HD
-http://new-pro.tv:8080/mazen1/123456/302559
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: Planete+ HD" tvg-logo="" group-title="Canada | French",Ca | Fr: Planete+ HD
-http://new-pro.tv:8080/mazen1/123456/302560
 #EXTINF:-1 tvg-id="travelxp.ca" tvg-name="Ca: TRAVELXP" tvg-logo="" group-title="Canada",Ca: TRAVELXP
 http://new-pro.tv:8080/mazen1/123456/302561
 #EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: MUSIQUE PLUS" tvg-logo="" group-title="Canada | French",Ca | Fr: MUSIQUE PLUS
 http://new-pro.tv:8080/mazen1/123456/302562
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: Bet" tvg-logo="" group-title="Canada | French",Ca | Fr: Bet
-http://new-pro.tv:8080/mazen1/123456/302564
-#EXTINF:-1 tvg-id="" tvg-name="Ca | Fr: Teletoon+ HD" tvg-logo="" group-title="Canada | French",Ca | Fr: Teletoon+ HD
-http://new-pro.tv:8080/mazen1/123456/302565
 #EXTINF:-1 tvg-id="wild.ca" tvg-name="Ca: Wild" tvg-logo="" group-title="Canada",Ca: Wild
 http://new-pro.tv:8080/mazen1/123456/302567
 #EXTINF:-1 tvg-id="wgncanada.ca" tvg-name="Ca: WGN" tvg-logo="" group-title="Canada",Ca: WGN
@@ -2468,8 +2083,6 @@ http://new-pro.tv:8080/mazen1/123456/261885
 http://new-pro.tv:8080/mazen1/123456/261886
 #EXTINF:-1 tvg-id="" tvg-name="Pk: Mission Asia TV" tvg-logo="https://missionasia.org/wp-content/uploads/2020/10/Mission-Asia-logo-300-X-300.png" group-title="Pakistan",Pk: Mission Asia TV
 http://new-pro.tv:8080/mazen1/123456/261887
-#EXTINF:-1 tvg-id="" tvg-name="Pk: P TV sports" tvg-logo="data:image/jpeg;base64,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" group-title="Pakistan",Pk: P TV sports
-http://new-pro.tv:8080/mazen1/123456/261891
 #EXTINF:-1 tvg-id="" tvg-name="Pk: PEACE TV URDU" tvg-logo="https://peacetv.tv/wp-content/uploads/elementor/thumbs/Salaam-final-logo-with-Tagline-03-1-712qzokk8ixtkm5gz9lefxi1dp6wmyldfqfmac14hhi.png" group-title="Pakistan",Pk: PEACE TV URDU
 http://new-pro.tv:8080/mazen1/123456/265997
 #EXTINF:-1 tvg-id="" tvg-name="Pk: Parise TV" tvg-logo="https://logovtor.com/wp-content/uploads/2019/09/bfm-paris-logo-vector.png" group-title="Pakistan",Pk: Parise TV

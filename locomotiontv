@@ -413,8 +413,6 @@ http://new-pro.tv:8080/mazen1/123456/68548
 http://new-pro.tv:8080/mazen1/123456/68549
 #EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK: Sky Crime HD" tvg-logo="" group-title="UK ",UK: Sky Crime HD
 http://new-pro.tv:8080/mazen1/123456/68551
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK | Sport: Racing UK HD" tvg-logo="" group-title="UK Sports",UK | Sport: Racing UK HD
-http://new-pro.tv:8080/mazen1/123456/68553
 #EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="UK: Virgin Media One HD" tvg-logo="" group-title="UK ",UK: Virgin Media One HD
 http://new-pro.tv:8080/mazen1/123456/68554
 #EXTINF:-1 tvg-id="utv.uk" tvg-name="UK: UTV HD" tvg-logo="" group-title="UK ",UK: UTV HD
@@ -439,20 +437,8 @@ http://new-pro.tv:8080/mazen1/123456/68568
 http://new-pro.tv:8080/mazen1/123456/68569
 #EXTINF:-1 tvg-id="RTE1.ie" tvg-name="UK | IR: RTE One HD" tvg-logo="" group-title="UK ",UK | IR: RTE One HD
 http://new-pro.tv:8080/mazen1/123456/68570
-#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK | Sport: MUTV  HD" tvg-logo="" group-title="UK Sports",UK | Sport: MUTV  HD
-http://new-pro.tv:8080/mazen1/123456/68571
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Box Office [ Live Events ]" tvg-logo="" group-title="UK Sports",UK: Sky Sports Box Office [ Live Events ]
-http://new-pro.tv:8080/mazen1/123456/298510
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK: Sky Atlantic HD" tvg-logo="" group-title="UK ",UK: Sky Atlantic HD
 http://new-pro.tv:8080/mazen1/123456/68576
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Box Nation FHD" tvg-logo="" group-title="UK Sports",UK | Sport: Box Nation FHD
-http://new-pro.tv:8080/mazen1/123456/72696
-#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK | Sport: LFC HD" tvg-logo="" group-title="UK Sports",UK | Sport: LFC HD
-http://new-pro.tv:8080/mazen1/123456/68577
-#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | Sport: La Liga TV HD" tvg-logo="" group-title="UK Sports",UK | Sport: La Liga TV HD
-http://new-pro.tv:8080/mazen1/123456/72715
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: BT BOX OFFICE" tvg-logo="" group-title="UK Sports",UK | Sport: BT BOX OFFICE
-http://new-pro.tv:8080/mazen1/123456/180261
 #EXTINF:-1 tvg-id="Disney.uk" tvg-name="UK: Disney Junior HD" tvg-logo="http://www.vod-logo.net/photos/7ecee542c33472c3af78f5f5e2fcf534.png" group-title="UK ",UK: Disney Junior HD
 http://new-pro.tv:8080/mazen1/123456/68578
 #EXTINF:-1 tvg-id="" tvg-name="UK: Disney XD HD" tvg-logo="http://www.vod-logo.net/photos/00d4c3a6715b7d4d598fe48b4856510c.jpg" group-title="UK ",UK: Disney XD HD
@@ -501,8 +487,6 @@ http://new-pro.tv:8080/mazen1/123456/261866
 http://new-pro.tv:8080/mazen1/123456/72737
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="UK: Drama" tvg-logo="" group-title="UK ",UK: Drama
 http://new-pro.tv:8080/mazen1/123456/72738
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: EuroNews" tvg-logo="" group-title="UK Sports",UK | Sport: EuroNews
-http://new-pro.tv:8080/mazen1/123456/72739
 #EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: Film 4 FHD" tvg-logo="" group-title="UK ",UK: Film 4 FHD
 http://new-pro.tv:8080/mazen1/123456/72740
 #EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK: Food Network" tvg-logo="" group-title="UK ",UK: Food Network
@@ -541,8 +525,6 @@ http://new-pro.tv:8080/mazen1/123456/72689
 http://new-pro.tv:8080/mazen1/123456/72690
 #EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK: BLAZE" tvg-logo="" group-title="UK ",UK: BLAZE
 http://new-pro.tv:8080/mazen1/123456/72691
-#EXTINF:-1 tvg-id="boxhits.uk" tvg-name="UK | Sport: BOX HITS" tvg-logo="" group-title="UK Sports",UK | Sport: BOX HITS
-http://new-pro.tv:8080/mazen1/123456/72694
 #EXTINF:-1 tvg-id="" tvg-name="UK: Nature FHD" tvg-logo="" group-title="UK ",UK: Nature FHD
 http://new-pro.tv:8080/mazen1/123456/72695
 #EXTINF:-1 tvg-id="britasiatv.uk" tvg-name="UK: SKY NATURE" tvg-logo="" group-title="UK ",UK: SKY NATURE
@@ -555,8 +537,6 @@ http://new-pro.tv:8080/mazen1/123456/72699
 http://new-pro.tv:8080/mazen1/123456/72700
 #EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK: Challenge" tvg-logo="" group-title="UK ",UK: Challenge
 http://new-pro.tv:8080/mazen1/123456/72701
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sport: Chelsea FHD [ Live ]" tvg-logo="" group-title="UK Sports",UK | Sport: Chelsea FHD [ Live ]
-http://new-pro.tv:8080/mazen1/123456/72702
 #EXTINF:-1 tvg-id="" tvg-name="UK: AMC" tvg-logo="" group-title="UK ",UK: AMC
 http://new-pro.tv:8080/mazen1/123456/297169
 #EXTINF:-1 tvg-id="" tvg-name="UK: Animal Planet" tvg-logo="" group-title="UK ",UK: Animal Planet
@@ -577,15 +557,12 @@ http://new-pro.tv:8080/mazen1/123456/297176
 http://new-pro.tv:8080/mazen1/123456/297177
 #EXTINF:-1 tvg-id="" tvg-name="UK: BRITISH MUSLIM" tvg-logo="" group-title="UK ",UK: BRITISH MUSLIM
 http://new-pro.tv:8080/mazen1/123456/297179
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORTS MOSAIC" tvg-logo="" group-title="UK Sports",UK: BT SPORTS MOSAIC
-http://new-pro.tv:8080/mazen1/123456/297180
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY HISTORY HD" tvg-logo="" group-title="UK ",UK: SKY HISTORY HD
 http://new-pro.tv:8080/mazen1/123456/297185
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA PREMIER HD" tvg-logo="" group-title="UK ",UK: SKY CINEMA PREMIER HD
 http://new-pro.tv:8080/mazen1/123456/297186
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Thriller FHD" tvg-logo="" group-title="UK ",UK: Sky Cinema Thriller FHD
 http://new-pro.tv:8080/mazen1/123456/297188
-
 #EXTINF:-1 tvg-id="colorscineplex.uk" tvg-name="UK | IN: COLORS Cineplex HD" tvg-logo="http://vod-logo.net/photos/6c29485a8ff5c4a1df619de9b6b07286.png" group-title="UK india",UK | IN: COLORS Cineplex HD
 http://new-pro.tv:8080/mazen1/123456/98231
 #EXTINF:-1 tvg-id="setmax.uk" tvg-name="UK | IN: Set Max" tvg-logo="http://vod-logo.net/photos/3662a7a9ad3d668fb88132c3f552f0d6.png" group-title="UK india",UK | IN: Set Max
@@ -871,28 +848,6 @@ http://new-pro.tv:8080/mazen1/123456/70536
 http://new-pro.tv:8080/mazen1/123456/70537
 #EXTINF:-1 tvg-id="" tvg-name="USA: Telemundo Chula Vista" tvg-logo="http://vod-logo.net/photos/839fb5db3b9a878c7909f1b74956776c.png" group-title="USA REGIONAL",USA: Telemundo Chula Vista
 http://new-pro.tv:8080/mazen1/123456/70539
-#EXTINF:-1 tvg-id="pac12oregon.us" tvg-name="USA: PAC12 Oregon" tvg-logo="http://vod-logo.net/photos/f582bf6f510dfc92628c56988f64230f.png" group-title="Usa Sports",USA: PAC12 Oregon
-http://new-pro.tv:8080/mazen1/123456/70542
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BTN" tvg-logo="http://vod-logo.net/photos/1ab258c96ce3bdb3502806773da6b48d.png" group-title="Usa Sports",Usa | Sport: BTN
-http://new-pro.tv:8080/mazen1/123456/70442
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BTN2" tvg-logo="" group-title="Usa Sports",Usa | Sport: BTN2
-http://new-pro.tv:8080/mazen1/123456/70441
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BTN3" tvg-logo="" group-title="Usa Sports",Usa | Sport: BTN3
-http://new-pro.tv:8080/mazen1/123456/70440
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BTN4" tvg-logo="" group-title="Usa Sports",Usa | Sport: BTN4
-http://new-pro.tv:8080/mazen1/123456/70439
-#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="USA: MSG HD" tvg-logo="http://vod-logo.net/photos/9d43fc22711e0acddc69d429535c2f96.jpg" group-title="Usa Sports",USA: MSG HD
-http://new-pro.tv:8080/mazen1/123456/70437
-#EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-name="USA: MSG 2 HD" tvg-logo="https://i.ibb.co/Dz6Xhyn/download.png" group-title="Usa Sports",USA: MSG 2 HD
-http://new-pro.tv:8080/mazen1/123456/70436
-#EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-name="USA: MSG Plus HD" tvg-logo="http://vod-logo.net/photos/8a4ac0cbf1684dfb8705e5f6ba4a4c56.png" group-title="Usa Sports",USA: MSG Plus HD
-http://new-pro.tv:8080/mazen1/123456/70438
-#EXTINF:-1 tvg-id="stadium.us" tvg-name="Usa | Sport: Stadium 1" tvg-logo="" group-title="Usa Sports",Usa | Sport: Stadium 1
-http://new-pro.tv:8080/mazen1/123456/70432
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Stadium 2" tvg-logo="" group-title="Usa Sports",Usa | Sport: Stadium 2
-http://new-pro.tv:8080/mazen1/123456/70431
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="Usa | Sport: WWE Network HD" tvg-logo="http://vod-logo.net/photos/d09f02cb9e44fc2ffc9352930e764838.jpg" group-title="Usa Sports",Usa | Sport: WWE Network HD
-http://new-pro.tv:8080/mazen1/123456/70446
 #EXTINF:-1 tvg-id="" tvg-name="USA: Buzzr" tvg-logo="" group-title="USA Entertainment",USA: Buzzr
 http://new-pro.tv:8080/mazen1/123456/179036
 #EXTINF:-1 tvg-id="cgtn.us" tvg-name="Usa: CGTN Doc" tvg-logo="http://vod-logo.net/photos/261595a5bfb344ca00b0dca57c793971.png" group-title="USA Documentary ",Usa: CGTN Doc
@@ -917,12 +872,6 @@ http://new-pro.tv:8080/mazen1/123456/87449
 http://new-pro.tv:8080/mazen1/123456/87463
 #EXTINF:-1 tvg-id="" tvg-name="Usa: NHK World Live" tvg-logo="http://vod-logo.net/photos/d01ae02bcd31970b0b0716b76084a799.png" group-title="USA",Usa: NHK World Live
 http://new-pro.tv:8080/mazen1/123456/87450
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Parliament TV" tvg-logo="" group-title="Usa Sports",Usa | Sport: Parliament TV
-http://new-pro.tv:8080/mazen1/123456/87451
-#EXTINF:-1 tvg-id="" tvg-name="Usa: SKY NEWS" tvg-logo="http://vod-logo.net/photos/4539debc08217f7b88e9fe09c0205ed3.jpg" group-title="USA",Usa: SKY NEWS
-http://new-pro.tv:8080/mazen1/123456/87469
-#EXTINF:-1 tvg-id="" tvg-name="USA: Al Jazeera English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="USA",USA: Al Jazeera English
-http://new-pro.tv:8080/mazen1/123456/105057
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC 7 (WLS) Chicago" tvg-logo="" group-title="USA REGIONAL",USA: ABC 7 (WLS) Chicago
 http://new-pro.tv:8080/mazen1/123456/178191
 #EXTINF:-1 tvg-id="" tvg-name="USA: NBC 5 (WMAQ) Chicago" tvg-logo="" group-title="USA REGIONAL",USA: NBC 5 (WMAQ) Chicago
@@ -983,8 +932,6 @@ http://new-pro.tv:8080/mazen1/123456/179293
 http://new-pro.tv:8080/mazen1/123456/179295
 #EXTINF:-1 tvg-id="fox13kstu.us" tvg-name="USA: FOX 13 (KSTU) Salt lake City" tvg-logo="" group-title="USA REGIONAL",USA: FOX 13 (KSTU) Salt lake City
 http://new-pro.tv:8080/mazen1/123456/179300
-#EXTINF:-1 tvg-id="" tvg-name="USA: Fubo Sports Network HD" tvg-logo="" group-title="Usa Sports",USA: Fubo Sports Network HD
-http://new-pro.tv:8080/mazen1/123456/179348
 #EXTINF:-1 tvg-id="" tvg-name="USA: CBS Reality HD" tvg-logo="" group-title="USA REGIONAL",USA: CBS Reality HD
 http://new-pro.tv:8080/mazen1/123456/220925
 #EXTINF:-1 tvg-id="" tvg-name="USA: CineMax 5 Star Max HD" tvg-logo="" group-title="USA Cinema",USA: CineMax 5 Star Max HD
@@ -995,12 +942,8 @@ http://new-pro.tv:8080/mazen1/123456/220908
 http://new-pro.tv:8080/mazen1/123456/220907
 #EXTINF:-1 tvg-id="foxlife.us" tvg-name="USA: Fox Life HD" tvg-logo="" group-title="USA REGIONAL",USA: Fox Life HD
 http://new-pro.tv:8080/mazen1/123456/220921
-#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS Racing HD" tvg-logo="" group-title="Usa Sports",USA: FOX SPORTS Racing HD
-http://new-pro.tv:8080/mazen1/123456/220924
 #EXTINF:-1 tvg-id="" tvg-name="USA: FXM Retro HD" tvg-logo="" group-title="USA",USA: FXM Retro HD
 http://new-pro.tv:8080/mazen1/123456/220920
-#EXTINF:-1 tvg-id="" tvg-name="USA: GINX eSports HD" tvg-logo="" group-title="Usa Sports",USA: GINX eSports HD
-http://new-pro.tv:8080/mazen1/123456/220916
 #EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN Boston HD" tvg-logo="" group-title="USA REGIONAL",USA: NBCSN Boston HD
 http://new-pro.tv:8080/mazen1/123456/220915
 #EXTINF:-1 tvg-id="" tvg-name="USA: Science Channel" tvg-logo="" group-title="USA Documentary ",USA: Science Channel

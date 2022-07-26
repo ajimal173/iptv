@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,Pink Erotic 1
+http://185.244.240.33:8000/play/a00u
+#EXTINF:-1,Pink Erotic 2
+http://185.244.240.33:8000/play/a00v
+#EXTINF:-1,Pink Erotic 3
+http://185.244.240.33:8000/play/a00w
+#EXTINF:-1,Pink Erotic 4
+http://185.244.240.33:8000/play/a00x
+#EXTINF:-1,Pink Erotic 5
+http://185.244.240.33:8000/play/a00y
 #EXTINF:21,SuperOne
 #EXTVLCOPT:network-caching=1000
 http://185.96.176.139:8080/superone/index.m3u8

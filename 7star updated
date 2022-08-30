@@ -203,24 +203,23 @@ http://7starcloud.com:1935/skilltv/livetv/playlist.m3u8
 http://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8
 
 -------------------------------------------------------------
-#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rashi Hindi Hd
-http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
-#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi TV
-http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
-
-#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616233067_rasi holly.png",Rasi hollywood
-http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
-
-#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232999_rasi music.png",Rasi Movie
-http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
-
-#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232914_rasi music.png",Rasi Music
-http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
-
-#EXTINF:-1 group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232845_rasi tamil.png",Rasi Tamil
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png", Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png", Rasi Tamil
 http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
-
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Malayalam
+rtmp://singamcloud.in:1935/rasinetwork/rasimalayalam
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Telugu
+rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Hindi
+rtmp://singamcloud.in:1935/rasinetwork/rasihindi
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Lifestyle
+rtmp://singamcloud.in:1935/rasinetwork/cookings
 
 -------------------------------------------------------------
 
@@ -270,33 +269,6 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 
 --------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Rasi-TV",Rasi Tamil
-http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Rasi-TV",Rasi TV
-http://singamcloud.in:1935/rasinetworks/rasitv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Rasi-TV",Rasi Movies
-http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png" group-title="Rasi-TV",Rasi Classic
-http://singamcloud.in:1935/rasinetworks/rasiclassic/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Rasi-TV",Rasi Music
-http://singamcloud.in:1935/rasinetworks/rasimusic/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png" group-title="Rasi-TV",Rasi Lifestyle
-http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Rasi-TV",Rasi Hollywood
-http://singamcloud.in:1935/rasinetworks/rasihollywood/chunklist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Rasi-TV",Rasi Hindi
-http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png" group-title="Rasi-TV",Rasi Malayalam
-http://singamcloud.in:1935/rasinetwork/rasimalayalam/chunklist.m3u8
 
 --------------------------------------------------------------------------------------
 

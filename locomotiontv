@@ -1,1 +1,213 @@
+#EXTM3U
+#EXTINF:-1 group-title="SAARA MUSIC",ACN MUSIC 
+http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
+#EXTINF:-1 group-title="SAARA MUSIC",SS TV 
+http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC", ADHVIKA 
+http://bmlive.net:8000/paulveernan/advika/bms.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC", SREE SARAVANA
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",YATRA TV 
+http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
+#EXTINF:-1,group-title=" SAARA MUSIC", VINAYAGA MUSIC TV 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",SLS TV 
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+#EXTINF:-1,group-title=" SAARA MUSIC", SKY TV 
+http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",APPLE TV 
+http://bmlive.net:8000/appletv/appletv/bms.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",G TV
+http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL 1",BLUEMOON TV 
+http://bmlive.net:8000/bms/bmtv/bms.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",N MUSIC 
+http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="SAARA MUSIC",SR MUSIX 
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",ISAI SARAL 
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",SS VARMA 
+http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",SMCV 
+http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",MM TV 
+http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="SAARA MUSIC",DAN MUSIC 
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",SELFIE TV 
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",SKY TV 
+http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",IBC MUSIC 
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",THENDRAL 
+https://iptelevision.in/hls/thendral.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",SINGAM TV 
+http://singamcloud.in/singamtv/singamtv/index.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",KALAI ISAI 
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",ABHINAYA TV 
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",RASI MUSIC 
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",SUN MUSIC 
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",KAPPA TV 
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",MK TUNES 
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",M MUSIC 
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",AUS TAMIL 
+http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR#EXTM3U
+#EXTINF:-1,group-title="SAARA LOCAL HD", SKY TV 
 
+
+http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", VINAYAGA TV 
+http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", VINAYAGA MUSIC TV 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", RIO TV 
+http://stream.singamcloud.in/riotv/riotv/index.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", DHARANI TV 
+http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", 7 HILLS TV 
+http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", ASHOKA TV 
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
+#EXTINF:-1,group-title="SAARA LOCAL HD", G MUSIC TV 
+https://rasi.iptelevision.in/hls/gmusic.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", ARUL TV 
+https://eagle.iptelevision.in/hls/arultv.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", KARTHI TV 
+http://bmlive.net:8000/karnan/karthitv/bms.m3u8?hls_ctx=35x53733
+#EXTINF:-1,group-title="SAARA LOCAL HD", G TV 
+http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", PR TV 
+http://51.79.250.111/live/prtv.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", THALAPATHY TV 
+http://183.87.51.10/hls/thalapathyvjtv.m3u8
+
+#EXTM3U
+#EXTINF:-1,group-title="SAARA LOCAL HD",CHO TV  Devotional 
+http://198.144.149.82:8080/NOTV/CHOTV/index.m3u8?token=GTR
+
+#EXTINF:-1,group-title="SAARA LOCAL HD", THALAPATHY TV 
+http://183.87.51.10/hls/thalapathyvjtv.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",SS TV 
+http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC", ADHVIKA 
+http://bmlive.net:8000/paulveernan/advika/bms.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC", SREE SARAVANA
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",YATRA TV 
+http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
+#EXTINF:-1,group-title=" SAARA MUSIC", VINAYAGA MUSIC TV 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",SLS TV 
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+#EXTINF:-1,group-title=" SAARA MUSIC", SKY TV 
+http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=" SAARA MUSIC",APPLE TV 
+http://bmlive.net:8000/appletv/appletv/bms.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",ABHINAYA TV 
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+#EXTINF:-1 group-title="SAARA MUSIC",RASI MUSIC 
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", G MUSIC TV 
+https://rasi.iptelevision.in/hls/gmusic.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL HD",LOTUS TV 
+http://139.99.96.85:1935/lotustv/live/playlist.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL HD",DEVADHAI TV 
+http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", RIO TV 
+http://stream.singamcloud.in/riotv/riotv/index.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", DHARANI TV 
+http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
+
+#EXTINF:-1 group-title="SAARA LOCAL HD",7 STAR 
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL HD",PHOENIX 
+http://103.88.77.238:8081/phoenix/phoenix.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", ARUL TV 
+https://eagle.iptelevision.in/hls/arultv.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", KARTHI TV 
+http://bmlive.net:8000/karnan/karthitv/bms.m3u8?hls_ctx=35x53733
+#EXTINF:-1,group-title="SAARA LOCAL HD", G TV 
+http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", PR TV 
+http://51.79.250.111/live/prtv.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", RPK TV 
+http://183.87.51.10/hls/rpktv.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL HD",NSK TV 
+https://iptelevision.in/hls/nsktv.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL HD",SRI TV 
+https://server3.iptelevision.in/hls/sritv.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL HD",NAGARAM TV 
+https://iptelevision.in/hls/nagaramtv.m3u8
+
+#EXTINF:-1,group-title="SAARA LOCAL HD", AJANTHA TV 
+https://server1.iptelevision.in/hls/ajithatv.m3u8
+
+#EXTINF:-1,group-title="SAARA LOCAL HD", SMART TV 
+https://server.iptelevision.in/hls/sunsmart.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", TAMIL PLUS 
+http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
+#EXTINF:-1,group-title="SAARA LOCAL HD", KUMARI TV 
+http://bmlive.net:8000/kumaritvthly/kumaritvthly/bms.m3u8?hls_ctx=64fdg988
+#EXTINF:-1,group-title="SAARA LOCAL HD", SAMAR TV 
+http://51.79.250.111/live/kstartv.m3u8
+
+#EXTINF:-1 group-title="SAARA LOCAL HD",SRI KRISHNA 1 
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL HD",SRI KRISHNA 2
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="SAARA LOCAL HD",ATN HD TV 
+http://hdserver.7starcloud.com:1935/atntv/live/playlist.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Saara Tamil LCO", KUMARI TV 
+http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",MCV TV 
+http://shinestream.in:1935/mcvtv/mcvtv/chunklist_w1339989872.m3u8
+#EXTINF:-1 , lee tv 
+http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
+#EXTINF:-1 , VIP TV 
+http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
+#EXTINF:-1 ,S FLIX HD 
+http://bmlive.net:8000/appletv/sflixtv/bms.m3u8
+#EXTINF:-1 ,YESMAN TV 
+http://198.144.149.82:8080/NOTV/YESMANTV/index.m3u8?token=GTR
+#EXTINF:-1 , KANGAROO TV 
+http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
+#EXTINF:-1 ,STAR TV 
+http://bmlive.net:8000/appletv/startv/bms.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",LEAF VIJAY TV
+http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+#EXTINF:-1 , GALAXY
+http://shinestream.in:1935/galaxytv/galaxytv/chunklist_w39078625.m3u8
+
+#EXTINF:-1 group-title="Saara Tamil LCO",Maa Tv
+http://172.105.55.47:5080/live/streams/maatv.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",Suriyan TV
+http://172.105.55.47:5080/live/streams/suriyantv.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",Top Tv
+http://172.105.55.47:5080/live/streams/toptv.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",Sky media TV
+http://skymedia.phoenixcreations.online:5080/live/streams/skymedia.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",Jose TV
+http://josetv.phoenixcreations.online:5080/live/streams/josetv.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",Malar TV
+http://malartv.phoenixcreations.online:5080/live/streams/malartv.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",Sukran TV
+http://sukratv.phoenixcreations.online:5080/live/streams/sukratv.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",Raghul TV
+http://jenifertv.phoenixcreations.online:5080/live/streams/raghultv.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",Jeni Tv
+http://jenifertv.phoenixcreations.online:5080/live/streams/jenifertv.m3u8
+#EXTINF:-1 group-title="Saara Tamil LCO",Rasi Hollywood 
+http://singamcloud.in:80/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8

@@ -1,1 +1,1451 @@
-#EXTM3U
+#EXTM3U 
+#EXTINF: -1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_2105335046/list/1170x658379547401.png" group-title="Zee5", &flix HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668080
+#EXTINF: -1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-pictures/list/1170x658withlog_1269578414.png" group-title="Zee5", &Pictures
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668081
+#EXTINF: -1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-tvpictureshd/list/1170x658withlog1476130363.png" group-title="Zee5", &Pictures HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668082
+#EXTINF: -1 tvg-id="0-9-privéhd" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-privéhd/list/1170x658withlogo375086496.png" group-title="Zee5", &Prive HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668083
+#EXTINF: -1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-tvhd_0/list/1170x658withlogo378606665.png" group-title="Zee5", &TV HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668084
+#EXTINF: -1 tvg-id="0-9-209" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-209/list/1170x658withlogo358457080.png" group-title="Zee5", &xplorHD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668085
+#EXTINF: -1 tvg-id="0-9-24ghantatv" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-24ghantatv/list/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02.png" group-title="Zee5", 24 Ghanta
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668086
+#EXTINF: -1 tvg-id="0-9-aajtak" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-aajtak/list/aajtak117057ed0b609d504a6098d5d3b0c9f822c3.png" group-title="Zee5", Aaj Tak
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668087
+#EXTINF: -1 tvg-id="0-9-402" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-402/list/abpananda1170c77c5041dab94531aae8870da9d700f6.png" group-title="Zee5", ABP Ananda
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668088
+#EXTINF: -1 tvg-id="0-9-403" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-403/list/abpasmita1170cc94817b7b924ed49fc3e3f7ce40bb40.png" group-title="Zee5", ABP Asmita
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668089
+#EXTINF: -1 tvg-id="0-9-399" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-399/list/abpganga11702b5d476112bd446f8421efdc501e2b1f.png" group-title="Zee5", ABP Ganga
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668090
+#EXTINF: -1 tvg-id="0-9-400" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-400/list/abpmajha1170116c55777e374555a095bbdab4d5a925.png" group-title="Zee5", ABP Majha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668091
+#EXTINF: -1 tvg-id="0-9-398" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-398/list/abpnews1170cea104f42bd64ba18ae03ecff5fcf2b1.png" group-title="Zee5", ABP NEWS
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668092
+#EXTINF: -1 tvg-id="0-9-404" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-404/list/abpsanjha117022f7c295dbb7413087a344fe1fcd8465.png" group-title="Zee5", ABP Sanjha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668093
+#EXTINF: -1 tvg-id="0-9-200" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-200/list/asianetnewsmalayalam1170aacf9fc40ed243a18992507f5bc80568.png" group-title="Zee5", Asianet News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668094
+#EXTINF: -1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/list/1170x658withlog2022520414.png" group-title="Zee5", Big Magic
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668095
+#EXTINF: -1 tvg-id="0-9-165" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-165/list/booglebollywood1170b04fcd6e812f421d9622ce085065c141.png" group-title="Zee5", Boogle Bollywood
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668096
+#EXTINF: -1 tvg-id="0-9-ddbangla" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddbangla/list/1170x658withlog1242891543.png" group-title="Zee5", DD Bangla
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668097
+#EXTINF: -1 tvg-id="0-9-ddbharati" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddbharati/list/1170x658withlog_1749264623.png" group-title="Zee5", DD Bharati
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668098
+#EXTINF: -1 tvg-id="0-9-ddbihar" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddbihar/list/1170x658withlog_1865440648.png" group-title="Zee5", DD Bihar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668099
+#EXTINF: -1 tvg-id="0-9-ddchandana" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddchandana/list/1170x658withlogo_222569298.png" group-title="Zee5", DD Chandana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668100
+#EXTINF: -1 tvg-id="0-9-ddgirnar" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddgirnar/list/1170x658withlog_1445842484.png" group-title="Zee5", DD Girnar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668101
+#EXTINF: -1 tvg-id="0-9-ddindia" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddindia/list/ddindiab1170e005f1e37e0245c1a6ba011da7bbd98e.png" group-title="Zee5", DD India
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668102
+#EXTINF: -1 tvg-id="0-9-ddkisan" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddkisan/list/ddkisan1170dd6893e0dd6d49c1aa725b8981c6ccdb.png" group-title="Zee5", DD Kisan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668103
+#EXTINF: -1 tvg-id="0-9-ddmadhyapradesh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddmadhyapradesh/list/1170x658withlog_1218231157.png" group-title="Zee5", DD Madhya Pradesh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668104
+#EXTINF: -1 tvg-id="0-9-ddmalayalam" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddmalayalam/list/1170x658withlog_1300475155.png" group-title="Zee5", DD Malayalam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668105
+#EXTINF: -1 tvg-id="0-9-ddnews" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddnews/list/ddnews11707ca01a836e1c4fbd952001e2fbabc101.png" group-title="Zee5", DD News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668106
+#EXTINF: -1 tvg-id="0-9-ddodia" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddodia/list/1170x658withlog_1372768736.png" group-title="Zee5", DD Odia
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668107
+#EXTINF: -1 tvg-id="0-9-ddpodhigai" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddpodhigai/list/1170x658withlog_1550486077.png" group-title="Zee5", DD Podhigai
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668108
+#EXTINF: -1 tvg-id="0-9-ddpunjabi" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddpunjabi/list/1170x658withlog_1007647800.png" group-title="Zee5", DD Punjabi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668109
+#EXTINF: -1 tvg-id="0-9-ddrajasthanjaipur" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddrajasthanjaipur/list/1170x658withlog_1491909175.png" group-title="Zee5", DD Rajasthan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668110
+#EXTINF: -1 tvg-id="0-9-ddsahyadri" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddsahyadri/list/1170x658withlog1078376781.png" group-title="Zee5", DD Sahyadri
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668111
+#EXTINF: -1 tvg-id="0-9-ddurdu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddurdu/list/1170x658withlog_1440959247.png" group-title="Zee5", DD Urdu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668112
+#EXTINF: -1 tvg-id="0-9-dduttarpradesh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-dduttarpradesh/list/1170x658withlog_1445486903.png" group-title="Zee5", DD Uttar Pradesh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668113
+#EXTINF: -1 tvg-id="0-9-ddyadagiri" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddyadagiri/list/ddyadagiri1170fb5c4623571b43a5b0fc6a728e6d6aa0.png" group-title="Zee5", DD Yadagiri
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668114
+#EXTINF: -1 tvg-id="0-9-divyatv" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-divyatv/list/1170x658withlog2128007300.png" group-title="Zee5", Divya TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668115
+#EXTINF: -1 tvg-id="0-9-9z5163917" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z5163917/list/english1170x658list1d79898f4a5747dfabffdec0af1bcd0f.png" group-title="Zee5", DRM Test channel 1 with Ad
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668116
+#EXTINF: -1 tvg-id="0-9-9z5163919" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z5163919/list/english1170x658list0669158a9e4c4e039327d9e678d0efed.png" group-title="Zee5", DRM Test channel 2 – No Ads
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668117
+#EXTINF: -1 tvg-id="0-9-255" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-255/list/gnt1170ca86c09088f94c238d6e86fb97524493.png" group-title="Zee5", Good News Today
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668118
+#EXTINF: -1 tvg-id="0-9-183" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-183/list/1170x658withlog1124442022.png" group-title="Zee5", Hare Krsna
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668119
+#EXTINF: -1 tvg-id="0-9-272" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-272/list/indianews1170a73c00b3362d4667b89b19bdb9cd9490.png" group-title="Zee5", India News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668120
+#EXTINF: -1 tvg-id="0-9-279" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-279/list/indianewsgujarat1170b3b264873352480381d2965975c6f598.png" group-title="Zee5", India News Gujarat
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668121
+#EXTINF: -1 tvg-id="0-9-278" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-278/list/indianewsharyana1170ea506fd880c747b78aed73cefe7a1b01.png" group-title="Zee5", India News Haryana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668122
+#EXTINF: -1 tvg-id="0-9-277" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-277/list/indianewsmp1170041847abd91849a98d11c326086de478.png" group-title="Zee5", India News MP
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668123
+#EXTINF: -1 tvg-id="0-9-274" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-274/list/indianewspunjabhimachal1170a946b59a4384470ba3dddb17d53b71f9.png" group-title="Zee5", India News Punjabi Himachal
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668124
+#EXTINF: -1 tvg-id="0-9-276" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-276/list/indianewsrajasthan117073b15b610bb846d58b1298a0f7257f7e.png" group-title="Zee5", India News Rajasthan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668125
+#EXTINF: -1 tvg-id="0-9-275" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-275/list/indianewsupuk117068f76579e5ea4ad88e07398874431686.png" group-title="Zee5", India News UP
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668126
+#EXTINF: -1 tvg-id="0-9-indiatoday" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-indiatoday/list/indiatodayrajeevsardesdai1170e084f08174454d40a2f47ab45cbaf09f.png" group-title="Zee5", India Today
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668127
+#EXTINF: -1 tvg-id="0-9-285" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-285/list/1170x658withlog_1126976137.png" group-title="Zee5", Ishwar  TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668128
+#EXTINF: -1 tvg-id="0-9-430" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-430/list/sarath_1170.png" group-title="Zee5", Kairali News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668129
+#EXTINF: -1 tvg-id="0-9-makkaltv" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-makkaltv/list/1170x658withlogo579936187.png" group-title="Zee5", Makkal TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668130
+#EXTINF: -1 tvg-id="0-9-280" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-280/list/nenews1170989da17aa8794439a878b03df044ebd2.png" group-title="Zee5", NE News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668131
+#EXTINF: -1 tvg-id="0-9-170" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-170/list/newsnation117050989b1efede42d8ae657502f345a0ca.png" group-title="Zee5", News Nation
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668132
+#EXTINF: -1 tvg-id="0-9-172" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-172/list/newsstatempch11703204b4fd1f2944edaf1bc0eb7052950a.png" group-title="Zee5", News State Madhya Pradesh Chhattisgarh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668133
+#EXTINF: -1 tvg-id="0-9-171" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-171/list/newsstateuttarpradeshuttrakhand1170f69672e841004a059cd2ea32fecee597.png" group-title="Zee5", News State Uttar Pradesh Uttrakhand
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668134
+#EXTINF: -1 tvg-id="0-9-273" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-273/list/newsx1170bae83edacc0e4aa2bef80887bb5af9ec.png" group-title="Zee5", News X
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668135
+#EXTINF: -1 tvg-id="0-9-423" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-423/list/newsmax1170bc1feaeda53c460a9b679532d34d79e3.png" group-title="Zee5", Newsmax
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668136
+#EXTINF: -1 tvg-id="0-9-284" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-284/list/1170x658withlogo_844800250.png" group-title="Zee5", Sadhna TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668137
+#EXTINF: -1 tvg-id="0-9-channel_1144658965" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_1144658965/list/1170x658withlog_1152304152.png" group-title="Zee5", Sanskar TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668138
+#EXTINF: -1 tvg-id="0-9-channel_1565694979" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_1565694979/list/1170x658withlogo_66703857.png" group-title="Zee5", Satsang TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668139
+#EXTINF: -1 tvg-id="0-9-201" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-201/list/asianetsuvarnanews11709f4333ede8c94593ba62fa9c4a066511.png" group-title="Zee5", Suvarna News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668140
+#EXTINF: -1 tvg-id="0-9-424" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-424/list/tickernews1170c63cccb6d1674b368a3e110d87c8149a.png" group-title="Zee5", TICKER NEWS
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668141
+#EXTINF: -1 tvg-id="0-9-9z583386" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583386/list/timesnownavbharat11704a68afbc099c41369cbdf3aef9dabb94.png" group-title="Zee5", Times Now Navbharat
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668142
+#EXTINF: -1 tvg-id="0-9-378" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-378/list/tv9bangla11701498fb25d3fd4b4db18c5d4e05e83cc9ce.png" group-title="Zee5", TV9 Bangla
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668143
+#EXTINF: -1 tvg-id="0-9-251" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-251/list/tv9bharatvarshb1170cfcedff1425c46df828ed7b37cdbaf0d.png" group-title="Zee5", TV9 Bharatvarsh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668144
+#EXTINF: -1 tvg-id="0-9-260" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-260/list/tv9gujarati1170e4e9126e1eb746e6853966345db1d375.png" group-title="Zee5", TV9 Gujarati
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668145
+#EXTINF: -1 tvg-id="0-9-259" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-259/list/tv9kannada1170a4eae60d238048e5ba07bc51b44305d3.png" group-title="Zee5", TV9 Kannada
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668146
+#EXTINF: -1 tvg-id="0-9-257" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-257/list/tv9marathi11707047d08082244d888383f016618dd8d1.png" group-title="Zee5", TV9 Marathi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668147
+#EXTINF: -1 tvg-id="0-9-258" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-258/list/tv9telugu1170fde098a9ffec4332ab3114d3246e31d9.png" group-title="Zee5", TV9 Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668148
+#EXTINF: -1 tvg-id="0-9-wion" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-wion/list/wion1170f27d4cfea0034f28b51f3bcc4c93ef3c.png" group-title="Zee5", WION
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668149
+#EXTINF: -1 tvg-id="0-9-zee24kalak" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zee24kalak/list/zee24kalak117084349197e3404489902c872aa2d44800.png" group-title="Zee5", Zee 24 Kalak
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668150
+#EXTINF: -1 tvg-id="0-9-zee24taas" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zee24taas/list/zee24taas117037416fdbe6564d2cb49d84c80c2b21d1.png" group-title="Zee5", Zee 24 Taas
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668151
+#EXTINF: -1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeaction/list/1170x658withlog_1953200347.png" group-title="Zee5", Zee Action
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668152
+#EXTINF: -1 tvg-id="0-9-zeeanmol" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeanmol/list/1170x658withlog1844143347.png" group-title="Zee5", Zee Anmol
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668153
+#EXTINF: -1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeanmolcinema/list/1170x658withlog1721007595.png" group-title="Zee5", Zee Anmol Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668154
+#EXTINF: -1 tvg-id="0-9-zeebanglacinema" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebanglacinema/list/1170x658withlog1238879598.png" group-title="Zee5", Zee Bangla Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668155
+#EXTINF: -1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebangla/list/1170x658310781121.png" group-title="Zee5", Zee Bangla HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668156
+#EXTINF: -1 tvg-id="0-9-zeebiharjharkhand" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebiharjharkhand/list/zeebiharjharkhandb11701c02b03e336d4ef792d4b32a343223d6.png" group-title="Zee5", Zee Bihar Jharkhand
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668157
+#EXTINF: -1 tvg-id="0-9-216" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-216/list/1170x658withlogo20909261.png" group-title="Zee5", Zee Biskope
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668158
+#EXTINF: -1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeclassic/list/1170x658e6b59efbc9c5471f9392f477f91f0c11.png" group-title="Zee5", Zee Bollywood
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668159
+#EXTINF: -1 tvg-id="0-9-zeebusiness" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebusiness/list/zeebusiness1170af2e0e4454a1440f87d39a255727708c.png" group-title="Zee5", Zee Business
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668160
+#EXTINF: -1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecafehd/list/1170x658withlogo325698699.png" group-title="Zee5", Zee Café HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668161
+#EXTINF: -1 tvg-id="0-9-394" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-394/list/1170x658717187404.png" group-title="Zee5", Zee Chitramandir
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668162
+#EXTINF: -1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinema/list/1170x658withlogo807278654.png" group-title="Zee5", Zee Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668163
+#EXTINF: -1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemahd/list/1170x658withlogo167952257.png" group-title="Zee5", Zee Cinema HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668164
+#EXTINF: -1 tvg-id="0-9-zeecinemalu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Zee5", Zee Cinemalu HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668165
+#EXTINF: -1 tvg-id="0-9-176" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-176/list/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png" group-title="Zee5", Zee Classic
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668166
+#EXTINF: -1 tvg-id="0-9-zeekalinganews" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeekalinganews/list/zeedelhiharyana1170x658e8b7b3111f204117a0bcf3f8a1327e7b.png" group-title="Zee5", Zee Delhi NCR Haryana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668167
+#EXTINF: -1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-bigganga/list/1170x6581735687172.png" group-title="Zee5", Zee Ganga
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668168
+#EXTINF: -1 tvg-id="0-9-zeehindustan" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeehindustan/list/zeehindustan1170a766bbf240b74a54ba76c9c4788fed8b.png" group-title="Zee5", Zee Hindustan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668169
+#EXTINF: -1 tvg-id="0-9-zeekannada" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeekannada/list/zeekannada17089566f88c3ba4af2a1b7da91e8cf14f3.png" group-title="Zee5", Zee Kannada HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668170
+#EXTINF: -1 tvg-id="0-9-129" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-129/list/1170x658withlogo268830785.png" group-title="Zee5", Zee Keralam HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668171
+#EXTINF: -1 tvg-id="0-9-zeemadhyapradeshchat" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeemadhyapradeshchat/list/zeemadhyapradeshchhattisgarh11707d6f48d5a1de46c99f4e31c3faa08a26.png" group-title="Zee5", Zee Madhya Pradesh Chhattisgarh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668172
+#EXTINF: -1 tvg-id="0-9-zeemarathi" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeemarathi/list/1170x658withlogo551054149.png" group-title="Zee5", Zee Marathi HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668173
+#EXTINF: -1 tvg-id="0-9-zeenews" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeenews/list/zeenews1170ef9d2835a60641f1be62323e9d345e60.png" group-title="Zee5", Zee News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668174
+#EXTINF: -1 tvg-id="0-9-9z583537" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583537/list/zeekannada1170a83c617d657f446c86c6ea66e411b9ed.png" group-title="Zee5", ZEE News Kannada
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668175
+#EXTINF: -1 tvg-id="0-9-9z583539" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583539/list/1170x658f0313dbfc3ef4c0c9c4619454829b2d3.png" group-title="Zee5", ZEE News Malayalam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668176
+#EXTINF: -1 tvg-id="0-9-9z583533" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583533/list/zeetamil1170f502071a9e014c3bb30f231863c8d4d0.png" group-title="Zee5", ZEE News Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668177
+#EXTINF: -1 tvg-id="0-9-9z583538" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583538/list/zeetelugu1170f89d1ea52b6446d48dd7619f9e5441e2.png" group-title="Zee5", Zee News Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668178
+#EXTINF: -1 tvg-id="0-9-channel_265145625" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_265145625/list/zeeupukb11705190c13d14284a9ab47288edb06b7cec.png" group-title="Zee5", Zee News Uttar Pradesh Uttrakhand
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668179
+#EXTINF: -1 tvg-id="0-9-9z5148695" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z5148695/list/1170x65807bdca6c4569465585c116586cbe760c.png" group-title="Zee5", ZEE Odisha News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668180
+#EXTINF: -1 tvg-id="0-9-241" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-241/list/1170x658withlog_1692640342.png" group-title="Zee5", Zee Picchar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668181
+#EXTINF: -1 tvg-id="0-9-zeepunjabharyanahima" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/list/zphh1440395bb52d6063497fba798546146c98c4.png" group-title="Zee5", Zee Punjab Haryana Himachal Pradesh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668182
+#EXTINF: -1 tvg-id="0-9-215" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-215/list/1170x658withlog1031170304.png" group-title="Zee5", Zee Punjabi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668183
+#EXTINF: -1 tvg-id="0-9-zeerajasthannews" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeerajasthannews/list/zeerajasthanb117022518c73ed8343fdb5b0be52e8f5cb0e.png" group-title="Zee5", Zee Rajasthan News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668184
+#EXTINF: -1 tvg-id="0-9-zeesalaam" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeesalaam/list/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2.png" group-title="Zee5", Zee Salaam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668185
+#EXTINF: -1 tvg-id="0-9-sarthaktv" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-sarthaktv/list/1170x658withlog1150431941.png" group-title="Zee5", Zee Sarthak
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668186
+#EXTINF: -1 tvg-id="0-9-zeetalkies" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetalkies/list/1170x658483062857.png" group-title="Zee5", Zee Talkies HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668187
+#EXTINF: -1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetamil/list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Zee5", Zee Tamil HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668188
+#EXTINF: -1 tvg-id="0-9-zeetelugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Zee5", Zee Telugu HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668189
+#EXTINF: -1 tvg-id="0-9-224" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-224/list/1170x658withlogo_334138193.png" group-title="Zee5", Zee Thirai
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668190
+#EXTINF: -1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetv/list/1170x658withlogo_200095097.png" group-title="Zee5", Zee TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668191
+#EXTINF: -1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetvhd/list/1170x658withlog1554775145.png" group-title="Zee5", Zee TV HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668192
+#EXTINF: -1 tvg-id="0-9-zeeyuva" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeyuva/list/1170x658withlogo_361849131.png" group-title="Zee5", Zee Yuva
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668193
+#EXTINF: -1 tvg-id="0-9-348" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-348/list/1170x658withlog2096037619.png" group-title="Zee5", Zee Zest HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668194
+#EXTINF: -1 tvg-id="0-9-zing" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zing/list/1170x658withlogo895666865.png" group-title="Zee5", Zing
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668195
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668196
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668197
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668198
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668199
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668200
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668201
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668202
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668203
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668204
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668205
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668206
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668207
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668208
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668209
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668803
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668804
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="KING-Movies", Colors Cineplex HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668210
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="KING-Movies", Colors Kannada Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668211
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="KING-Movies", Sony Max HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668238
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="KING-Movies", Zee Cinema HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668240
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="KING-Movies", Zee Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668241
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="KING-Movies", Zee Bollywood
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668247
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="KING-Movies", And Pictures HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668248
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="KING-Movies", Zee Action
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668249
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="KING-Movies", B4U Movies
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668250
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="KING-Movies", Sony MAX2
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668251
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="KING-Movies", Enterr 10
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668252
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="KING-Movies", Colors Cineplex
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668253
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="KING-Movies", Zee Anmol Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668254
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Box_Cinema.png" group-title="KING-Movies", Box Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668255
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="KING-Movies", Maha Movies
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668256
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="KING-Movies", Sony Pix HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668257
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="KING-Movies", Bflix Movies
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668424
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="KING-Movies", Manoranjan TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668425
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="KING-Movies", B4U Kadak
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668426
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="KING-Movies", B4U Bhojpuri
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668427
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="KING-Movies", Sony Pix SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668441
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="KING-Movies", Colors Gujarati Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668463
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="KING-Movies", Zee Talkies HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668467
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="KING-Movies", Rishtey Cineplex
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668480
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="KING-Movies", Shemaroo MarathiBana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668481
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="KING-Movies", Colors Cineplex Bollywood
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668506
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png" group-title="KING-Movies", Sidharth Gold
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668533
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="KING-Movies", Oscar Movies
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668568
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="KING-Movies", Bhojpuri Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668569
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="KING-Movies", Zee Talkies
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668593
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png" group-title="KING-Movies", Fakt Marathi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668600
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Cinema.png" group-title="KING-Movies", Amaar Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668602
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="KING-Movies", Zee Bangla Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668612
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="KING-Movies", ETV Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668634
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="KING-Movies", Zee Cinemalu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668638
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="KING-Movies", J Movies
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668665
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="KING-Movies", Raj Digital Plus
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668670
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="KING-Movies", Pitaara
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668756
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="KING-Movies", Manoranjan Movies
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668757
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="KING-Movies", Khushboo TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668758
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" group-title="KING-Movies", Surya Cinema
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668777
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="KING-Movies", Sony Max SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668783
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="KING-Entertainment", DD National
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668212
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="KING-Entertainment", Sony HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668213
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="KING-Entertainment", Sony SAB HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668214
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="KING-Entertainment", Sony SAB
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668215
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="KING-Entertainment", And TV HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668216
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="KING-Entertainment", Zee TV HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668217
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="KING-Entertainment", Colors HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668218
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="KING-Entertainment", Zee Anmol
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668219
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="KING-Entertainment", Rishtey
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668220
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="KING-Entertainment", Sony Pal
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668221
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="KING-Entertainment", Investigation Discovery
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668222
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="KING-Entertainment", Arre HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668223
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="KING-Entertainment", Dangal
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668224
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="KING-Entertainment", Colors Infinity HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668226
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="KING-Entertainment", Comedy Central HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668227
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="KING-Entertainment", Hi Dost!
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668258
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="KING-Entertainment", Manjari TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668272
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="KING-Entertainment", DD India
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668343
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="KING-Entertainment", Epic
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668394
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="KING-Entertainment", Jio Exclusive HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668409
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="KING-Entertainment", Raj Pariwar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668429
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="KING-Entertainment", Colors SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668437
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="KING-Entertainment", Colors Infinity SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668464
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="KING-Entertainment", Colors Marathi SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668465
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="KING-Entertainment", Comedy Central SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668466
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="KING-Entertainment", Zee Marathi HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668468
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="KING-Entertainment", Colors Bangla SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668469
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="KING-Entertainment", Colors Kannada SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668470
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="KING-Entertainment", Colors Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668471
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="KING-Entertainment", Sony Wah
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668473
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="KING-Entertainment", Sony SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668474
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhojpuri.png" group-title="KING-Entertainment", Surya Bhojpuri
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668484
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png" group-title="KING-Entertainment", HITS HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668496
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="KING-Entertainment", Pasand
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668512
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="KING-Entertainment", Studio Yuva Alpha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668513
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" group-title="KING-Entertainment", E!
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668523
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="KING-Entertainment", Sidharth TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668532
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="KING-Entertainment", Shemaroo TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668537
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="KING-Entertainment", ETV HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668540
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="KING-Entertainment", Zee Bangla HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668544
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="KING-Entertainment", Dabangg
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668566
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dishum_TV.png" group-title="KING-Entertainment", Dishum TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668570
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="KING-Entertainment", Zee Salaam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668580
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="KING-Entertainment", DD Bihar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668584
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="KING-Entertainment", DD Madhya Pradesh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668585
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="KING-Entertainment", DD Rajasthan (Jaipur)
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668586
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="KING-Entertainment", Colors Marathi HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668588
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="KING-Entertainment", Zee Marathi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668589
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="KING-Entertainment", Zee Yuva
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668592
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="KING-Entertainment", Sony Marathi SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668594
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="KING-Entertainment", Saam Tv
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668595
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" group-title="KING-Entertainment", Maiboli
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668597
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="KING-Entertainment", DD Sahayadri
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668604
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="KING-Entertainment", Colors Bengali HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668606
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="KING-Entertainment", Zee Bangla
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668607
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="KING-Entertainment", Aakash Aath
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668608
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="KING-Entertainment", Sony aath
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668610
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="KING-Entertainment", Zee Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668616
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="KING-Entertainment", ETV Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668618
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="KING-Entertainment", Jaya TV HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668620
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="KING-Entertainment", Puthu Yugam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668626
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="KING-Entertainment", MK TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668628
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="KING-Entertainment", ETV Plus
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668635
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="KING-Entertainment", Vissa TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668645
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="KING-Entertainment", DD Saptagiri
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668654
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="KING-Entertainment", Zee Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668655
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="KING-Entertainment", Kalaignar TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668656
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="KING-Entertainment", Raj TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668657
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="KING-Entertainment", Vasanth TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668659
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="KING-Entertainment", Polimer TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668661
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="KING-Entertainment", Makkal TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668663
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="KING-Entertainment", Colors Tamil HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668672
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="KING-Entertainment", Captain tv
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668677
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="KING-Entertainment", Vendhar TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668681
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="KING-Entertainment", DD5 Podhigai
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668682
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="KING-Entertainment", Colors Kannada HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668683
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="KING-Entertainment", Zee Kannada
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668685
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png" group-title="KING-Entertainment", Kasturi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668686
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="KING-Entertainment", Colors Super
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668690
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="KING-Entertainment", DD9 chandana (kannada)
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668701
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="KING-Entertainment", Colors Gujarati
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668702
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png" group-title="KING-Entertainment", DD Girnar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668711
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="KING-Entertainment", Colors Oriya
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668712
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="KING-Entertainment", Zee Sarthak
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668713
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="KING-Entertainment", DD Oriya
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668721
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_SD.png" group-title="KING-Entertainment", Asianet
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668722
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="KING-Entertainment", Amrita TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668724
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="KING-Entertainment", Mazavali Manorama HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668725
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="KING-Entertainment", Mazhavil Manorama
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668726
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="KING-Entertainment", Kairali TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668727
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="KING-Entertainment", Flower TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668735
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="KING-Entertainment", Kairali WE TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668740
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png" group-title="KING-Entertainment", Dillagi TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668744
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="KING-Entertainment", Dhamaal TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668745
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Andy_Haryana.png" group-title="KING-Entertainment", Andy Haryana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668746
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="KING-Entertainment", Manoranjan Grand
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668747
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="KING-Entertainment", PTC Punjabi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668752
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="KING-Entertainment", DD Punjabi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668759
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" group-title="KING-Entertainment", Nepal one
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668761
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png" group-title="KING-Entertainment", Rang
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668762
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png" group-title="KING-Entertainment", Jonack
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668763
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" group-title="KING-Entertainment", Rengoni
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668767
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="KING-Infotainment", DD Kisan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668225
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="KING-Infotainment", Janapriyam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668284
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png" group-title="KING-Infotainment", Daijiworld TV 24x7
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668286
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="KING-Infotainment", Discovery HD World
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668385
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="KING-Infotainment", Discovery
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668386
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="KING-Infotainment", D Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668387
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="KING-Infotainment", Animal Planet HD World
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668388
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="KING-Infotainment", Animal Planet English
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668389
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="KING-Infotainment", Discovery Science
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668390
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="KING-Infotainment", History TV18 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668391
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="KING-Infotainment", History TV18 HD Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668392
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="KING-Infotainment", Sony BBC Earth HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668393
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="KING-Infotainment", Discovery Turbo
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668400
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="KING-Infotainment", Care World
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668405
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="KING-Infotainment", Animal Planet HD Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668406
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="KING-Infotainment", Jio Events HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668408
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="KING-Infotainment", Sony BBC Earth HD English
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668414
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="KING-Infotainment", Insight HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668416
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="KING-Infotainment", Animal Planet Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668422
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="KING-Infotainment", Discovery Channel Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668423
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="KING-Infotainment", History TV18 SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668483
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" group-title="KING-Infotainment", InWild HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668493
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Smithsonian_HD.png" group-title="KING-Infotainment", Smithsonian HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668495
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol.png" group-title="KING-Infotainment", Naaptol
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668507
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_At_Dubai_Expo.png" group-title="KING-Infotainment", India At Dubai Expo
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668520
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="KING-Infotainment", DD bharati
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668583
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Barker.png" group-title="KING-Infotainment", Jio Promo HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668587
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="KING-Infotainment", Discovery Channel Bengali
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668603
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="KING-Infotainment", ETV Life
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668636
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="KING-Infotainment", CVR Health
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668642
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="KING-Infotainment", Vanitha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668648
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="KING-Infotainment", History TV18 HD Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668652
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="KING-Infotainment", Sony BBC Earth HD Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668653
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="KING-Infotainment", History TV18 HD Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668696
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="KING-Infotainment", Sony BBC Earth HD Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668697
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="KING-Infotainment", Discovery Channel Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668698
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="KING-Infotainment", Tehzeeb TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668771
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="KING-Infotainment", Sony BBC Earth SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668784
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="KING-Sports", Jio Sports HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668228
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="KING-Sports", Jio Football HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668230
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="KING-Sports", Jio Cricket HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668231
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="KING-Sports", Jio Cricket English HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668232
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="KING-Sports", Jio Cricket Hindi HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668233
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="KING-Sports", Jio Cricket 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668235
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="KING-Sports", Jio Cricket 2 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668236
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="KING-Sports", JioGames HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668237
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="KING-Sports", Jio Cricket 4 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668239
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="KING-Sports", Jio Football 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668242
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="KING-Sports", Jio Cricket 3 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668243
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="KING-Sports", Jio Football 2 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668244
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="KING-Sports", Jio Football 3 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668245
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png" group-title="KING-Sports", Jio Football 4 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668246
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="KING-Sports", DD Sports
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668261
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="KING-Sports", Ten 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668262
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="KING-Sports", Ten 1
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668263
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="KING-Sports", Ten 2 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668264
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="KING-Sports", Ten 2
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668265
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="KING-Sports", Ten 3 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668266
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="KING-Sports", Ten 3
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668267
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="KING-Sports", Sony Six HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668268
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="KING-Sports", Sony Six SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668269
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="KING-Sports", Eurosport
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668270
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="KING-Sports", Eurosport HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668271
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="KING-Sports", MI TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668428
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="KING-Sports", ESG TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668457
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="KING-Sports", 1Sports
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668476
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="KING-Sports", Ten 4 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668508
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="KING-Sports", Ten 4
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668509
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png" group-title="KING-Sports", Jio Football 5 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668514
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png" group-title="KING-Sports", Jio Football 6 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668515
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png" group-title="KING-Sports", Jio Football 7 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668517
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png" group-title="KING-Sports", Jio Football 8 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668518
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png" group-title="KING-Sports", Jio Sports 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668527
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png" group-title="KING-Sports", Jio Sports 2 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668528
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_3_HD.png" group-title="KING-Sports", Jio Sports 3 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668538
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_4_HD.png" group-title="KING-Sports", Jio Sports 4 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668539
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="KING-Sports", Sports18 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668545
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="KING-Sports", Sports18 1
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668546
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="KING-Sports", Sports18 Khel
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668547
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="KING-Educational", India Science
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668229
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyan_Brikshya.png" group-title="KING-Educational", Gyan Brikshya
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668234
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="KING-Educational", Top Tutor
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668275
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png" group-title="KING-Educational", Utkarsh Primary
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668279
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png" group-title="KING-Educational", Utkarsh HSBTE
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668280
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png" group-title="KING-Educational", Utkarsh Secondary
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668281
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" group-title="KING-Educational", Utkarsh Higher
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668282
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png" group-title="KING-Educational", PM e Vidya 12
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668328
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="KING-Educational", TV Teacher
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668402
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png" group-title="KING-Educational", Birla Brainiacs
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668439
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" group-title="KING-Educational", Gyanvani 1
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668442
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png" group-title="KING-Educational", Tute
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668444
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" group-title="KING-Educational", Himshiksha Elementary
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668445
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" group-title="KING-Educational", Himshiksha Higher
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668446
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" group-title="KING-Educational", Himshiksha Vocational
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668447
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="KING-Educational", AP-BIE-ARTS
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668448
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="KING-Educational", AP-BIE-SCIENCE
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668449
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="KING-Educational", AP-CIE-SIVE
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668450
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanskritam.png" group-title="KING-Educational", Sanskrit
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668451
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Medha_Secondary.png" group-title="KING-Educational", Medha Secondary
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668453
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samveda.png" group-title="KING-Educational", Samveda
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668456
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_Darshan.png" group-title="KING-Educational", Shiksha Darshan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668487
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_School_TV.png" group-title="KING-Educational", Punjab School TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668488
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lifology.png" group-title="KING-Educational", Lifology
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668490
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Omnicuris.png" group-title="KING-Educational", Omnicuris
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668497
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_2.png" group-title="KING-Educational", Gyanvani 2
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668499
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTD_Chhattisgarrh.png" group-title="KING-Educational", PTD Chhattisgarrh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668500
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_JEE.png" group-title="KING-Educational", Aakash EduTV JEE
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668521
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" group-title="KING-News", K News India
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668259
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="KING-News", DNN
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668260
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="KING-News", RT TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668276
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="KING-News", Reporter TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668277
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="KING-News", News J
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668287
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="KING-News", DD News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668288
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="KING-News", ABP News India
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668289
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="KING-News", NDTV India
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668290
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="KING-News", Aaj Tak
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668291
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="KING-News", Zee News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668292
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="KING-News", India TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668293
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="KING-News", News 24
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668294
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="KING-News", News 18 India
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668295
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="KING-News", Zee Hindustan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668296
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="KING-News", India news
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668297
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="KING-News", ABP Ganga
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668298
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="KING-News", News Nation
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668299
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="KING-News", Euro News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668300
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="KING-News", Total TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668301
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="KING-News", Live Today
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668302
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="KING-News", Sahara Samay Rastriya
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668303
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="KING-News", India News Haryana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668304
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="KING-News", Taaza TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668305
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus.png" group-title="KING-News", Samachar Plus
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668306
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="KING-News", Living India News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668307
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="KING-News", Sudarshan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668308
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" group-title="KING-News", Kashish News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668309
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="KING-News", SMBC TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668310
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" group-title="KING-News", SAHARA SAMAY MP
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668311
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" group-title="KING-News", SAHARA SAMAY UP
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668312
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="KING-News", Sadhna News Plus
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668313
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" group-title="KING-News", Sahara Samay Bihar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668314
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" group-title="KING-News", Samay Rajasthan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668315
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" group-title="KING-News", JK 24x7 News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668316
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pratidin_News.png" group-title="KING-News", Pratidin Time
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668317
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="KING-News", Mh One News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668318
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="KING-News", India News UP
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668319
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="KING-News", News State UK UP
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668320
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" group-title="KING-News", India News MP
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668321
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" group-title="KING-News", India News Rajasthan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668322
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swadesh_News.png" group-title="KING-News", Swadesh News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668323
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png" group-title="KING-News", Janta TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668324
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="KING-News", Zee UP UK
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668325
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="KING-News", Lokshahi News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668326
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" group-title="KING-News", India Voice
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668327
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="KING-News", Hindi Khabar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668329
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" group-title="KING-News", Jan TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668330
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="KING-News", News India 24x7
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668331
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="KING-News", Good News Today
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668332
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="KING-News", Sansad TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668335
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="KING-News", Sansad TV HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668336
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="KING-News", NDTV 24x7
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668337
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="KING-News", India Today
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668338
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="KING-News", CNN NEWS 18
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668339
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="KING-News", News X
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668340
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="KING-News", Wion
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668341
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="KING-News", Republic TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668342
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="KING-News", CNN
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668347
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="KING-News", BBC World News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668348
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="KING-News", AL Jazeera
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668350
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="KING-News", Channel News Asia International
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668351
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png" group-title="KING-News", France 24
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668352
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="KING-News", TV5 Monde
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668353
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" group-title="KING-News", dw
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668354
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" group-title="KING-News", ANB News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668432
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png" group-title="KING-News", Network 10
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668440
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Ahead.png" group-title="KING-News", India Ahead
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668454
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IND_24.png" group-title="KING-News", IND 24
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668458
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ND24.png" group-title="KING-News", ND 24
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668459
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png" group-title="KING-News", TV9 Bangla
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668460
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="KING-News", Nandighosha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668478
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_First.png" group-title="KING-News", News First
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668489
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="KING-News", Badakhabar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668501
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Anaadi_TV.png" group-title="KING-News", Anaadi TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668502
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hornbill_TV.png" group-title="KING-News", Hornbill TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668503
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NK_TV.png" group-title="KING-News", NK TV 24x7
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668504
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aryan_TV_National.png" group-title="KING-News", Aryan TV National
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668505
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DA_News_Plus.png" group-title="KING-News", DA News Plus
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668511
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" group-title="KING-News", NEWS 24 MPCG
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668516
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="KING-News", Sansad TV Rajya Sabha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668525
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tribe_TV.png" group-title="KING-News", Tribe TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668529
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="KING-News", News Tamil 24x7
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668530
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Global_India.png" group-title="KING-News", Global India
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668535
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png" group-title="KING-News", Bhaarat Today
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668536
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" group-title="KING-News", Gujarat 1st 24x7
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668541
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="KING-News", ABP Sanjha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668548
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="KING-News", News18 Lokmat
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668549
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="KING-News", News18 UP
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668564
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="KING-News", News18 BIHAR
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668565
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="KING-News", News18 RAJASTHAN
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668571
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="KING-News", Zee Rajasthan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668572
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" group-title="KING-News", First India News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668573
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="KING-News", News18 MP
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668574
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="KING-News", IBC24
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668575
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="KING-News", Zee News MP Chattisgarh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668576
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" group-title="KING-News", Bansal News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668577
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/INH_24x7.png" group-title="KING-News", INH 24x7
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668578
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="KING-News", News18 Urdu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668579
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gulistan_News.png" group-title="KING-News", Gulistan News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668582
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="KING-News", ABP Majha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668590
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="KING-News", Zee 24 Taas
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668591
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="KING-News", TV9 Maharashtra
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668598
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="KING-News", MKN
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668601
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="KING-News", ABP Ananda
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668605
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="KING-News", 24 Ghanta TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668609
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="KING-News", News18 Bangla News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668613
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="KING-News", News Time TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668614
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="KING-News", Sakshi tv
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668615
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="KING-News", Studio One
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668617
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="KING-News", ETV Andhra pradesh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668619
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="KING-News", TV 5 News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668621
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="KING-News", TV9 Telugu News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668622
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="KING-News", NTV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668623
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="KING-News", ABN Andhra Jyothi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668624
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="KING-News", T News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668625
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="KING-News", V6 News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668627
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="KING-News", ETV Telangana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668632
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="KING-News", HM TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668633
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="KING-News", Raj News&nbsp;24x7
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668639
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" group-title="KING-News", CVR English
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668640
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" group-title="KING-News", CVR News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668641
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="KING-News", Raj News Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668644
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="KING-News", 10 TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668646
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="KING-News", I News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668650
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="KING-News", Puthiya Thalimurai
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668658
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="KING-News", Thanthi TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668662
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="KING-News", Jaya Plus
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668664
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="KING-News", News7 Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668666
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="KING-News", Polimer News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668667
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="KING-News", News 18 Tamilnadu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668668
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="KING-News", Kalaignar Seithigal
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668669
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="KING-News", Dighvijay TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668673
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="KING-News", Sathiyam TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668674
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="KING-News", Captain News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668675
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="KING-News", Malai Murasu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668676
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="KING-News", TV9 Karnataka
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668684
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="KING-News", Suvarna News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668687
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="KING-News", Public TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668688
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="KING-News", News18 Kannada News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668689
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png" group-title="KING-News", Raj News Kannada
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668694
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="KING-News", Maha News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668695
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" group-title="KING-News", Tv 9 Gujarat
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668703
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png" group-title="KING-News", GS TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668704
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" group-title="KING-News", Sandesh News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668705
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="KING-News", News18 Gujarati
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668707
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" group-title="KING-News", ABP Asmita
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668708
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="KING-News", VTV Gujarati
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668709
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="KING-News", Zee 24 Kalak
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668710
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="KING-News", Zee Delhi NCR Haryana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668714
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="KING-News", Kanak News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668715
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="KING-News", Kalinga TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668716
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="KING-News", Prameya News 7
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668717
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="KING-News", News18 Oriya
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668718
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="KING-News", MBC
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668719
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="KING-News", Naxatra News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668720
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="KING-News", Asianet News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668723
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png" group-title="KING-News", Kairali News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668729
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="KING-News", Manorama News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668730
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="KING-News", Mathrubhumi News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668731
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="KING-News", Jaihind tv
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668732
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="KING-News", Jeevan TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668733
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GoodNews_Channel.png" group-title="KING-News", GoodNews Channel
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668736
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="KING-News", Janam TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668737
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="KING-News", News 18 Kerala
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668741
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="KING-News", Raj News Malayalam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668743
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="KING-News", Zee Bihar Jharkhand
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668748
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="KING-News", Zee Punjabi HP Haryana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668749
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="KING-News", PTC News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668750
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="KING-News", News18 Haryana and HP News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668751
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="KING-News", Chardikla Time TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668755
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png" group-title="KING-News", DY 365
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668760
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="KING-News", News 18 Assam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668764
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" group-title="KING-News", Assam Talks
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668766
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" group-title="KING-News", North East Live
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668768
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="KING-News", Twenty Four News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668769
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="KING-News", TV9 Bharatvarsh
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668770
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" group-title="KING-News", Kolkata Live
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668772
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" group-title="KING-News", Surya Samachar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668776
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" group-title="KING-News", Ctvn Akd Plus
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668779
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="KING-News", Calcutta News
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668780
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" group-title="KING-News", Total Tv Haryana
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668781
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="KING-News", Kolkata TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668782
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png" group-title="KING-Devotional", HHDL
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668273
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_TV.png" group-title="KING-Devotional", Shiksha TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668283
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" group-title="KING-Devotional", Sadhguru Television HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668399
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png" group-title="KING-Devotional", Parmarth TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668407
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" group-title="KING-Devotional", Prarthana Bhawan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668433
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" group-title="KING-Devotional", Shubhsandesh TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668434
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="KING-Devotional", Darshan 24
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668435
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title="KING-Devotional", Divya TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668436
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manav_Dharam.png" group-title="KING-Devotional", Manav Dharam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668452
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Madha_TV.png" group-title="KING-Devotional", Madha TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668455
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" group-title="KING-Devotional", Santvani
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668477
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title="KING-Devotional", Velukkudi Discourses
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668479
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="KING-Devotional", RadheKrishna TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668485
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png" group-title="KING-Devotional", Subharti
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668486
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Devam.png" group-title="KING-Devotional", Devam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668519
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jivan_TV.png" group-title="KING-Devotional", Jivan TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668526
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="KING-Devotional", Sidharth Bhakti
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668534
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="KING-Devotional", PMC Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668542
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="KING-Devotional", Aastha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668550
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="KING-Devotional", Sanskar
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668551
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="KING-Devotional", Disha tv
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668552
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png" group-title="KING-Devotional", Paras tv
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668553
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="KING-Devotional", mh1 Shraddha
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668554
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="KING-Devotional", Sadhna
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668555
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png" group-title="KING-Devotional", Peace of Mind
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668556
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png" group-title="KING-Devotional", Jinvani TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668557
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="KING-Devotional", Arihant TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668558
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png" group-title="KING-Devotional", Ishwar TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668559
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="KING-Devotional", Satsang TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668560
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="KING-Devotional", Shubh TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668561
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="KING-Devotional", Aastha Bhajan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668562
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vedic_TV.png" group-title="KING-Devotional", Vedic TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668563
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png" group-title="KING-Devotional", Channel Win
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668581
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="KING-Devotional", Bhakti TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668629
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="KING-Devotional", Subhavartha TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668630
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png" group-title="KING-Devotional", Nireekshana TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668631
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="KING-Devotional", CVR OM Spiritual
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668643
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="KING-Devotional", Aradhana TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668647
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="KING-Devotional", Nambikkai
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668679
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" group-title="KING-Devotional", Sri Sankara
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668692
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="KING-Devotional", Sri Venkateshwar Bhakti
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668699
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="KING-Devotional", Divya Vani
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668700
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" group-title="KING-Devotional", Shalom
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668738
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="KING-Devotional", Aastha Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668773
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="KING-Devotional", Aastha Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668774
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png" group-title="KING-Devotional", Aastha Kannada
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668775
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png" group-title="KING-Devotional", Surya Bhakti
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668778
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png" group-title="KING-Music", VH1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668274
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="KING-Music", MTV HD Plus
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668410
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="KING-Music", MTV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668411
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="KING-Music", 9XM
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668412
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="KING-Music", E 24
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668413
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="KING-Music", MTV Beats HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668415
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="KING-Music", B4U Music
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668417
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="KING-Music", Mastiii
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668418
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="KING-Music", Zing
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668419
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="KING-Music", Music India
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668420
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="KING-Music", 9X Jalwa
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668421
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="KING-Music", Insync
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668430
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="KING-Music", iLove
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668431
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="KING-Music", MTV Beats SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668438
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mezzo_HD.png" group-title="KING-Music", Mezzo Live HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668462
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="KING-Music", VH1
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668472
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="KING-Music", SongDew TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668475
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="KING-Music", Balle Balle TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668482
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="KING-Music", Sangeet Bhojpuri
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668567
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="KING-Music", 9x Jhakaas
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668596
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="KING-Music", Sangeet Marathi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668599
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="KING-Music", Sangeet Bangla
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668611
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="KING-Music", Raj Music Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668649
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="KING-Music", MK Music
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668651
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="KING-Music", Jaya Max
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668660
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="KING-Music", Raj Musix
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668671
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="KING-Music", Sahana Music
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668678
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="KING-Music", Raj Music Kannada
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668691
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png" group-title="KING-Music", Public Music
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668693
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="KING-Music", mh1 (Music)
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668728
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="KING-Music", Kappa TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668734
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="KING-Music", Raj Music Malayalam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668742
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="KING-Music", PTC Chak De
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668753
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="KING-Music", 9X Tashan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668754
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="KING-Music", Ramdhenu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668765
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="KING-Kids", Jio KIDS
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668278
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="KING-Kids", Sonic Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668349
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="KING-Kids", Discovery Kids 2
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668355
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="KING-Kids", Sonic Kannada
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668356
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="KING-Kids", Sonic Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668357
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="KING-Kids", Nick Malayalam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668358
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="KING-Kids", Nick Bangla
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668359
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="KING-Kids", Nick Marathi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668360
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="KING-Kids", CN HD+ Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668361
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KING-Kids", Cartoon Network Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668362
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="KING-Kids", Pogo Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668363
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="KING-Kids", Nick Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668364
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="KING-Kids", sonic Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668365
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="KING-Kids", Sony Yay Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668366
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="KING-Kids", Discovery Kids Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668367
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="KING-Kids", Nick Kannada
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668368
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="KING-Kids", CN HD+ Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668369
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="KING-Kids", Cartoon Network Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668370
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="KING-Kids", Nick Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668371
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="KING-Kids", Nick Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668372
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="KING-Kids", Sony Yay Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668373
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="KING-Kids", CN HD+ English
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668374
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="KING-Kids", Cartoon Network Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668375
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="KING-Kids", Nick HD+
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668376
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="KING-Kids", Pogo Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668377
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="KING-Kids", Nickelodeon
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668378
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="KING-Kids", Sonic Malayalam
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668379
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="KING-Kids", Sonic Bangla
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668380
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="KING-Kids", Sonic Marathi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668381
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="KING-Kids", Nick Junior
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668382
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="KING-Kids", Nickelodeon Jr.
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668383
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="KING-Kids", Sony Yay Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668384
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="KING-Kids", ZooMoo HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668494
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="KING-Kids", Rongeen TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668498
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="KING-Kids", DreamWorks
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668522
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="KING-Kids", Pogo Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668524
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Cbeebies.png" group-title="KING-Kids", BBC Cbeebies
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668543
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png" group-title="KING-JioDarshan", Shree Ganesh - Moti Doongri Jaipur
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668285
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chardham_Darshan.png" group-title="KING-JioDarshan", Chardham Darshan
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668443
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Amarnath_Shrine_Board.png" group-title="KING-JioDarshan", Shri Amarnathji Shrine Board
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668510
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="KING-Business", Zee Business
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668333
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="KING-Business", CNBC Awaaz
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668334
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="KING-Business", NDTV Profit
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668344
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="KING-Business", CNBC Tv18 Prime HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668345
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="KING-Business", CNBC Tv 18
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668346
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" group-title="KING-Business", CNBC Bazaar (MNO)
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668706
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="KING-Lifestyle", TLC HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668395
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="KING-Lifestyle", TLC English
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668396
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="KING-Lifestyle", TLC Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668397
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="KING-Lifestyle", GOOD TiMES
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668398
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="KING-Lifestyle", Travelxp HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668401
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="KING-Lifestyle", Travelxp HD Hindi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668403
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="KING-Lifestyle", Food Food
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668404
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Luxe_Tv_HD.png" group-title="KING-Lifestyle", LUXE TV HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668461
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MY_ZEN_HD.png" group-title="KING-Lifestyle", MY ZEN HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668491
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="KING-Lifestyle", FTV HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668492
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="KING-Lifestyle", Foodxp
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668531
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="KING-Lifestyle", ETV Abhiruchi
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668637
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="KING-Lifestyle", Travelxp Tamil
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668680
+#EXTINF: 1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="KING-Lifestyle", Kaumudy TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668739
+#EXTINF: -1 group-title="KING-Sony Liv", SONY SET HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668785
+#EXTINF: -1 group-title="KING-Sony Liv", SONY SAB HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668786
+#EXTINF: -1 group-title="KING-Sony Liv", SONY PAL
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668787
+#EXTINF: -1 group-title="KING-Sony Liv", SONY MARATHI
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668788
+#EXTINF: -1 group-title="KING-Sony Liv", SONY AATH
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668789
+#EXTINF: -1 group-title="KING-Sony Liv", SONY YAY HIN
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668790
+#EXTINF: -1 group-title="KING-Sony Liv", SONY MAX HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668791
+#EXTINF: -1 group-title="KING-Sony Liv", SONY MAX 2
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668792
+#EXTINF: -1 group-title="KING-Sony Liv", SONY WAH
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668793
+#EXTINF: -1 group-title="KING-Sony Liv", SONY PIX HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668794
+#EXTINF: -1 group-title="KING-Sony Liv", SONY TEN 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668795
+#EXTINF: -1 group-title="KING-Sony Liv", SONY TEN 2 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668796
+#EXTINF: -1 group-title="KING-Sony Liv", SONY TEN 3 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668797
+#EXTINF: -1 group-title="KING-Sony Liv", SONY TEN 1
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668798
+#EXTINF: -1 group-title="KING-Sony Liv", SONY TEN 2
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668799
+#EXTINF: -1 group-title="KING-Sony Liv", SONY TEN 3
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668800
+#EXTINF: -1 group-title="KING-Sony Liv", SONY SIX
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668801
+#EXTINF: -1 group-title="KING-Sony Liv", SONY SIX HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668802

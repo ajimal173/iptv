@@ -2,3 +2,5 @@
 
 #EXTINF:-1,IN: live streaming
 rtmp://nazking.dscloud.me:1935/livestream/stream
+#EXTINF:-1 tvg-id="1" tvg-logo="http://cineosai.xyz/uploads/system_logo/logo_633197bb7b1a8.png" group-title="Tamil",CineOsai HD TV
+http://nazking.dscloud.me:8282/livestream/stream.m3u8

@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" group-title="7star updated",7startv
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",Sana tv
@@ -590,48 +591,6 @@ https://murugan.iptelevision.in/hls/kalasam.m3u8
 http://bmlive.net:8000/karnan/karthimovie/bms.m3u8 
 --------------------------------------------------------------------------------------
 
-#EXTM3U x-tvg-url="https://meralund.com//epg.xml.gz" 
-#EXTINF:-1 tvg-id="Star Vijay tv " tvg-logo="https://i.ibb.co/FqPZSHS/download.jpg" group-title="Star playlist",Star Vijay tv
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=155874&extension=ts&play_token=0wtQ98hy2M
-#EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.ibb.co/Ms647d9/download.png" group-title="Star playlist",Asianet HD
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=155814&extension=ts&play_token=0rDb99Sqiw
-#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.ibb.co/YTJpYKT/download-1.png" group-title="Star playlist",Asianet Plus
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=155822&extension=ts&play_token=e4zUC1hrfG
-#EXTINF:-1 tvg-id="Asianet Movies" tvg-logo="https://i.ibb.co/ZVbp6xn/download-1.jpg" group-title="Star playlist",Asianet Movies
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=282607&extension=ts&play_token=LGUYl33SdY
-#EXTINF:-1 tvg-id="Star Suvarna HD" tvg-logo="https://i.ibb.co/17FqH5Y/download-2.jpg" group-title="Star playlist",Star Suvarna HD
-http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:50:4E:62&stream=282552&extension=ts&play_token=pCpHnavKPd
-#EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://i.ibb.co/LxjDrzX/download-3.jpg" group-title="Star playlist",Star Movies HD
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=155727&extension=ts&play_token=KMs8lbpp93
-#EXTINF:-1 tvg-id="Star Movies Select" tvg-logo="https://i.ibb.co/Hn3W9Dn/download-2.png" group-title="Star playlist",Star Movies Select 
-http://epg.protv.cc/play/live.php?mac=00:1A:79:AB:96:6B&stream=155729&extension=ts&play_token=Ts4Oi2RuWR
-#EXTINF:-1 tvg-id="Star Sports 1 in Tamil" tvg-logo="https://i.ibb.co/GndPRGF/download-4.jpg" group-title="Star playlist",Star Sports 1 In Tamil
-http://epg.protv.cc/play/live.php?mac=00:1A:79:AB:96:6B&stream=155873&extension=ts&play_token=BbMesjXRml
-#EXTINF:-1 tvg-id="Star Maa Gold" tvg-logo="https://i.ibb.co/mTFgpQ0/download-6.jpg" group-title="Star playlist",Star Maa Gold
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=155860&extension=ts&play_token=361wpQzHKk
-#EXTINF:-1 tvg-id="Star Sports 1 in kannada" tvg-logo="https://i.ibb.co/ZMPgnPd/download-5.jpg" group-title="Star playlist",Star Sports 1 in Kannada
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=156102&extension=ts&play_token=2umRhLu3tD
-#EXTINF:-1 tvg-id="Star Vijay tv HD" tvg-logo="https://i.ibb.co/FqPZSHS/download.jpg" group-title="Star playlist",Star Vijay tv HD
-http://epg.protv.cc/play/live.php?mac=00:1A:79:AB:96:6B&stream=155874&extension=ts&play_token=xUDoRBDmgS
-#EXTINF:-1 tvg-id=" Star Vijay Super  " tvg-logo="https://i.ibb.co/GsQxj7D/download-7.jpg" group-title="Star playlist", Star Vijay Super 
-http://epg.protv.cc/play/live.php?mac=00:1A:79:AB:96:6B&stream=155875&extension=ts&play_token=sSNgL8UWT7
-#EXTINF:-1 tvg-id="Star Maa movies " tvg-logo="https://i.ibb.co/5jSZYs1/download-8.jpg" group-title="Star playlist",Star Maa movies 
-http://epg.protv.cc/play/live.php?mac=00:1A:79:AB:96:6B&stream=155842&extension=ts&play_token=xnAyRkTq6W
-#EXTINF:-1 tvg-id="Star Maa HD" tvg-logo="https://i.ibb.co/FqPZSHS/download.jpg" group-title="Star playlist",Star Maa HD
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=155843&extension=ts&play_token=JRXPuOthsX
-#EXTINF:-1 tvg-id="Star Maa music " tvg-logo="https://i.ibb.co/55z9nPz/download-3.png" group-title="Star playlist",Star Maa music 
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=281969&extension=ts&play_token=wsvCPfuhvm
-#EXTINF:-1 tvg-id="Star Parvah HD" tvg-logo="https://i.ibb.co/VJxjrp8/download-10.jpg" group-title="Star playlist",Star Parvah HD
-http://epg.protv.cc/play/live.php?mac=00:1A:79:AB:96:6B&stream=155755&extension=ts&play_token=tf4uIjvx8w
-#EXTINF:-1 tvg-id="Star Sports 1 In Hindi" tvg-logo="https://i.ibb.co/8sKq2q8/download-11.jpg" group-title="Star playlist",Star Sports 1 In Hindi 
-http://epg.protv.cc/play/live.php?mac=00:1A:79:AB:96:6B&stream=282674&extension=ts&play_token=E3iVAZU3i0
-#EXTINF:-1 tvg-id="Star Sports 1 In English" tvg-logo="https://i.ibb.co/LJv25vR/download-12.jpg" group-title="Star playlist",Star Sports 1 In English 
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:AB:96:6B&stream=155968&extension=ts&play_token=GF0CNfj5Zh
-#EXTINF:-1 tvg-id="Star World Premium" tvg-logo="https://i.ibb.co/JpgMr8M/download-4.png" group-title="Star playlist",Star World  Premium
-http://epg.protv.cc/play/live.php?mac=00:1A:79:AB:96:6B&stream=155728&extension=ts&play_token=SzmtG9P7Qo
-
---------------------------------------------------------------------------------------
-
 #EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/YAALTVLOGO.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", Yaal Tv
 http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
 #EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/GTA-Tamil-Logo.png" group-title="TAMIL HD LOCAL CHANNELS&OTHER  COUNTRY CHANNELS", GTA Tamil TV
@@ -825,12 +784,16 @@ https://cdn.rjdigilink.in/jeysontv/livetv/playlist.m3u8
 
 _____________--------------------------------------------------------------_______________________
 
+#EXTM3U
+
 #EXTINF:-1,tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652844987_acnmusic.png" group-title="TLL MUSIC",ACN Music TV
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 #EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="TLL MUSIC", RAM TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616494049_abm.png" group-title="TLL MUSIC", ABM TV
 http://singamcloud.in/abmtv/abmtv/index.m3u8
+#EXTINF:-1,tvg-logo=  "https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title= "TLL MUSIC",Vmuisk TV
+https://server.iptelevision.in/hls/vmuisk.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671547589_FINAL;.PNG" group-title="TLL MUSIC", Agni TV
 https://live.singamcloud.in/agnitv/agnitv/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="TLL MUSIC",KALAI ISAI 
@@ -957,9 +920,8 @@ https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/play
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjjMaxHd.png?alt=media&token=0c58b222-6cb5-4ee4-b17e-750dc4bb86db" " group-title="TLL MUSIC", JJ Max HD
 http://bmlive.net:8000/appletv/jjmax/bms.m3u8
-
-#EXTM3U
-
+#EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG29693.png" group-title="TLL MUSIC", Srini TV
+http://7starcloud.com:1935/live/srini/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://eyetamil.tv/stream/Live-Streaming-Poster.jpg" group-title="TLL LOCAL HD", Eye Tamil TV
 https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
@@ -979,6 +941,18 @@ http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
 http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWk5PWQ/OSCAR-TV.png" group-title="TLL LOCAL HD", OSCAR TV 
 http://stream.ashokaserver.in/hls/oscartv.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil Plus TV
+https://rasi.iptelevision.in/hls/vanaviltv.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil TN TV
+https://server1.iptelevision.in/vanaviltvtn.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="TLL LOCAL HD",KMD TV
+https://stream6.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/BJ9AD-guLna15UC8QMCD7peFpRIwHWS-gtmDhvrEZ-EuHqV7-sJB_GKDUwI1LE4E5e8=w240-h480-rw" group-title="TLL LOCAL HD",Vedha TV
+https://live1.sscloud7.com/hls/vedhatv.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/molRWS7IdDHX34_-IXORodnxm3SbZewNLS3OuImchXUV8ZM4nPW6huF3HzX1lDG_yqE=w240-h480-rw" group-title="TLL LOCAL HD",Dharshan Kanchi TV
+http://198.144.149.82:8080/NOTV/DHARSANTV/index.m3u8?token=GTR 
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" group-title="TLL LOCAL HD", Tharani TV
+http://indiamatrix.in/tharanitv/tharanitv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/JI-DVNi8xjTF6CFswGZM191UpI6xJz0_19R259nkHyE94BrVB3qCU2zgKUlH10OlVaU=w240-h480-rw" group-title="TLL LOCAL HD", Amn Tv
 https://sscloud7.com/hls/amntv.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1620050127_TamilStar.jpg" group-title="TLL LOCAL HD", Tamil Star TV
@@ -1119,16 +1093,7 @@ http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 http://7starcloud.com:1935/nilatv/livetv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/P9wuarZwGcZLHAlPRPPFgR-FH798KEr2lNNAgD_Jv3yLvTSD50vlW5JciFHPjs-RtVk=w240-h480-rw" group-title="TLL LOCAL HD", Universe TV
 https://account24.livebox.co.in/UNIVERSETVhls/live.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="TLL LOCAL HD",KMD TV 
-http://account2.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil TV 
-https://stream1.playbox.co.in:2000/tunein/vanaviltv/v/m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil Plus TV
-https://sscloud7.com/hls/vanavilpluskarur.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil Musiq TV
-https://murugan.iptelevision.in/hls/vanavilmusiq.m3u8
 
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vZ18yiS9gOenA4opyOQR00F-Zfkf2gYJSVEUPSOPrl8J5JzT1Pl-Wdss0KD2sBlfo08=w240-h480-rw" group-title="TLL Tamil LCO", PHEONIX HD 
 http://server2.phoenixcreations.online:5080/live/streams/phoenixtv.m3u8
@@ -1438,13 +1403,11 @@ http://annaitv.livebox.co.in/annailivehls/live.m3u8
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Suriya TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/suriyatv123_low/index.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" group-title="TLL Tamil LCO", Tharani TV
-http://indiamatrix.in/tharanitv/tharanitv.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL Tamil LCO", Reach TV
 http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
 
 
-#EXTM3U
+
 #EXTINF:0 group-title="TLL cloud tamil" tvg-logo="https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82mICSOxGHtkZkccs0eRa7PqsO0=s180-rw", JAWAHAR TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1518,8 +1481,6 @@ http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MgGKBXK/TVi1.png" group-title="TLL cloud tamil",TVi1
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MgGKBXK/TVi1.png" group-title="TLL cloud tamil",TVi2
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TLL cloud tamil",Maa TV
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
@@ -1545,7 +1506,7 @@ http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
 #EXTINF:-1 group-title="TLL cloud tamil",RASI MUSIC 
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
 
-#EXTM3U
+
 #SriLanka
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: Vasantham TV" tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png" group-title="TLL cloud tamilSL-TAM: Vasantham TV
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
@@ -1634,12 +1595,14 @@ https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
 https://5dd6ead5cf411.streamlock.net/ttnlive/live/playlist.m3u8
 
 #EXTM3U testing
-#EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG29693.png" group-title="TLL TEST", Srini TV
-http://7starcloud.com:1935/live/srini/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="TLL TEST",pallavan_tv
+http://198.144.149.82:8080/NOTV/PALLAVATV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL TEST",KAPPA TV 
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 
 _____________--------------------------------------------------------------_______________________
+
 
 
 _____________--------------------------------------------------------------_______________________

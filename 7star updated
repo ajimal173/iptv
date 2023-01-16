@@ -924,8 +924,8 @@ http://bmlive.net:8000/appletv/jjmax/bms.m3u8
 http://7starcloud.com:1935/live/srini/playlist.m3u8
 
 #EXTM3U
-
-
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD", Kongu TV
+http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://eyetamil.tv/stream/Live-Streaming-Poster.jpg" group-title="TLL LOCAL HD", Eye Tamil TV
 https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616232574_kalaichinema.png" group-title="TLL LOCAL HD", Kalai Cinema Tv
@@ -1440,6 +1440,12 @@ http://bmlive.net:8000/skmedia/karthiktv/bms.m3u8
 http://bmlive.net:8000/VIJAYARUL/ahcomedy/bms.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669969207_aanandsang.jpg" group-title="TLL_Harisofttech", Aananda Sangamam TV
 http://Anantham.7starcloud.com:1935/anantham/live/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/Cp0WGHWp_VQ7YAHmd6nhrw7smFDYGc34cy-4P1GtoEDQVXSyyvZX1QgoLO_n1_Gzr09s=w240-h480-rw" group-title="TLL_Harisofttech",Sharvesh 7 StarTV  
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/3PYgU3hIgngL5RN4xy5ReWye32eYDke-2XghhbFF4SJWH4-z41FNvZXD_fhmYhdgsRc=w240-h480-rw" group-title="TLL_Harisofttech",King TV  
+http://bmlive.net:8000/kingtv/kingtvhd/bms.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/bc6x5HeOLaPSyTrocVmSzVx8XrrsTJgXrrLvyN9NTB0Ma2AwV5SpTXFItwmiKw4Kff4W=w240-h480-rw" group-title="TLL_Harisofttech",SK TV  
+http://hdserver.7starcloud.com:1935/sharvesh/sktv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1597734373_sana.png" group-title="TLL_Harisofttech", Sana TV
 http://7starcloud.com:1935/sanatv/sanatv/platlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670049765_snanplus.png" group-title="TLL_Harisofttech", Sana Plus

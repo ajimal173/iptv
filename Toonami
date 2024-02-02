@@ -1,13 +1,13 @@
 #EXTM3U Toonami .
 
-#EXTINF:-1 tvg-id="ToonamiAftermathWest.us" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="ToonWest",Toonami Aftermath West
+#EXTINF:-1 tvg-id="ToonamiAftermathWest.us" tvg-logo="https://i.imgur.com/aSjhZK7.png",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ToonamiAftermathEast.us" tvg-logo="https://imgur.com/BBxuA9d.png" group-title="ToonEast",Toonami Aftermath East
+#EXTINF:-1 tvg-id="ToonamiAftermathEast.us" tvg-logo="https://imgur.com/BBxuA9d.png",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ToonamiAftermathMovie.us" tvg-logo="https://i.imgur.com/BBxuA9d.png" group-title="ToonMov",Toonami Aftermath Movie
+#EXTINF:-1 tvg-id="ToonamiAftermathMovie.us" tvg-logo="https://i.imgur.com/BBxuA9d.png",Toonami Aftermath Movie
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ToonamiAftermathRadio.us" tvg-logo="https://i.imgur.com/BBxuA9d.png" group-title="ToonRadio",Toonami Aftermath Radio
+#EXTINF:-1 tvg-id="ToonamiAftermathRadio.us" tvg-logo="https://i.imgur.com/BBxuA9d.png" ,Toonami Aftermath Radio
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8

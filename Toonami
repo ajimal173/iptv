@@ -11,3 +11,6 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ToonamiAftermathRadio.us" tvg-logo="https://i.imgur.com/BBxuA9d.png" ,Toonami Aftermath Radio
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png",locomotiontv
+http://85.239.54.197:81/live/loco_hi/index.m3u8

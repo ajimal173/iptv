@@ -38,3 +38,6 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX" tvg-logo="",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="rakuten" tvg-logo="",rakuten
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8

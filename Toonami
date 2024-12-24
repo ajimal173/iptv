@@ -44,3 +44,85 @@ https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rakuten movie" tvg-logo="",rakuten movie
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+
+----------------------------
+
+#EXTINF:-1 tvg-id="Star Movies  HD" tvg-logo="",Star Movies  HD
+http://livetvbox.live:8080/live/19781978/19781978/218.ts
+
+#EXTINF:-1 tvg-id="Star Movies Select" tvg-logo="",Star Movies Select
+http://livetvbox.live:8080/live/19781978/19781978/979.ts
+
+#EXTINF:-1 tvg-id="STAR VIJAY" tvg-logo="",STAR VIJAY
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72120.ts
+
+#EXTINF:-1 tvg-id="Zee Thirai HD" tvg-logo="",Zee Thirai HD
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510441.ts
+
+#EXTINF:-1 tvg-id="Zee Tamil HD" tvg-logo="",Zee Tamil HD
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510445.ts
+
+#EXTINF:-1 tvg-id="NG airtel" tvg-logo="",NG airtel 
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/34729.ts
+
+#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="",&Prive HD
+http://livetvbox.live:8080/live/19781978/19781978/191.ts
+
+#EXTINF:-1 tvg-id="Cinebox" tvg-logo="",Cinebox 
+http://cord-cutter.net:8080/live/95549031/69361122/119437.ts
+
+#EXTINF:-1 tvg-id="CINEMA" tvg-logo="",CINEMA 
+http://portal.skytv4k.org:8080/live/rIH8RnqlWk/yWvV7sF5if/118686.ts
+
+#EXTINF:-1 tvg-id="Cinema Horror thriller" tvg-logo="",Cinema Horror thriller
+http://portal.skytv4k.org:8080/live/rIH8RnqlWk/yWvV7sF5if/118697.ts
+
+
+#EXTINF:-1 tvg-id="Animation" tvg-logo="",Animation 
+http://portal.skytv4k.org:8080/live/rIH8RnqlWk/yWvV7sF5if/118695.ts
+
+#EXTINF:-1 tvg-id="Chutti" tvg-logo="",Chutti 
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510451.ts
+
+#EXTINF:-1 tvg-id="Jackie Chan Movies" tvg-logo="",Jackie Chan Movies
+http://fortv.cc:8080/live/70453597/56651433/215378.ts
+
+#EXTINF:-1 tvg-id="Vijay Super HD" tvg-logo="",Vijay Super HD
+http://livetvbox.live:8080/live/19781978/19781978/1614.ts
+
+#EXTINF:-1 tvg-id="Chitram" tvg-logo="",Chitram
+http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=4898&deviceMac=00:1A:79:4D:0B:67
+
+#EXTINF:-1 tvg-id="Mega" tvg-logo="",Mega 
+https://rolextv.asia:443/live/12345/54321/58752.ts
+
+#EXTINF:-1 tvg-id="Kalaignar" tvg-logo="",Kalaignar 
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2791.ts
+
+#EXTINF:-1 tvg-id="Sun tv" tvg-logo="",Sun tv 
+http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+
+#EXTINF:-1 tvg-id="Star Vijay FHD " tvg-logo="",Star Vijay FHD 
+http://tv.indigotv.me/live.ts?channelId=132400&uid=7245&deviceMac=00:1A:79:4A:02:91
+
+#EXTINF:-1 tvg-id="Sun music" tvg-logo="",Sun music 
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=4898&deviceMac=00:1A:79:4D:0B:67
+
+#EXTINF:-1 tvg-id="Colors Tamil" tvg-logo="",Colors Tamil 
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
+
+#EXTINF:-1 tvg-id="Polimer" tvg-logo="",Polimer 
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/510440.ts
+
+#EXTINF:-1 tvg-id="Vijay tukker" tvg-logo="",Vijay tukker 
+https://rolextv.asia:443/12345/54321/112097
+
+#EXTINF:-1 tvg-id="Raj Digital Plus SD" tvg-logo="",Raj Digital Plus SD
+http://tv.indigotv.me/live.ts?channelId=43415&uid=7245&deviceMac=00:1A:79:4A:02:91
+
+#EXTINF:-1 tvg-id="Raj" tvg-logo="",Raj 
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=3623&deviceMac=00:1A:79:03:ED:4F
+
+#EXTINF:-1 tvg-id="Vasanth" tvg-logo="",Vasanth 
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72127.ts

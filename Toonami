@@ -65,7 +65,7 @@ http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510445.ts
 #EXTINF:-1 tvg-id="NG airtel" tvg-logo="",NG airtel 
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/34729.ts
 
-#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="",&Prive HD
+#EXTINF:-1 tvg-id="MNX HD" tvg-logo="",MNX HD
 http://livetvbox.live:8080/live/19781978/19781978/191.ts
 
 #EXTINF:-1 tvg-id="Cinebox" tvg-logo="",Cinebox 

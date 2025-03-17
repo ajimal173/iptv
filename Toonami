@@ -126,3 +126,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=3623&deviceMac=00:1A:79:03:
 
 #EXTINF:-1 tvg-id="Vasanth" tvg-logo="",Vasanth 
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72127.ts
+
+#EXTINF:-1 tvg-id=",Rock Action" tvg-logo="",Rock Action
+http://playid-stream.zapto.org:9092/memfs/5279811f-bba1-419b-862a-997348068e99.m3u8

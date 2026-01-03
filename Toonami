@@ -49,3 +49,6 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id=",Rock Action" tvg-logo="",Rock Action
 http://playid-stream.zapto.org:9092/memfs/5279811f-bba1-419b-862a-997348068e99.m3u8
+
+#EXTINF:-1 tvg-id="SenatoTV.it@SD",Senato TV (1080p)
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8

@@ -13,25 +13,7 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png",locomotiontv
-http://85.239.54.197:81/live/loco_hi/index.m3u8
-
-#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="",Disney Jr
-http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="",Nickelodeon
-https://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-
-#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="",Nick Jr
-http://212.102.60.231/NICK_JR/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="",HBO
-http://212.102.60.231/HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="",HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="",Lifetime
-http://212.102.60.231/LIFETIME/index.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="",FX
 http://fl2.moveonjoy.com/FX/index.m3u8

@@ -1,3 +1,9 @@
+#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies
+
+
+ group-title="RasiTV"
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="TAMIL",7S Music (576p)
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
@@ -617,25 +623,25 @@ https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
 https://app.ashokadigital.net/app/9346e98d/index.m3u8
 #EXTINF:-1 tvg-id="TamilStarTV" tvg-logo="https://yt3.googleusercontent.com/5jWU9n12RzHy-xHpVUbCAQEbqjJJ75nUsfvtHYA5Syg4XF6c2FwLcR3_I35Du_0mzU7edCS4wA=s900-c-k-c0x00ffffff-no-rj" tvg-region="Salem" group-title="TAMIL",Tamil Star TV
 http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386440_RASI%20TV%20logo%20HD.png" tvg-region="State-wide" group-title="TAMIL",Rasi TV
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386440_RASI%20TV%20logo%20HD.png" tvg-region="State-wide" group-title="TAMIL",Rasi TV
 https://rasinetworks.in/live/rasitvhd/index.mpd
-#EXTINF:-1 tvg-id="RasiTamil" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386498_RASI%20TAMIL%20%20LOGO%20HD.png" tvg-region="State-wide" group-title="TAMIL",Rasi Tamil
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiTamil" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386498_RASI%20TAMIL%20%20LOGO%20HD.png" tvg-region="State-wide" group-title="TAMIL",Rasi Tamil
 https://rasinetworks.in/live/rasitamilhd/index.mpd
-#EXTINF:-1 tvg-id="RasiMovies" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386556_RASI%20MOVIES%20LOGO%20HD.png" tvg-region="State-wide" group-title="TAMIL",Rasi Movies
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiMovies" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386556_RASI%20MOVIES%20LOGO%20HD.png" tvg-region="State-wide" group-title="TAMIL",Rasi Movies
 https://rasinetworks.in/live/rasimovieshd/index.mpd
-#EXTINF:-1 tvg-id="RasiMusic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386594_RASI%20MUSIC%20LOGO%20HD.png" tvg-region="State-wide" group-title="TAMIL",Rasi Music
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiMusic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386594_RASI%20MUSIC%20LOGO%20HD.png" tvg-region="State-wide" group-title="TAMIL",Rasi Music
 https://rasinetworks.in/live/rasimusichd/index.mpd
-#EXTINF:-1 tvg-id="RasiHollywood" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386628_Rasi%20Hollywood.png" tvg-region="State-wide" group-title="TAMIL",Rasi Hollywood
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiHollywood" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386628_Rasi%20Hollywood.png" tvg-region="State-wide" group-title="TAMIL",Rasi Hollywood
 https://rasinetworks.in/live/rasihollywoodhd/index.mpd
-#EXTINF:-1 tvg-id="RasiComedy" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386692_Rasi%20Comedy%20copy.png" tvg-region="State-wide" group-title="TAMIL",Rasi Comedy
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiComedy" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386692_Rasi%20Comedy%20copy.png" tvg-region="State-wide" group-title="TAMIL",Rasi Comedy
 https://rasinetworks.in/live/rasicomedyhd/index.mpd
-#EXTINF:-1 tvg-id="RasiClassic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386659_Rasi%20Classic%20HD-2%20(1).png" tvg-region="State-wide" group-title="TAMIL",Rasi Classic
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiClassic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742386659_Rasi%20Classic%20HD-2%20(1).png" tvg-region="State-wide" group-title="TAMIL",Rasi Classic
 https://rasinetworks.in/live/rasiclassichd/index.mpd
-#EXTINF:-1 tvg-id="RasiCinema" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RasiCinema.png" tvg-region="State-wide" group-title="TAMIL",Rasi Cinema
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiCinema" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RasiCinema.png" tvg-region="State-wide" group-title="TAMIL",Rasi Cinema
 https://rasinetworks.in/live/rasicinemahd/index.mpd
-#EXTINF:-1 tvg-id="RasiCinemax" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RasiCinemax.png" tvg-region="State-wide" group-title="TAMIL",Rasi Cinemax
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiCinemax" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RasiCinemax.png" tvg-region="State-wide" group-title="TAMIL",Rasi Cinemax
 https://rasinetworks.in/live/rasicinemaxhd/index.mpd
-#EXTINF:-1 tvg-id="RasiLifestyle" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RasiLifestyle.png" tvg-region="State-wide" group-title="TAMIL",Rasi Lifestyle
+#EXTINF:-1 group-title="RasiTV" tvg-id="RasiLifestyle" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RasiLifestyle.png" tvg-region="State-wide" group-title="TAMIL",Rasi Lifestyle
 https://rasinetworks.in/live/rasilifestylehd/index.mpd
 #EXTINF:-1 tvg-id="SanthiyaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533803_saN.png" tvg-region="Kumbakonam" group-title="TAMIL",Santhiya TV
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8

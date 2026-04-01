@@ -17,23 +17,3 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="locomotiontv.com" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png",locomotiontv1
 http://146.19.49.197:81/live/loco_hi/index.m3u8
-
-#EXTINF:-1 tvg-id="FX" tvg-logo="",FX
-http://fl2.moveonjoy.com/FX/index.m3u8
-
-#EXTINF:-1 tvg-id="FXX" tvg-logo="",FXX
-http://fl2.moveonjoy.com/FXX/index.m3u8
-
-#EXTINF:-1 tvg-id="rakuten" tvg-logo="",rakuten
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rakuten movie" tvg-logo="",rakuten movie
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-
-----------------------------
-
-#EXTINF:-1 tvg-id=",Rock Action" tvg-logo="",Rock Action
-http://playid-stream.zapto.org:9092/memfs/5279811f-bba1-419b-862a-997348068e99.m3u8
-
-#EXTINF:-1 tvg-id="SenatoTV.it@SD",Senato TV (1080p)
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
